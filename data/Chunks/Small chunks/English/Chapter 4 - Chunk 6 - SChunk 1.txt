@@ -1,0 +1,1 @@
+ASCII values also represent control functions like SHIFT, CTRL, cursor movement, special characters, and symbols. The Apple II systems recognize 128 such ASCII code values.

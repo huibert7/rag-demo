@@ -1,0 +1,1 @@
+This is a fairly simple procedure on the Apple IIc, because the power supply is external to the system. First, disconnect and remove the power supply and swap it with one from another IIc system. If the other system fails to power up, then buying and installing a new Apple IIc power supply will solve the problem.

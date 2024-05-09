@@ -1,0 +1,1 @@
+If after pressing a character key, its character does not display on the screen, then that key might have a problem. If you press a function key, but it does not perform its specified function, that key might be defective as well. For one of several reasons, the key's ASCII code is not getting to the CPU for processing.

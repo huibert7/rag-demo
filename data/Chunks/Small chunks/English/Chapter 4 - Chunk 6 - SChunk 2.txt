@@ -1,0 +1,1 @@
+Directly related to the ASCII code is the character string value, or CHR$ code. The CHR$ code value is often used in BASIC programs to access a particular symbol or function that is not directly accessible from the keyboard. For exam­ple, on the Apple II, the BASIC command PRINT CHR$(61) displays the lowercase "a".

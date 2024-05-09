@@ -1,0 +1,1 @@
+If, after pressing the keys on the keyboard nothing displays on the screen, then the keyboard is not making contact with the CPU. The character signals are not being processed by the CPU to be displayed on the screen.
