@@ -1,0 +1,1 @@
+En este capítulo se utilizan los términos disco, disquete, unidad de disco y unidad. Disco es el término general para el disquete en el que se escriben los datos. Disquete también se refiere al floppy que se inserta en la unidad de disquete. Unidad de disco y disco son términos genéricos para la unidad de disquete.

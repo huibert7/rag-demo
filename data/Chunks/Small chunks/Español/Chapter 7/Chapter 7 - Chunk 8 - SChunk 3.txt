@@ -1,0 +1,1 @@
+Una unidad de disco interna y un controlador son estándar en el Apple IIc. La unidad de disco está integrada en la unidad del sistema IIc y el controlador de la unidad de disco consta de un solo chip en la tarjeta madre base. En la parte posterior de la unidad del sistema IIc se encuentra un conector para una segunda unidad externa.

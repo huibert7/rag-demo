@@ -1,0 +1,1 @@
+La unidad de disco consta de tres componentes básicos. Disquete o Floppy. Controlador de unidad de disco. Mecanismo de la unidad de disco

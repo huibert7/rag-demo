@@ -1,0 +1,1 @@
+Cada controlador de unidad de disco tiene conectores para dos unidades de disco. Esto significa que por cada controlador de unidad de disco que contiene el sistema, puede controlar dos unidades, designadas como D1 y D2. Un sistema Apple II puede admitir un máximo de tres controladores de unidades de disco para un total de seis unidades de disco.

@@ -1,0 +1,1 @@
+La unidad de disco Apple II puede almacenar 143 kilobytes de datos en un disquete (o floppy). Es una unidad de disco externa, lo que significa que reside en su propia carcasa externa a la unidad del sistema y tiene su propia fuente de alimentación.

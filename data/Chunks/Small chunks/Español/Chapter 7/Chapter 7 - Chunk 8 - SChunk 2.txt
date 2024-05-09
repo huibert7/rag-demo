@@ -1,0 +1,1 @@
+La unidad de disco se conecta a la unidad del sistema informático y se opera mediante el controlador de interfaz de disco. La unidad de disco y el controlador son opcionales en II Plus y IIe. La unidad de disco es externa y, convencionalmente, su tarjeta controladora se instala en la ranura de expansión n.º 6 de la tarjeta madre.

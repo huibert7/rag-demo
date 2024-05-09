@@ -1,0 +1,1 @@
+El conjunto de cabezal-brazo localiza, lee y escribe datos hacia y desde el disco de acuerdo con las instrucciones provenientes del controlador de la unidad de disco.

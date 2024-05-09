@@ -1,0 +1,1 @@
+El controlador de la unidad de disco le indica a la unidad de disco cuándo y cómo leer y escribir información, según lo indicado por la CPU y los comandos de software.

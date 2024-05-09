@@ -1,0 +1,1 @@
+El medio magnético utilizado por los sistemas Apple II es el disquete de doble densidad y una sola cara de 5 1/4 pulgadas. El sistema Apple II puede escribir 143 kilobytes de datos en este disquete.

@@ -1,0 +1,1 @@
+Del mismo modo, cuando ordena a la computadora que recupere un archivo guardado, el sistema recupera la información almacenada en el disquete. Lo coloca en la memoria del sistema tal como estaba la última vez que se guardó. La unidad de disco también le permite comprar programas pregrabados y cargarlos en su sistema.

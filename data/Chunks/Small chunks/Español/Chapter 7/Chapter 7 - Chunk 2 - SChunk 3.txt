@@ -1,0 +1,1 @@
+Guardar y recuperar archivos señala las dos funciones de almacenamiento que proporciona la unidad de disquete: grabar o escribir información de la computadora en el disquete; y reproducir o leer información del disquete en la memoria del ordenador.

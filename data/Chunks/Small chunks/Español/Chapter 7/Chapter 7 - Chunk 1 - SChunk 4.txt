@@ -1,0 +1,1 @@
+Además, la mayoría de los microordenadores, incluidos los sistemas Apple II, tienen memoria volátil. Esto significa que para que los chips de memoria de acceso aleatorio (RAM) retengan sus datos, se debe suministrar energía continuamente a sus circuitos. Una vez que se apaga la computadora, ahora se borra todo lo que estaba almacenado en esos 48, 64 o 128 kB.

@@ -1,0 +1,1 @@
+La unidad de disco también puede almacenar los datos con los que operan estos programas: los números y los datos de las tablas en una hoja de cálculo, los datos de campos y registros en una base de datos y las palabras en un archivo de procesamiento de textos.

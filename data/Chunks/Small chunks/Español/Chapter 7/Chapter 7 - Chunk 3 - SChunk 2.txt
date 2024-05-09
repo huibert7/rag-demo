@@ -1,0 +1,1 @@
+Una unidad de disco proporciona un medio para el almacenamiento y recuperación de programas y datos a alta velocidad y, como tal, es uno de los dispositivos periféricos más útiles para el Apple II. El software de hojas de cálculo, los programas de bases de datos y las aplicaciones de procesamiento de textos se pueden almacenar y acceder rápidamente mediante una unidad de disco
