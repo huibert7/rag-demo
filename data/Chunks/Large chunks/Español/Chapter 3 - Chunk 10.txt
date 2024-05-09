@@ -1,0 +1,1 @@
+Además, tanto el Apple II Plus como el IIe incluyen ocho ranuras de expansión para otras tarjetas controladoras de periféricos opcionales. Entre las tarjetas opcionales están el controlador de la unidad de disco o una tarjeta de interfaz de comunicación serie que permitiría el uso de una impresora o un módem a través del puerto de comunicación serie.
