@@ -1,0 +1,1 @@
+Siga las instrucciones que vienen con el kit de limpieza. Esto consistirá en insertar el disquete de limpieza en la disquetera, e ingresar un comando que haga que el disquete gire. De esta manera, los cabezales de lectura/escritura se limpian rápidamente.

@@ -1,0 +1,1 @@
+Debido a que el teclado y la unidad del sistema están incluidos en la misma carcasa, cualquier líquido que se derrame en el teclado podría filtrarse en la unidad del sistema, causando problemas mucho más graves, como cortocircuitos en los componentes del sistema y daños permanentes.

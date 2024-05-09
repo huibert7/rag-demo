@@ -1,0 +1,1 @@
+Los siguientes procedimientos de mantenimiento preventivo son aplicables al sistema en su conjunto. Se tratan procedimientos más detallados sobre subsistemas individuales en la sección "Mantenimiento preventivo" que se encuentra en cada capítulo de subsistema.
