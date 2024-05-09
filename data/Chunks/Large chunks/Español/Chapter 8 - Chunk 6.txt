@@ -1,0 +1,1 @@
+Dispositivos con los que se puede conectar su Apple II a través de un interfaz de comunicación en serie. La interfaz de comunicación serie del Apple II se utiliza para comunicarse con dispositivos como el módem, la impresora u otra computadora.
