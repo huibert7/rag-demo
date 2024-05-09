@@ -1,0 +1,1 @@
+The dot-matrix printer uses the same method for building characters to print letters on paper. In the printer there is a single print head with an array of small wires. When a character is sent to the printer, these print head wires punch out the shape of the character through the ink ribbon to create its impression on the paper.

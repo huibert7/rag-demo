@@ -1,0 +1,1 @@
+If a character on the monitor screen were to be magnified, you would see that instead of being made up of solid lines, the character is in fact composed of a series of dots created with light. Each character is typically com­posed of seven or more dots. The series of dots used to build characters is called a dot matrix.

@@ -1,0 +1,1 @@
+A printer motor spins the daisy wheel around until the desired character spins into position, at which point the print hammer strikes the character against the ink ribbon to form the character on paper. It works on a principle similar to the typewriter, although much faster.

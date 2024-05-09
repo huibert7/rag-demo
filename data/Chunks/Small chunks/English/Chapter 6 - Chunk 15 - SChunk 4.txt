@@ -1,0 +1,1 @@
+Certain option switch settings within the printer might make it impossible to print. These switch settings control parameters such as baud rate and word length. Refer to the printer documentation for more information about these internal switch settings. For more information about terms such as baud rate and word length, refer to Chapter 8, "The Serial Communication Interface."

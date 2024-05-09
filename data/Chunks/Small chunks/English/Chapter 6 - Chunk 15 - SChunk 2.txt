@@ -1,0 +1,1 @@
+The driver is activated by a printer installation program provided with your application software. This special utility program prompts you to enter the make of printer being used so that the output to the printer is produced correctly. It also ensures that any special printing functions such as boldface and italic can be used.

@@ -1,0 +1,1 @@
+First check that the printer is on. The printer has a power indicator light on the top or front of the chassis. If the printer's ON/OFF switch is in the ON position, but the indicator is not lit, make sure the printer is properly plugged in.

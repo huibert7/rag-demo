@@ -1,0 +1,1 @@
+While dot-matrix printers can run at speeds of 30 to 200+ cps, letter-quality printers run at much slower speeds of 10 to 25+ cps. This is because the print head mechanism must position the wheel or thimble at the correct character and then energize a solenoid - a much longer process than staying in one location to form characters out of a series of dots.

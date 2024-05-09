@@ -1,0 +1,1 @@
+Check the cabling. Make sure the right kind of cable is being used for the printer, and that it is inserted into the proper receptacles, both at the printer and at the computer. Ensure that the connectors are sufficiently secured and tightened down between the printer and the printer interface port on the system unit.
