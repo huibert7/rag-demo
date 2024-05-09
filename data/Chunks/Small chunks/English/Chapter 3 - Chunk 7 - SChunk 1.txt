@@ -1,0 +1,1 @@
+However, the memory of the RAM chips is volatile. Volatile means that when power is removed from the computer, all programs and data stored in RAM are cleared.

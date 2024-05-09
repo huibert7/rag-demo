@@ -1,0 +1,1 @@
+No expansion slots are necessary, since the IIe motherboard includes all necessary controller circuits as standard equipment.

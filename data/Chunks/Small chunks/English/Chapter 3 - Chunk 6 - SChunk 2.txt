@@ -1,0 +1,1 @@
+General-purpose system memory, performed by the ran­dom-access memory (RAM) chips, stores the currently active program and the data being processed.

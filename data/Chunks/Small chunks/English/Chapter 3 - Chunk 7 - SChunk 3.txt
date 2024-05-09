@@ -1,0 +1,1 @@
+RAM is used as tempo­rary storage for programs and data while the system is powered-on.

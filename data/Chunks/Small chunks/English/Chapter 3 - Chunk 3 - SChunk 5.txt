@@ -1,0 +1,1 @@
+The memory chips perform system data storage functions.

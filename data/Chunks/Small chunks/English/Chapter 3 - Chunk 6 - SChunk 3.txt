@@ -1,0 +1,1 @@
+Several RAM chips are provided on the motherboard. Computer data is read, written, and measured by a series of ON and OFF bits: 1s and Os. Eight of these ON and OFF bits constitute an Apple byte, also known as a data word or character.
