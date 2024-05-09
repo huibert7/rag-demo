@@ -1,0 +1,1 @@
+Begin considering the development of a diagnostic module for the new peri­pheral as soon as you have acquired a degree of familiarity with it. After this new device becomes an integral part of your permanent system, and not just a new toy, then it is time that its own diagnostic should be developed. The diagnostic must be developed before a malfunction occurs.

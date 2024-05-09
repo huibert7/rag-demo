@@ -1,0 +1,1 @@
+It is important to be able to isolate and identify the source of any problem in your Apple II system. The Apple II System Diagnostic Program provides the means for locating problems in your system unit, keyboard, monitor, printer, disk drives, or serial communication interface. Based on the results, you can then make repairs on the indicated subsystem.

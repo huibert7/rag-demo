@@ -1,0 +1,1 @@
+Professional software developed in a corporate environment, can have a devel­opment cycle lasting from three months to two years. However, a module con­sisting of simple diagnostic routines might only take a few days.

@@ -1,0 +1,1 @@
+The process of developing a program includes the following phases: Needs analysis. System design. Program analysis (flowcharting). Program preparation (coding). Module testing. Integration. Integrated program testing.

@@ -1,0 +1,1 @@
+If you are not familiar with BASIC, refer to Chapter2, "The System Diagnostic Program." That chapter briefly describes the Applesoft BASIC commands used throughout the System Diagnostic Program. It also points out other resources for learning and using BASIC in more depth.

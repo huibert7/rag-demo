@@ -1,0 +1,1 @@
+First determine the tasks your program has to accomplish. Then decide what needs to be displayed on the screen. Work backwards from these objectives and determine how to complete these tasks through a program, within the constraints of BASIC commands, syntax, and formats.

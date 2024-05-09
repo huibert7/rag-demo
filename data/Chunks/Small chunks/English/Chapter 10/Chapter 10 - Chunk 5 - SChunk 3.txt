@@ -1,0 +1,1 @@
+These require­ments must be clearly defined well before any coding begins. Performing a needs analysis for a new device diagnostic module consists of: Reading the device documentation. Working with the device itself. Determining potential device problems.

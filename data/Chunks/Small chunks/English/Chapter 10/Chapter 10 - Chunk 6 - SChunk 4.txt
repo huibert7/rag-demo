@@ -1,0 +1,1 @@
+The manual also covers the integration of the device with other system components and software. Suggestions are provided on existing hardware and software setup in order for the new device to work properly and efficiently.

@@ -1,0 +1,1 @@
+The documentation first covers unpacking and installation instructions, which should be followed carefully to minimize potential problems. Then the manual describes operation, the various functions and special features, and gives examples of applications and capabilities. Procedures for various options and settings are provided as necessary
