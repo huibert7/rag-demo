@@ -1,0 +1,1 @@
+Si los resultados de la computadora indican que sí, el programa se bifurca en una dirección. Si los resultados indican un no, el programa se bifurca en otra dirección.

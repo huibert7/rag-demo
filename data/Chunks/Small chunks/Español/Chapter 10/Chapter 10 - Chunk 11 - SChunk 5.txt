@@ -1,0 +1,1 @@
+Cada prueba se considera un submódulo del programa de diagnóstico del dispositivo, que a su vez eventualmente se convertirá en un módulo del Programa de diagnóstico del sistema Apple II.

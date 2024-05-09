@@ -1,0 +1,1 @@
+Es la implementación del diagrama de flujo del sistema. Mientras que el diagrama de flujo del sistema enumera las tareas necesarias para lograr un objetivo deseado, el diagrama de flujo del programa muestra específicamente cómo se completarán estas tareas en el programa.

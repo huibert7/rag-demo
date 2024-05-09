@@ -1,0 +1,1 @@
+La fase de análisis del programa le permite diseñar el programa real, teniendo en cuenta la lógica y el flujo generales del programa. El análisis del programa se realiza con una ayuda gráfica llamada diagrama de flujo.

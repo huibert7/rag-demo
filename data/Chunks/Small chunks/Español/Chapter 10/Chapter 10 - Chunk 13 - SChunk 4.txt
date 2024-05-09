@@ -1,0 +1,1 @@
+Se usan flechas para conectar los diversos símbolos del diagrama de flujo. Estas flechas indican la dirección (o cualquier cambio de dirección) en la que fluirá un programa o segmento de un programa.

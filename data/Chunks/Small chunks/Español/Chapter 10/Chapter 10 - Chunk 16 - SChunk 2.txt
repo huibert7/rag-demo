@@ -1,0 +1,1 @@
+Aunque el diagrama de flujo del programa generalmente no utiliza los comandos BASIC, el nombre del comando BASIC podría incluirse en un cuadro de diagrama de flujo determinado. Si lo desea, incluya el comando BASIC pertinente en el cuadro del diagrama de flujo al que se aplica. Este nivel adicional de detalle puede ayudar más adelante a la hora de codificar.

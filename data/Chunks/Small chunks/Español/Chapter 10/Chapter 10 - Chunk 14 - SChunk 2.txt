@@ -1,0 +1,1 @@
+La creación del diagrama de flujo del sistema es la primera etapa de análisis del programa. El diagrama de flujo del sistema expresa las ideas fundamentales del programa. En este diagrama se resume el orden general en el que fluirá el programa para lograr los resultados deseados.

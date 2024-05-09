@@ -1,0 +1,1 @@
+Haga que el diagrama de flujo del programa sea lo más detallado posible. Cuanto más detallado sea el diagrama de flujo, más fácil será la codificación. El objetivo es establecer el flujo y la lógica del programa hasta el punto en que el programa pueda escribirse fácilmente.

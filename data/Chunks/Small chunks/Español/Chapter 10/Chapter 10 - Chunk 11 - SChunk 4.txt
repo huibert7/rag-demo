@@ -1,0 +1,1 @@
+Escriba un diagrama de flujo separado para cada prueba identificada en la tabla de diseño del sistema.

@@ -1,0 +1,1 @@
+El diagrama de flujo del programa es una imagen detallada que representa el proceso o flujo de pasos que se deben realizar dentro de la computadora para producir los resultados deseados. El diagrama de flujo proporciona la hoja de ruta que servirá de guía al escribir el código del programa.

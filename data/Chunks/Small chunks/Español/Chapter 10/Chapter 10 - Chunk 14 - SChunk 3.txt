@@ -1,0 +1,1 @@
+El diagrama de flujo del sistema también enumera las funciones intermedias a realizar. Esta técnica le permite pensar en el programa como un todo sin preocuparse por detalles más específicos, como dónde deben ocurrir los bucles y las ramas.

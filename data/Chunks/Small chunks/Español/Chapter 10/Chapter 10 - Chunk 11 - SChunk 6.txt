@@ -1,0 +1,1 @@
+El análisis de programas en realidad consiste en crear dos diagramas de flujo diferentes: el diagrama de flujo del sistema, una descripción general de lo que va a hacer el programa escrito en español sencillo, y el diagrama de flujo del programa, que es el puente entre el español sencillo y el BASIC, que indica el flujo y la estructura del programa.

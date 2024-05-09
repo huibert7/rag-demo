@@ -1,0 +1,1 @@
+Aunque existen numerosos símbolos de diagramas de flujo, sólo se necesitan cinco para trazar un programa de diagnóstico de dispositivo. Como se muestra, estos símbolos son: Terminal. Entrada/Salida. Procesamiento. Decisión. Conector.

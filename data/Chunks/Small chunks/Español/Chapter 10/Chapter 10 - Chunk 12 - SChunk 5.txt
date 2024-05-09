@@ -1,0 +1,1 @@
+El rectángulo representa operaciones de procesamiento por computadora. Las instrucciones aritméticas y de movimiento de datos son típicas de los tipos de pasos incluidos en este tipo de operaciones.

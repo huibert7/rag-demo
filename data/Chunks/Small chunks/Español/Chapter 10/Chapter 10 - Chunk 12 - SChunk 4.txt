@@ -1,0 +1,1 @@
+El símbolo con forma de paralelogramo representa cualquier función de E/S. Esto puede incluir datos de entrada que se leerán del teclado e información de salida que se mostrará en la pantalla o se enviará a la impresora.

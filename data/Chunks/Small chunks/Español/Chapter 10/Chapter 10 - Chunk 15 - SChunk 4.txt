@@ -1,0 +1,1 @@
+Si su diseño del módulo de diagnóstico del dispositivo incluye más de una prueba, probablemente tendrá varios diagramas de flujo del sistema, que representan cada una de las pruebas del submódulo. Cree un diagrama de flujo de programa separado para cada uno de los diagramas de flujo del sistema.

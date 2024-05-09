@@ -1,0 +1,1 @@
+El diagrama de flujo del programa se basa en el diagrama de flujo del sistema, pero es mucho más detallado. Siguiendo el orden y la lista de tareas detalladas en el diagrama de flujo del sistema, el diagrama de flujo del programa en realidad muestra las entradas, ramas, decisiones, bucles y otros detalles estructurales del programa.

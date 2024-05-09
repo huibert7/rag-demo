@@ -1,0 +1,1 @@
+Cuando todos estos estén completos, conecte todos los diagramas de flujo en el orden requerido para crear un diagrama de flujo para todo el módulo de diagnóstico del dispositivo.

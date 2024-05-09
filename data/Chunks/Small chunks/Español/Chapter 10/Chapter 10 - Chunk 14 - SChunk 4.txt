@@ -1,0 +1,1 @@
+Un ejemplo de un diagrama de flujo del sistema para un segmento de programa simple que solicita a los usuarios que ingresen su nombre y luego los saluda por su nombre.

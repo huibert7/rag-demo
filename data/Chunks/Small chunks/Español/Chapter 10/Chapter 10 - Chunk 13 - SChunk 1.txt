@@ -1,0 +1,1 @@
+El símbolo en forma de rombo representa un lugar dentro del programa en el que la computadora debe tomar una decisión basada en operaciones lógicas/de comparación, las cuales son ealizadas por la computadora. Las rutas de salida del símbolo de decisión suelen estar determinadas por una respuesta de sí o no a una declaración condicional escrita en forma de pregunta.
