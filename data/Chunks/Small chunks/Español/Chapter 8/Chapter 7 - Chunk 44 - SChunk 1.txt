@@ -1,1 +1,0 @@
-Si el diagnóstico encuentra una mayor cantidad de errores, entonces tiene un problema en el circuito de lectura/escritura en el controlador de la unidad. Consulte "Problema: No coinciden los datos: el circuito de lectura/escritura está defectuoso" más arriba para obtener sugerencias sobre cómo corregir este problema.
