@@ -1,1 +1,0 @@
-Ejecución del módulo de diagnóstico de la unidad de disco.
