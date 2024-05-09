@@ -1,0 +1,1 @@
+El módulo de diagnóstico de la unidad de disco prueba y ejercita las dos funciones principales de la unidad de disco: leer y escribir en el disquete. Las líneas 2500 a 3100 contienen esta prueba de unidad de disco.

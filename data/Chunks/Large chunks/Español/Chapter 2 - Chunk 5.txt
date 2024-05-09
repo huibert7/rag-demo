@@ -1,0 +1,1 @@
+El tercer módulo es el módulo de diagnóstico del monitor, que consta de cinco pruebas diferentes que se encuentran entre las líneas 350 a 1120.
