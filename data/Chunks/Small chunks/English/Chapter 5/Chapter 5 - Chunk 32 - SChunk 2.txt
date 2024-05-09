@@ -1,0 +1,1 @@
+To test display page scrolling, press 4 from the Monitor Diagnostic Menu. The Scroll Test prompts for the number of repetitions for the test. If you enter a number less than 35 , the program defaults to scrolling 35 lines. The test displays the same line for the specified number of repetitions in a sliding character set display on the screen.

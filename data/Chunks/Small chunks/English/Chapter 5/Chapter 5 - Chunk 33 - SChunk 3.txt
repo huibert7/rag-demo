@@ -1,0 +1,1 @@
+If there are any locations that are not filled with one of the blocks, then there is a video memory problem. Also, if the selected color is not correctly represented on the screen, then there is a color adjustment problem. Leave this test displayed on the screen, make the necessary adjustments, and view all the colors until they're displaying correctly.

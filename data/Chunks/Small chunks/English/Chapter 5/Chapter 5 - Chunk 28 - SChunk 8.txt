@@ -1,0 +1,1 @@
+Use the tuning wand to adjust this resistor in small increments until you see satisfactory colors on the screen display.

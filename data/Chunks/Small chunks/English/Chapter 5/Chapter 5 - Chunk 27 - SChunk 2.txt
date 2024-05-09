@@ -1,0 +1,1 @@
+When using a color monitor (either a color television or a high-resolution color monitor), another possible problem is that no colors display at all, or that the colors display the incorrect tones. Check the colors with the Low-Resolution Color Test of the Monitor Diagnostic module, as well as the High-Resolution Color Test program.

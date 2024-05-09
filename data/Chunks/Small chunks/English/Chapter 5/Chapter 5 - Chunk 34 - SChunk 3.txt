@@ -1,0 +1,1 @@
+After this program is loaded, a menu of the six high-resolution colors is dis­played. Enter the name of the color to be tested in uppercase letters.

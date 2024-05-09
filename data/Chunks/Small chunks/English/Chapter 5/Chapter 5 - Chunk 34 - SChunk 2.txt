@@ -1,0 +1,1 @@
+To test colors in the high-resolution graphics mode, load the High-Resolution Color Test Program, available as a separate program called "HIRES" on the System Diagnostic Program diskette. If you do not have this diskette, you can key it in your self following the provided listing.
