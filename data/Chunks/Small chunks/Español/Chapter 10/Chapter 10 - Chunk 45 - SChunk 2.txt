@@ -1,0 +1,1 @@
+Lo último que debe hacer es probar el módulo de Game Paddle Diagnostic, ya que ahora reside dentro del Programa de diagnóstico del sistema. Aunque podría haber funcionado perfectamente por sí solo, ahora hay muchos otros factores que influyen en el programa en su conjunto.

@@ -1,0 +1,1 @@
+Pruebe también todos los demás módulos y vea si el diagnóstico Game Paddle recién agregado ha interferido con el funcionamiento de los módulos existentes.

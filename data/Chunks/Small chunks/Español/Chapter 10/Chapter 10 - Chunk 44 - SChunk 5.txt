@@ -1,0 +1,1 @@
+Una vez hecho esto, agregue el código del módulo al programa. Un buen lugar para agregar el nuevo código es comenzando en la línea 6000, como se hizo en el ejemplo de este capítulo. Esto inicia el nuevo módulo donde se acaba el último módulo de diagnóstico.

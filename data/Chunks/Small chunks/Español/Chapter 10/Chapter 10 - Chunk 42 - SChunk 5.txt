@@ -1,0 +1,1 @@
+Basado en el diagrama de flujo que acabamos de revisar, el código del programa podría parecerse (aunque podría tener muchas variaciones) al listado que se muestra en la figura

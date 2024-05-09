@@ -1,0 +1,1 @@
+Ejecute las pruebas a fondo, intentando romper el programa. Si encuentra un problema, localice y corrija el código donde ocurrió el problema.

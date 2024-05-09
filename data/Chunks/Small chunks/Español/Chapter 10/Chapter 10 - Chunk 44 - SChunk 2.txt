@@ -1,0 +1,1 @@
+Una vez que el código para el diagnóstico de Game Paddle esté escrito y probado exhaustivamente por sí solo, debe integrarlo con el resto del programa de diagnóstico del sistema.

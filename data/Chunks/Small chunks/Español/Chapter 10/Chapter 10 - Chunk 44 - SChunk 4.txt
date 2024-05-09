@@ -1,0 +1,1 @@
+Además, inserte la instrucción IF apropiada para el identificador de diagnóstico de Game Paddle en las líneas 110-180, de modo que el programa se ramifique al principio del módulo de diagnóstico de Game Paddle cuando se presione la tecla apropiada, tal vez una G.

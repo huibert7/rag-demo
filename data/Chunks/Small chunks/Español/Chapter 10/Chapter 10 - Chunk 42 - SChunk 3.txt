@@ -1,0 +1,1 @@
+Aprenda y experimente con los comandos e instrucciones de BASIC relacionadas con la programación del mando de juego en el Apple II. Guarde y pruebe cada segmento del programa mientras trabaje, para asegurarse de que todo se desarrolle sin problemas.

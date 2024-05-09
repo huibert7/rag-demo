@@ -1,0 +1,1 @@
+Also, insert the appropriate IF statement for the Game Paddle Diagnostic identi­fier in lines 110-180, so that the program branches to the beginning of the Game Paddle Diagnostic module when the appropriate key, perhaps a G, is pressed.

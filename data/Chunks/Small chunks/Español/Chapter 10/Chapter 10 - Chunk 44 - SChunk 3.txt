@@ -1,0 +1,1 @@
+Primero modifique la rutina del Menú principal del Programa de diagnóstico del sistema, que muestra y accede a todas las opciones de diagnóstico. Examine las líneas 50 a 90 del programa donde reside el módulo del Menú principal. Agregue el identificador de diagnóstico de Game Paddle a la declaración `PRINT` que enumera las opciones del menú en la pantalla.

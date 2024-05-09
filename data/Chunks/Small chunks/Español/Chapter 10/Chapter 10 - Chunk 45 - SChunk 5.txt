@@ -1,0 +1,1 @@
+Una vez que haya completado los procedimientos de investigación, diseño, diagramas de flujo, codificación, integración y prueba, el módulo Game Paddle Diagnostic estará listo para trabajar de verdad siempre que sea necesario solucionar problemas y realizar diagnósticos para las funciones del game paddle.
