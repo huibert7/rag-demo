@@ -1,0 +1,1 @@
+El módulo de diagnóstico Paleta de Juego (Game Paddle), ubicado entre las líneas 5000 a 5140, es el ejemplo utilizado en el Capítulo 10 para demostrar cómo puede desarrollar e integrar un nuevo módulo de diagnóstico para cualquier periférico adicional que posea.
