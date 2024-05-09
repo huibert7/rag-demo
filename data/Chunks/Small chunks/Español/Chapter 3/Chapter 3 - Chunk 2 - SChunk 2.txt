@@ -1,0 +1,1 @@
+La unidad central consta de: Microprocesador. Memoria viva o RAM (Random-access memory). Memoria muerta o ROM  (Read-Only memory) , que contiene, entre otras cosas, el código del Applesoft BASIC. Interfaces y tarjetas controladoras. Ranuras de expansión para dispositivos periféricos opcionales. Fuente de poder.

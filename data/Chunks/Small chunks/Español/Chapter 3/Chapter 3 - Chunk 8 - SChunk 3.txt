@@ -1,0 +1,1 @@
+En los sistemas Apple II, BASIC se almacena permanentemente en la ROM. Las funciones básicas de entrada/salida también se manejan en los chips de memoria ROM. Además, algunos sistemas Apple II tienen un monitor de lenguaje de máquina en ROM.

@@ -1,0 +1,1 @@
+La sección aritmético-lógica realiza todas las funciones de conteo, y el conteo equivale al procesamiento real de datos. Circuitos especiales dentro del microprocesador, como registros, acumuladores y sumadores, realizan todos los cálculos necesarios. Las comparaciones se hacen de un número con otro para funciones lógicas utilizando comparadores.

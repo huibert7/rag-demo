@@ -1,0 +1,1 @@
+Cada instrucción de un programa de computadora consta de al menos dos partes. La primera parte de la instrucción indica el comando. La segunda parte de la instrucción indica la dirección que localiza los datos sobre los que actuará el comando.

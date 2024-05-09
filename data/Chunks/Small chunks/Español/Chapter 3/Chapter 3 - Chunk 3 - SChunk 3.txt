@@ -1,0 +1,1 @@
+El CPU, ubicado en la tarjeta madre, se compone de varios chips de circuito integrado (IC): el chip del microprocesador y los chips de memoria del sistema.

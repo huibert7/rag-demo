@@ -1,0 +1,1 @@
+Se ha dicho que la computadora no es más que una máquina de contar. Aunque esto es una simplificación excesiva cuando se analizan las funciones generales de la computadora, es exacto cuando se analiza la sección aritmético-lógica de la CPU.

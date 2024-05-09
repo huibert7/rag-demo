@@ -1,0 +1,1 @@
+También se proporciona un segundo tipo de memoria como parte de la CPU, llamada memoria de sólo lectura (ROM). Los chips ROM tienen programas almacenados permanentemente en su memoria que se conserva independientemente de si el sistema informático tiene energía o no.

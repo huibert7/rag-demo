@@ -1,0 +1,1 @@
+La tarjeta madre, a veces también llamada placa del sistema, contiene el chip del microprocesador, los chips de memoria del sistema, los controladores de interfaz de periféricos y las ranuras de expansión. Esta tarjeta es la base de la computadora.

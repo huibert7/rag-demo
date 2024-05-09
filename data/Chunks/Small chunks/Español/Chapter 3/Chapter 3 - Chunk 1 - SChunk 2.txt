@@ -1,0 +1,1 @@
+La unidad central del sistema es el cerebro del sistema Apple II y controla y coordina todas las actividades que tienen lugar dentro de la computadora.

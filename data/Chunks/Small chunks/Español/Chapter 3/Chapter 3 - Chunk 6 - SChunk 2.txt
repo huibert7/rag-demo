@@ -1,0 +1,1 @@
+La memoria de propósito general, conformada por los chips de memoria de acceso aleatorio (RAM), almacena el programa actualmente activo y los datos que se procesan.

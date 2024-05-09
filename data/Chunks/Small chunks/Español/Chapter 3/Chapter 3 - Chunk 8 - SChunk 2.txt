@@ -1,0 +1,1 @@
+Cuando se enciende el sistema, el programa se puede invocar inmediatamente, sin tener que cargarlo desde un dispositivo de almacenamiento externo. El usuario no puede escribir datos en chips ROM; están preprogramados y sólo se pueden leer, de ahí el nombre.

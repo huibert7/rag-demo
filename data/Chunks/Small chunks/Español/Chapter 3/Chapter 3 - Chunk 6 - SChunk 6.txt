@@ -1,0 +1,1 @@
+El término memoria de acceso aleatorio indica que la información almacenada en el chip puede recuperarse directa e inmediatamente para el usuario. La ubicación física de los datos no es un factor en el tiempo de recuperación.

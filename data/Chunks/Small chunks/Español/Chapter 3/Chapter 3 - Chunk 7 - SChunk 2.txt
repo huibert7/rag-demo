@@ -1,0 +1,1 @@
+Cuando se vuelve a encender la computadora, la RAM está vacía y el software y los datos necesarios deben cargarse nuevamente en la RAM desde un dispositivo de almacenamiento masivo, como una unidad de disco o una unidad de cinta de casete.

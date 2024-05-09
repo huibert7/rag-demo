@@ -1,0 +1,1 @@
+El microprocesador realiza las funciones aritmético-lógicas y de control general de la CPU.

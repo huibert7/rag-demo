@@ -1,0 +1,1 @@
+La sección de control del CPU interpreta estas instrucciones del programa y luego las ejecuta. La sección de control trabaja en estrecha colaboración con la sección aritmético-lógica para realizar los cálculos o comparaciones necesarias para llevarlo a cabo.

@@ -1,0 +1,1 @@
+La fuente de alimentación envía energía de corriente continua o CC a la tarjeta madre para proporcionar los voltajes necesarios a los circuitos integrados.

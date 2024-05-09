@@ -1,0 +1,1 @@
+El CPU o central processing unit, se divide en tres partes: Cálculo aritmético-lógico. Control general. Almacenamiento.

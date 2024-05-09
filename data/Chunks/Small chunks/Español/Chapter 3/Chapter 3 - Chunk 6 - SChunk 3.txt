@@ -1,0 +1,1 @@
+Se proporcionan varios chips de RAM en la tarjeta madre. Los datos de la computadora se leen, escriben y miden mediante una serie de bits ON y OFF: 1 y 0s. Ocho de estos bits de ENCENDIDO y APAGADO constituyen un byte, también conocido como palabra o carácter de datos.

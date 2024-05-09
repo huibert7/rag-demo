@@ -1,0 +1,1 @@
+La unidad central emite comandos, procesa entradas y salidas y dirige las actividades de los dispositivos periféricos.

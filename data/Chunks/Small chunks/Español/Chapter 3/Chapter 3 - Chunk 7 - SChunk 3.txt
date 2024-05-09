@@ -1,0 +1,1 @@
+La RAM se utiliza como almacenamiento temporal para programas y datos mientras el sistema está encendido.
