@@ -1,0 +1,1 @@
+This test is particularly useful for testing function keys such as the carriage return, tab key, and cursor arrows. Through the display of ASCII values on the screen, you can check whether the communication interface is sending the cor­rect codes for function keys as well as character keys.

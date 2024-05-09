@@ -1,0 +1,1 @@
+Once the loopback is set up on the cable pins, follow the instructions provided in "Running the Diagnostic Program" in Chapter 2. Then press S to initiate the Serial Communication Diagnostic module. The Serial Communication Test instructions will be displayed. At this point you are ready to run the Serial Communication Diagnostic, consisting of the Character Loopback Test.

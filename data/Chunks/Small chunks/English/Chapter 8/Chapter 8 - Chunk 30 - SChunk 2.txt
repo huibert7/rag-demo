@@ -1,0 +1,1 @@
+If the serial communication interface connects with a printer, make sure that the printer's internal switches are set up to your configuration. Most printers can communicate using either a serial or parallel interface.
