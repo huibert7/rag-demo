@@ -1,0 +1,1 @@
+Each disk drive controller has connectors for two disk drives. This means that for every disk drive controller the system contains, it can control two drives, designated as D1 and D2. An Apple II system can support a maximum of three disk drive controllers for a total of six disk drives.

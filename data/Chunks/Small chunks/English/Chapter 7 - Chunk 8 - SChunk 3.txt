@@ -1,0 +1,1 @@
+An internal disk drive and controller are standard on the Apple IIc. The disk drive is built into the IIc system unit, and the disk drive controller consists of a single chip on the motherboard. A connector for a second external drive is found at the rear of the IIc system unit.

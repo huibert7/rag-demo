@@ -1,0 +1,1 @@
+When a save command is given, this head device magnetizes the diskette emul­sion, thereby writing new data onto the diskette. The head can also locate and sense a magnetic pattern already existing in the emulsion, thereby reading exist­ing data.

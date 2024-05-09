@@ -1,0 +1,1 @@
+The terms disk, diskette, disk drive, and drive are used in this chapter. Disk is the general term for the floppy disk media on which the data is written. Diskette also refers to the floppy diskette media. Disk drive and drive are both generic terms for the floppy disk drive.
