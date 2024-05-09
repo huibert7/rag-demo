@@ -1,0 +1,1 @@
+The program flowchart is a detailed picture that represents the process, or flow, of steps to be performed within the computer to produce the desired results. The flowchart provides the road map that will be a guide when writing the program code.

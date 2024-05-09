@@ -1,0 +1,1 @@
+Although there are numerous flowcharting symbols in existence, only five are needed for the purposes of charting a device diagnostic program. As shown in Fig. 10-1 , these symbols are: Terminal. Input/Output. Processing. Decision. Connector.

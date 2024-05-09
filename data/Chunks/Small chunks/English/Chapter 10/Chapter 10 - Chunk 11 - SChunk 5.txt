@@ -1,0 +1,1 @@
+Each test is considered a sub-module of the device diagnostic program, which in turn will eventually become a module of the entire Apple II System Diagnostic Program.

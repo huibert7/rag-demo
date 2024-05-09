@@ -1,0 +1,1 @@
+If the computer results indicate a yes, the program branches in one direction. If the results indicate a no, the program branches in another direction.

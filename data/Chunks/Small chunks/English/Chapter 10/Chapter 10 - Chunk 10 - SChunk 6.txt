@@ -1,0 +1,1 @@
+Be careful not to create too many redundant tests, when one test would satisfactorily do the job. Keep the module as simple and efficient as possible, at the same time being effective and thorough.

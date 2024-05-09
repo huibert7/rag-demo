@@ -1,0 +1,1 @@
+Program analysis actually consists of creating two different flowcharts: the system flowchart in a plain English organizational overview, and the program flowchart being the bridge between plain English and BASIC, indicating the specific program flow and structure.

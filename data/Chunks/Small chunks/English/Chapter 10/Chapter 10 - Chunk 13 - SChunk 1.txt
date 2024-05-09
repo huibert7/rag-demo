@@ -1,0 +1,1 @@
+The diamond-shaped decision symbol represents a place within the program at which the computer must make a decision based on logic/comparison opera­tions, also performed by the computer. Exit paths from the decision symbol are usually determined by a yes or no answer to a conditional statement written in the form of a question.

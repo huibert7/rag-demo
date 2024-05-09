@@ -1,0 +1,1 @@
+The parallelogram input/output symbol represents any I/O function. This can include input data to be read into the CPU, and output information to be displayed on the screen or sent to the printer.

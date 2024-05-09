@@ -1,0 +1,1 @@
+The oblong terminal symbol represents the beginning and end of a program.

@@ -1,0 +1,1 @@
+The system design phase uses the results of your research and problem identifi­cation that took place in the needs analysis phase. System design addresses the problems and tasks, and determines how the program will solve the problems and complete the tasks.

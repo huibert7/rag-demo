@@ -1,0 +1,1 @@
+For the system design phase of developing the device diagnostic module, use the potential device problems identified in the needs analysis phase to determine what types of tests should be included in the new device module. To do this, create a simple table that will help keep track of your thoughts.

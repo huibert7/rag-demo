@@ -1,0 +1,1 @@
+After reading the documentation, unpack and install the device. In order to develop a new diagnostic module for a new peripheral, learn everything possible about how the device functions.

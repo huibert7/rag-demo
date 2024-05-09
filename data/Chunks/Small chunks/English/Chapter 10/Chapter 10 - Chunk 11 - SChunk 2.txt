@@ -1,0 +1,1 @@
+The program analysis phase lets you design the actual program, taking into consideration the overall logic and flow of the program. Program analysis is done with a graphic aid called a flowchart.

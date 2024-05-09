@@ -1,0 +1,1 @@
+Be aware that there might be other problems which no software test will be able to diagnose. These might include those types of problems in which something physical must be done with hardware, and cannot be diagnosed through software.

@@ -1,0 +1,1 @@
+Arrows connect the various flowcharting symbols together to indicate the direction (or any change of direction) in which a program or segment of a program will flow.
