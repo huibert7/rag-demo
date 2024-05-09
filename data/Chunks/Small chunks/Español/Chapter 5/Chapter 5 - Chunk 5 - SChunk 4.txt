@@ -1,0 +1,1 @@
+Los distintos modos de visualización se seleccionan a través del programa de software actualmente en uso o mediante comandos en BASIC.

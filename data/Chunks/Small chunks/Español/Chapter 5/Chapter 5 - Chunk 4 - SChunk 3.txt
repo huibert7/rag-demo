@@ -1,0 +1,1 @@
+El cable Apple II se conecta desde el convertidor de RF interno (Fig. 5-2) a un convertidor de RF del televisor mediante un cable de vídeo compuesto. El conversor RF de televisión incluye un interruptor para elegir entre usar el televisor como monitor de computadora (COMPUTER) y usar el televisor para ver transmisiones (TV). 

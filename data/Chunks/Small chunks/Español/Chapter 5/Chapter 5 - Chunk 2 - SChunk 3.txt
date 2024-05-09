@@ -1,0 +1,1 @@
+Todos los sistemas Apple II admiten desplegar texto en un formato de visualización de pantalla de 40 columnas x 24 filas. Además, también existe un modo de visualización de texto en formato de 80 columnas x 24 filas que está integrado en el Apple IIe y el IIc, y está disponible como opción en el II Plus.

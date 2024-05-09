@@ -1,0 +1,1 @@
+Un generador de caracteres es parte de la memoria de solo lectura (ROM) del sistema. El generador de caracteres en realidad produce la serie de representaciones de píxel ON y OFF, o mapa de bits, para crear el carácter al que se accede a través del teclado o mediante un programa. Define todo el conjunto de caracteres al que se puede acceder desde el sistema.

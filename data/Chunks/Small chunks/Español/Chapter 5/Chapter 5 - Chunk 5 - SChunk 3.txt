@@ -1,0 +1,1 @@
+Es por eso que los diferentes tipos de monitores de alta resolución se clasifican según la cantidad real de píxeles horizontales y verticales que pueden acomodarse en la pantalla al mismo tiempo. Los monitores gráficos de Apple tienen capacidad para 280 x 192 píxeles monocromáticos.

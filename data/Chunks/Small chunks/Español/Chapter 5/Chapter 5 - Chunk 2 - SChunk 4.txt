@@ -1,0 +1,1 @@
+Los sistemas Apple II también admiten modos de gráficos de alta y baja resolución. El modo de baja resolución ofrece una resolución de 40 x 80 ubicaciones de pantalla que se pueden mostrar en 16 colores diferentes. El modo de alta resolución soporta una resolución de 140 x 192 píxeles en seis colores o una resolución de 280 x 192 píxeles en blanco y negro.

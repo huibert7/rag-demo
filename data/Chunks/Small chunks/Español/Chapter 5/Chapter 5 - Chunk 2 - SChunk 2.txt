@@ -1,0 +1,1 @@
+El monitor también se conoce como tubo de rayos catódicos (CRT) o pantalla de video. Es la pantalla en la que se ve el estado del programa que se está utilizando actualmente.

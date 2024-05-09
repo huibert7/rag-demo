@@ -1,0 +1,1 @@
+En el modo de texto, la pantalla del monitor funciona en una matriz de caracteres. La pantalla está dividida en 24 filas horizontales y por 40 u 80 columnas verticales. La posición donde se cruzan una columna y una fila es la ubicación de un carácter.
