@@ -1,8 +1,0 @@
-Pruebas de la paleta de juegos. Una vez que entienda perfectamente las funciones de la paleta de juego, así como los posibles problemas que se pudan presentar con su funcionamiento, podrá determinar los tipos de pruebas que serían más útiles al escribir un módulo de diagnóstico. Con base en la información contenida en las secciones anteriores "Funciones del Game Paddle" y "Pautas de solución de problemas y reparación", formule la tabla de diseño del sistema. Esta tabla debe incluir problemas potenciales, pruebas para detectar esos problemas y una breve descripción de cada prueba. Basado en lo que hemos visto, probablemente haya diseñado una tabla similar a la que se muestra en la Tabla 10-2.
-
-| Problema potencial                                       | Descripción de la prueba                                     | Nombre de la prueba              |
-| -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------- |
-| La paleta de juegos no funciona en absoluto              | N/D                                                          | No se puede probar por software. |
-| La paleta de juegos no mueve el objeto de forma correcta | Sigue el movimiento de la rueda a través de la pantalla, desde el extremo izquierdo hasta el extremo derecho. | Prueba de seguimiento.           |
-| El botón de disparo no funciona                          | Muestra en la pantalla el estado del botón para saber si está siendo presionado o no. | Prueba del botón de disparo.     |
-

@@ -1,1 +1,0 @@
-Si la luz de encendido está iluminada, pero el teclado no funciona, verifique en el monitor que aparezca el familiar indicador (]). Esto indica que el sistema está en el entorno Applesoft BASIC. Si no aparece el indicador, apague la computadora, asegúrese de que el cable de alimentación esté conectado firmemente al sistema y luego vuelva a encender la computadora.

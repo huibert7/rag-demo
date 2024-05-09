@@ -1,1 +1,0 @@
-El módulo de diagnóstico de la impresora consta de cinco pruebas y se almacena entre las líneas 1130 a 1790.

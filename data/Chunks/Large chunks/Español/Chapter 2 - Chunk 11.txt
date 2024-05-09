@@ -1,1 +1,0 @@
-Las líneas 3500 a 3600 contienen el módulo de diagnóstico de comunicación serial, que prueba la interfaz de comunicación serie. Para esta prueba, el usuario presiona una tecla en el teclado y el carácter y su valor ASCII se muestran en la pantalla. Esta prueba de "bucle invertido" determina si la interfaz del módem funciona correctamente o no.

@@ -1,1 +1,0 @@
-Keyboard. The keyboard is the computer's primary input device. Typed characters form commands, move the cursor, and enter data. The keyboard controller generates the code of the characters entered, the system unit interprets and processes these keyboard signals, and the monitor displays key entries and processing results.

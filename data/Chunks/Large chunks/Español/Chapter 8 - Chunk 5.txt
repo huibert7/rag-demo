@@ -1,1 +1,0 @@
-El cable para comunicación en serie. La comunicación en serie con el mundo exterior se logra mediante un cable que va desde el puerto de comunicación en serie de su Apple II hasta el otro dispositivo con el que se realizará la comunicación (Fig. 8-1). Es a través de este cable que las señales y datos apropiados pasan hacia y desde el otro dispositivo.

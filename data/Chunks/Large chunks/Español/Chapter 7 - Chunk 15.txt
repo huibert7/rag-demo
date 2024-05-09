@@ -1,1 +1,0 @@
-Mantenimiento preventivo de la unidad de disco. Hay tres componentes principales involucrados en el mantenimiento preventivo de la unidad de disco: la unidad de disco, la tarjeta controladora de la unidad de disco y los disquetes.

@@ -1,1 +1,0 @@
-Capítulo 5 - El Monitor. El monitor es el principal dispositivo de salida de una computadora. La retroalimentación visual, o salida, es necesaria para poder ver los datos capturados a través del dispositivo de entrada (el teclado) a medida que los ingresa el usuario, así como desplegar los resultados del procesamiento de la información, tan pronto como la computadora los produce.

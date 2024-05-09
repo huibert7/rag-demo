@@ -1,1 +1,0 @@
-Conexión con otros dispositivos. Otros dispositivos que pueden conectarse a la computadora a través de la interfaz de comunicación en serie incluyen un mouse, un plotter, una tableta digitalizadora, el reloj del sistema o un lápiz óptico.

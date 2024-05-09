@@ -1,1 +1,0 @@
-Prueba del programa de diagnóstico de la paleta de juegos. Siga los procedimientos de prueba descritos en la sección "Prueba del módulo" de este capítulo. Pruebe minuciosamente el módulo de diagnóstico de Game Paddle y corrija los errores que encuentre. Haga que otra persona también pruebe el diagnóstico.
