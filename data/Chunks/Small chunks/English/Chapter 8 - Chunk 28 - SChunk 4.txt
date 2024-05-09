@@ -1,0 +1,1 @@
+This audible signal is the carrier, and it tells the system that the modem is ready to accept data, either from your system or from the other system. The CD (Carrier Detect) light is illuminated. This indicates that the other system has answered and been given the carrier.

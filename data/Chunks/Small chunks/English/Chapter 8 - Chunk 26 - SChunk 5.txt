@@ -1,0 +1,1 @@
+Swap your serial communication interface board with another Apple II system (with the Apple IIe, this means swapping the entire motherboard). If communications can be established with your board on the other system, the problem is with the serial communication port on your Apple II.

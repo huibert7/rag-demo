@@ -1,0 +1,1 @@
+The modem transmits a signal back to the computer to indicate that it is prepared to accept data for transmission. The CTS (Clear to Send) signal is received.

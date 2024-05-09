@@ -1,0 +1,1 @@
+Check the serial communication interface port and cable for oxidation, and clean it off if present. Make sure the cable is firmly connected.

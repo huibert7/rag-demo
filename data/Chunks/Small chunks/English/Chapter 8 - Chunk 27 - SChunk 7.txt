@@ -1,0 +1,1 @@
+When data are being sent, the indicator lights over RD (Receive Data) or TD (Transmit Data) are lit. When a key is pressed, these lights illuminate to show that the data for the key code are indeed being sent.

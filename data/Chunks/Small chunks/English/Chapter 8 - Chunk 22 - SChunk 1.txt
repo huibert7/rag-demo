@@ -1,0 +1,1 @@
+Another protocol used by modems to establish communication is called the handshaking protocol . A series of signals is used to establish modem communication. The following is a listing of the handshaking protocol, including the proce­dure and data signals used to establish and maintain communication.

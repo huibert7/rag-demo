@@ -1,0 +1,1 @@
+The data is sent. The SD (SendData) light is illuminated on the modem.

@@ -1,0 +1,1 @@
+The serial communication interface transmits seven or eight bits of data se­quentially, in serial form. These signals ensure that both machines are synchro­nized with one another, and are prepared to receive or send data. They also help detect breaks in the communication line and other communication errors, and return error signals to the programs when necessary.

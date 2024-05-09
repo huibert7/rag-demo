@@ -1,0 +1,1 @@
+The serial communication interface board has a connector into which a cable is attached. This connection is where the functional signals and data are passed across the interface, one bit at a time, between the two communicating devices.

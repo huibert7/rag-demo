@@ -1,0 +1,1 @@
+A mixture of garbled characters and good characters indicates a poor tele­ phone connection. For example, the other computer might send the word "login", but "loxxn" is received. In this case, hang up and redial.

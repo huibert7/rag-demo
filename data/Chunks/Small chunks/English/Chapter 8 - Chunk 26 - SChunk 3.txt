@@ -1,0 +1,1 @@
+Check that all connections are properly made and firmly seated. There are three interface connections: the interface board's ribbon cable connection on the board, the RS-232 cable connection to the ribbon cable, and the RS-232 cable connection to the communication device.
