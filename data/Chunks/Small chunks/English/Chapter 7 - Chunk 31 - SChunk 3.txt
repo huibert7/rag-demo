@@ -1,0 +1,1 @@
+If the disk drive controller works on the other system, troubleshoot the disk drive. Swap your disk drive on another system. If the I/O Error Message is still returned, then the drive is faulty and should be taken in for servicing.

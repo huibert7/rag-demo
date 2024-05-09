@@ -1,0 +1,1 @@
+If there is a discrepancy between what was written and what is now being read, an error is noted and added to the counter. The total number of errors is displayed on the screen at the end of the test.

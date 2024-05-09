@@ -1,0 +1,1 @@
+Data mismatch errors are counted and a final total is displayed at the end of the test. Such errors are not fatal errors, and the test will continue. If there are 1 or 2 mismatch errors, you might want to test the drive more often, to see if it gets worse. But one or two errors do not warrant your taking action.

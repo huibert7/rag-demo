@@ -1,0 +1,1 @@
+The error counter is incremented if there are any discrepancies between what was written and what is now being read. Then the file is deleted, and the test is complete .

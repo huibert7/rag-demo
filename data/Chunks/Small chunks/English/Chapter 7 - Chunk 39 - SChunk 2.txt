@@ -1,0 +1,1 @@
+Follow the instructions provided in "Running the Diagnostic Program" in Chapter 2 to run the Disk Drive Diagnostic module. Then press D to initiate the Disk Drive Diagnostic module. Remove the System Diagnostic Program diskette and insert a blank, formatted diskette to be used for the test.
