@@ -1,0 +1,1 @@
+The reason this happens is that as far as the Apple II system is concerned, the new printer is a completely foreign device. It is not addressable, therefore, the computer and new printer do not know how to effectively communicate with one another.

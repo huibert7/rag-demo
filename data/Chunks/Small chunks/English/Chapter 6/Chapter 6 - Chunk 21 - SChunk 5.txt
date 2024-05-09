@@ -1,0 +1,1 @@
+Particular rules, or protocols must be followed in order for the various system components to communicate with one another and send data back and forth. The protocols that the original printer understood may be quite different from the protocols that the new printer requires.
