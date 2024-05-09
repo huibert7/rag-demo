@@ -1,0 +1,1 @@
+The system unit microprocessor for the Apple IIe includes the 6502B CPU chip, and 64 kilobytes of memory. Like the II Plus, the Apple IIe has eight expansion slots.

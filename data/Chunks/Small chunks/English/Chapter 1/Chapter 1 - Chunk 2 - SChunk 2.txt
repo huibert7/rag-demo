@@ -1,0 +1,1 @@
+The typical Apple II computer system consists of the following components: System unit. Keyboard. Monitor. Printer. Disk drive(s). Serial communication interface.

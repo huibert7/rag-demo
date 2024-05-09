@@ -1,0 +1,1 @@
+Although they are covered in more detail in their individual chapters, a brief description of each of these components is provided here. This general overview describes how the various components interact to perform the work expected of a personal computer system.
