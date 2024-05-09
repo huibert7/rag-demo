@@ -1,0 +1,1 @@
+If the pointer fails to track along the gauge, or if the tracking is incorrect or inconsistent, refer to "Game Paddle Troubleshooting and Repair Guidelines" above for solutions to this problem.

@@ -1,0 +1,1 @@
+Game Paddle Does Not Move the Object Properly.

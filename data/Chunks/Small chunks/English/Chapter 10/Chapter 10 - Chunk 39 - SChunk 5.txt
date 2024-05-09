@@ -1,0 +1,1 @@
+If the fire button does not cause the Game Paddle Diagnostic menu to display, then the fire button is probably defective. Pressing CTRL C kills the program and exits to the Applesoft BASIC environment. Refer to "Problem: The Fire Button Does Not Work" above to troubleshoot and repair the fire button. Then run the test again.

@@ -1,0 +1,1 @@
+The game paddle memory location for port 0, as labeled on the motherboard, is -16287. For port 1, the location is - 16286. For port 2, the location is -16285. Due to inherent Apple II restrictions, the fire button for port 3 cannot be tested.

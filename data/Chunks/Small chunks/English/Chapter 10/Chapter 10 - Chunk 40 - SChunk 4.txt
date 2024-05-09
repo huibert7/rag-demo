@@ -1,0 +1,1 @@
+Based on the system flowchart, detail the program flowchart. Include all loops, inputs, branches, and any other processes needed for the program structure. Try to include the actual BASIC commands within the descriptions to help you with later coding.

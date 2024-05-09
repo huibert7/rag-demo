@@ -1,0 +1,1 @@
+First of all, because the Apple II includes four game paddle ports, the diagnostic user instructions should include a prompt for which port is to be tested. This will allow discrete testing of all four ports. The four ports are designated as 0, 1 , 2, and 3.

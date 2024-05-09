@@ -1,0 +1,1 @@
+The game paddle includes a potentiometer which deter­mines the direction of movement for the object it is controlling. Because of this, one particularly useful test would be an on-screen display tracking the direction to which the game paddle is pointing. This would let you diagnose whether or not the potentiometer is tracking properly.

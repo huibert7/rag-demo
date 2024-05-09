@@ -1,0 +1,1 @@
+For the system flowchart, use the appropriate flowcharting symbols to list the general task overview, organization, and order of events to take place within the program. Create a separate system flowchart for the Game Port Option, the Tracking Test, and the Fire Button Test. Your flowcharts might look similar to the ones shown.

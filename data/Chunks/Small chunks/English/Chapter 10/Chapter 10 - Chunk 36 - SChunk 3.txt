@@ -1,0 +1,1 @@
+Based on the information under the previous "Functions ofthe Game Paddle" and "Troubleshooting and Repair Guidelines" sections, formulate the system design table. This table should include potential problems, tests for those prob­lems, and a short description of each test. Your system design table might look similar to the one shown.

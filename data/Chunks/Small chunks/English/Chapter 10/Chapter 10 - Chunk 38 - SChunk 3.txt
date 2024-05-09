@@ -1,0 +1,1 @@
+A continuous loop in the program can let the diagnostic continuously check whether this value has been changed, meaning that the game paddle has been moved.

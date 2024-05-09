@@ -1,0 +1,1 @@
+Check the c.able connection and make sure the game paddle connection is properly plugged into the port.

@@ -1,0 +1,1 @@
+A second test necessary for game paddle diagnostics is to test the fire button. When the fire button is pressed, the routine PEEKs into the appropri­ate game paddle memory location to check for a value greater than 127. A value greater than 127 residing in the game paddle memory location indicates that the fire button has been pressed.

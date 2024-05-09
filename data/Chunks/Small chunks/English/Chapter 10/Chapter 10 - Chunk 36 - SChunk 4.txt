@@ -1,0 +1,5 @@
+| Potential Problem                             | Test Description                                             | Test for Problem |
+| --------------------------------------------- | ------------------------------------------------------------ | ---------------- |
+| Game paddle does not work at all              | N/A                                                          | Hardware Only    |
+| Game paddle does not move the object properly | Tracks movement of wheel across the screen, from far left to far right | Tracking Test    |
+| Fire button does not work                     | Provides on-screen response to indicate that the fire button has been pressed | Fire Button Test |

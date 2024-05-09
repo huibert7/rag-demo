@@ -1,0 +1,1 @@
+Swap another game paddle onto the system, if available. If the other game paddle works on the system, then your game paddle is defective, and should be replaced. If the other game paddle does not work, then you have a problem with the system unit. Refer to Chapter 3 for further solutions.

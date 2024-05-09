@@ -1,0 +1,1 @@
+Likewise, when you rotate the game paddle toward the right, the block tracks toward the right along the gauge. The far right and far left positions on the gauge match up to the game paddle's far right and left extremes.

@@ -1,0 +1,1 @@
+Such a test would display a tracking gauge with a block indicating where the game paddle wheel is positioned along its rotational range. When you rotate the game paddle toward the left, the block pointer tracks along the gauge to indicate the wheel's movement and direction.

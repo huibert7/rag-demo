@@ -1,0 +1,1 @@
+Make the program flowchart as detailed as possible, to provide the most information. When finished, put the three segments of the flowchart together to form one flowchart representing the Game Paddle Diagnostic Program.

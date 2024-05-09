@@ -1,0 +1,1 @@
+Once you have determined the functions to be tested as part of the Game Paddle Diagnostic, and have worked out many of the testing details, the next step is to develop the road map for writing the actual code. This road map is drawn in the form of a flowchart: first the system flowchart, and then the program flow­ chart.

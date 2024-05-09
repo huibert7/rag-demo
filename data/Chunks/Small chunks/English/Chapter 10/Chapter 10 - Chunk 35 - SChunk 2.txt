@@ -1,0 +1,1 @@
+The switch that controls the fire button can also get stuck. This would be indicated if the fire button is pressed, and either nothing happens or it keeps on firing, even after the button is released.

@@ -1,0 +1,1 @@
+Once you have a fair understanding of the game paddle's functions, as well as its potential problems, you can determine the kinds of tests that would be most helpful in writing a diagnostic module.

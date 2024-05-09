@@ -1,0 +1,1 @@
+A value can be read by a BASIC program that can be related to a position on the screen. In order to develop a tracking test like this, determine how information is sent from the game paddle to the system unit, and how this information is accessed. This is a relatively simple process.
