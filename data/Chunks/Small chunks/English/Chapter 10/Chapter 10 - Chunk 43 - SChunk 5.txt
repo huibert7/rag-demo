@@ -1,0 +1,1 @@
+Once this is done, add the code to the program. A good place to append the new code is starting at line 6000, as was done in this chapter's example. This begins the new module where the last diagnostic module stopped.

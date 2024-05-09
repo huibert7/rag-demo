@@ -1,0 +1,1 @@
+First modify the System Diagnostic Main Menu routine, which displays and accesses all the diagnostic module options. Examine lines 50 through 90 of the program where the Main Menu module resides. Add the Game Paddle Diagnos­tic identifier to the PRINT statement that lists the menu options on the screen.

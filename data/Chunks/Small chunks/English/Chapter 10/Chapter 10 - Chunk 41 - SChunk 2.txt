@@ -1,0 +1,1 @@
+After the flowchart has been thoroughly developed and diagrammed, the actual diagnostic code can be written. Again, refer to the BASIC programming reference books. Refer to the Appendix to see examples of how the other diagnos­tic modules have performed certain activities.

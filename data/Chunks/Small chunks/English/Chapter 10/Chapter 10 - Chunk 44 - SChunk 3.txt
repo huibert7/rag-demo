@@ -1,0 +1,1 @@
+Also test all the other modules, and see whether the newly-added Game Paddle Diagnostic has interfered with the operation of existing modules.

@@ -1,0 +1,1 @@
+Once the code for the Game Paddle Diagnostic is written and thoroughly tested on its own, you must integrate it with the rest of the System Diagnostic Program.

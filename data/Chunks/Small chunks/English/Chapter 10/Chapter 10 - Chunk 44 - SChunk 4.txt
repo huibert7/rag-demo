@@ -1,0 +1,1 @@
+Once you have completed the research, design, flowcharting, coding, integra­tion, and testing procedures, the Game Paddle Diagnostic module is ready for real work whenever troubleshooting and diagnostics are needed for game paddle functions.

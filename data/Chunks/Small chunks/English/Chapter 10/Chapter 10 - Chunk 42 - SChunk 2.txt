@@ -1,0 +1,1 @@
+Follow the testing procedures described under the "Module Testing" section earlier in this chapter. Thoroughly test the Game Paddle Diagnostic, and fix any bugs you find. Have someone else test the diagnostic as well.
