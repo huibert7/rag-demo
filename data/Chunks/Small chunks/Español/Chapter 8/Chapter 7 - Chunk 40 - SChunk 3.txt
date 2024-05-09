@@ -1,1 +1,0 @@
-El diagnóstico crea un archivo llamado "TEST" y realiza cuatro pasadas distintas a través del disco especificado.
