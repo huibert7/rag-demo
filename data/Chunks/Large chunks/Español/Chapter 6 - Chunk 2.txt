@@ -1,0 +1,1 @@
+Descripción y funcionamiento de la impresora. La impresora suele ser un dispositivo opcional de la computadora, ya que no se necesita una impresora para ejecutar programas o procesar datos. Pero para poner los resultados en papel en lugar de sólo en la pantalla del monitor, debe tener una impresora (Fig. 6-1).
