@@ -1,0 +1,1 @@
+Cuando verifique el problema original, ejecute el módulo de diagnóstico del subsistema apropiado y ejecute el Ejercitador minuciosamente. Si no ocurren problemas antiguos o nuevos, puede estar seguro de que todo su sistema está en un estado óptimo y que se le pueden confiar programas y datos a la computadora.

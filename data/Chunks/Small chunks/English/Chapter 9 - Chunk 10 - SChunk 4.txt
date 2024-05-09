@@ -1,0 +1,1 @@
+El módulo Ejercitador del Sistema está programado en BASIC, como el resto del Programa de Diagnóstico del Sistema. Debido a esto, el Ejercitador también está probando una sección extensa de las instrucciones de la máquina de la unidad del sistema a través de BASIC, que está escrito en el lenguaje de máquina de la CPU.

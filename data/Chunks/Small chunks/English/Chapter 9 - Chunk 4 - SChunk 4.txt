@@ -1,0 +1,1 @@
+Recree la situación que originalmente causó el problema. Esto podría consistir en ejecutar un programa de software particular o pasar por una secuencia específica de eventos en un entorno determinado. Si el problema no ocurre ahora, lo más seguro es que ya se haya solucionado.
