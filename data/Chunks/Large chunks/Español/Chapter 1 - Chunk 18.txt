@@ -1,0 +1,1 @@
+Si ejecuta una de las pruebas de diagnóstico y los resultados indican un problema, es posible que desee volver a verificar el diagnóstico en un sistema idéntico para asegurarse de que el programa de diagnóstico proporcione resultados precisos antes de gastar tiempo y dinero en reparaciones. Esto es especialmente cierto si ha modificado el programa de alguna manera.

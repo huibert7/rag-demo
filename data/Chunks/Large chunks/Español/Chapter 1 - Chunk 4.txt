@@ -1,0 +1,1 @@
+Teclado. El teclado es el principal dispositivo de entrada de la computadora. Los caracteres escritos forman comandos, mueven el cursor e ingresan datos. El controlador del teclado genera el código de los caracteres ingresados, la unidad central interpreta y procesa estas señales del teclado y el monitor muestra las entradas de teclas y los resultados del procesamiento.
