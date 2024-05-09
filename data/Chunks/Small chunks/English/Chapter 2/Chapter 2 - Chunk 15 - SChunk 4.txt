@@ -1,0 +1,1 @@
+There is nothing special about the program name of "DIAG". Name it anything you like. Just made sure it is a descriptive name, and that there is no other program by that name on that diskette.

@@ -1,0 +1,1 @@
+To correct any typographical errors, enter the line number containing the error, then simply retype the line correctly. This overwrites the incorrect line . For further editing commands and techniques, refer to your Applesoft BASIC Programmer's Reference Manual. (Scott Kaming, Addison-Wesley Publishing Company, 1987).
