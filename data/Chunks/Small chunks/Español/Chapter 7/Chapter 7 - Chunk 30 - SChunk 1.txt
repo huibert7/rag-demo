@@ -1,0 +1,1 @@
+Intente leer y escribir en otro disquete que sepa que está formateado. Si tiene éxito con este disquete y no aparece el mensaje de error, es probable que el disquete original no esté formateado.

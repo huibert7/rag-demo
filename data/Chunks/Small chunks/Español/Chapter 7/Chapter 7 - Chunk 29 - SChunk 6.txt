@@ -1,0 +1,1 @@
+Sin embargo, recuerde que probablemente colocó originalmente la cinta de protección contra escritura en el disquete para proteger los datos ya escritos en el disquete. Asegúrese de que el sistema no sobrescriba datos o programas valiosos ahora que el disquete está habilitado para escritura.

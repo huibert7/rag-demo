@@ -1,0 +1,1 @@
+Retire el disquete de la unidad y compruebe si la muesca de protección contra escritura está cubierta con una cinta adhesiva de protección contra escritura. Si es así, retire la cinta e inserte el disquete en la unidad nuevamente. El sistema ahora debería poder escribir información en el disquete.

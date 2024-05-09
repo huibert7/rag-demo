@@ -1,0 +1,1 @@
+El mensaje de error también podría significar que la unidad no puede localizar la parte del encabezado de identificación de un sector al que el sistema intenta acceder. Finalmente, podría indicar que la unidad no puede encontrar el marcador de sincronización para la pista a la que el sistema intenta acceder.

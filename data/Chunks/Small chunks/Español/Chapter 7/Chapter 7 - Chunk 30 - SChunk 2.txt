@@ -1,0 +1,1 @@
+Si aparece el mensaje de error al solicitar acceso a un determinado archivo, proporcione el comando CATALOG para ver si el archivo está presente en el disquete. Si el archivo está presente, entonces hay un problema con el propio disquete. Pruebe la copia de seguridad del disquete.

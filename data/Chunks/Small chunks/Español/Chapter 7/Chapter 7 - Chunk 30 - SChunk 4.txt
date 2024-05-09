@@ -1,0 +1,1 @@
+Si aparecen más mensajes de error con el nuevo disquete, es posible que el controlador de la unidad de disco o la propia unidad estén defectuosos.

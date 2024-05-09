@@ -1,0 +1,1 @@
+Si la unidad de disco y la tarjeta controladora funcionan en el otro sistema, pero no funcionan en el suyo, entonces tiene una tarjeta madre defectuosa. Consulte el Capítulo 3 para conocer los procedimientos de solución de problemas de la unidad del sistema.

@@ -1,0 +1,1 @@
+Si aparece el mensaje de error "The Diskette is Write-Protected" que en español significa "El disquete está protegido contra escritura" mientras se ejecuta el módulo de diagnóstico de la unidad de disco, detenga el programa y verifique el contenido del disquete.

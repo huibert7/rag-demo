@@ -1,0 +1,1 @@
+Si aparece un mensaje de error de E/S cuando intenta acceder a la unidad de disco, entonces hay varios problemas diferentes de lectura y escritura de la unidad de disco. Podría significar que el disquete está defectuoso, protegido contra escritura, no inicializado o ni siquiera presente.

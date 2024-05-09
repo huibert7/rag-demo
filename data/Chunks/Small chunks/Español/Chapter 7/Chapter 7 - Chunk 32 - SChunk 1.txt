@@ -1,0 +1,1 @@
+Mensaje de error "The Diskette is Write-Protected"

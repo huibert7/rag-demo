@@ -1,0 +1,1 @@
+Mensaje de error "No Buffers Available - Reboot System".

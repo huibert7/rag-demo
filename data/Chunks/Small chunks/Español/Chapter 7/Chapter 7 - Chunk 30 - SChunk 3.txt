@@ -1,0 +1,1 @@
+Ejecute el módulo de diagnóstico de la unidad de disco en un disquete formateado en blanco. Si el diagnóstico no muestra ningún mensaje de error con este disquete, entonces el disquete original estaba defectuoso y se debe utilizar su copia de seguridad.

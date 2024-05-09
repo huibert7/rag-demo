@@ -1,0 +1,1 @@
+Si aparece el mensaje de error "Try a New Diskette" que en español se traduce como "Pruebe con un nuevo disquete", mientras se ejecuta el módulo de diagnóstico de la unidad de disco, entonces tiene un disquete defectuoso. Intente utilizar un disquete en blanco nuevo, recién formateado. Si el error persiste, consulte "Problema: Mensaje de error de E/S" más arriba.

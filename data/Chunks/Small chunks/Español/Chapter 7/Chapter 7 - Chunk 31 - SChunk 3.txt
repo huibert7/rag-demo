@@ -1,0 +1,1 @@
+Si la tarjeta controladora de la unidad de disco funciona en el otro sistema, solucione el problema de la unidad de disco. Cambie su unidad de disco en otro sistema. Si el mensaje de error de E/S aún aparece, entonces la unidad está defectuosa y debe llevarse a reparar.

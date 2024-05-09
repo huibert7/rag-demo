@@ -1,0 +1,1 @@
+En el II Plus y IIe, si se trata de un problema de lectura, utilice el extractor de chips para retirar con cuidado los chips MC3470 y CA3146. Si se trata de un problema de escritura, retire esos dos chips además del 74LS125 y el ULN2003.

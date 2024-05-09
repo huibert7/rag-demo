@@ -1,0 +1,1 @@
+Cambie la tarjeta controladora de la unidad de disco e instálela en otro sistema. Si no funciona, entonces cierto chip en la tarjeta del controlador de la unidad está defectuoso y debe llevarse a reparación o reemplazarse.
