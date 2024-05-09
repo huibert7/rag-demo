@@ -1,0 +1,1 @@
+The wide range of possible speeds is attributed to several factors, including the speed at which the computer can feed data to the printer; whether the printer interface is a serial or parallel connection; whether there is a printer buffer; the number of dots used to create a character; and whether a printer is unidirectional or bidirectional.
