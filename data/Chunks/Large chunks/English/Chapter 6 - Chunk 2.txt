@@ -1,0 +1,1 @@
+Description and Function of the Printer. The printer is ordinarily an optional device to the computer, since a printer is not needed to run programs or process data. But in order to put the results on paper instead of only on the monitor screen, you must have a printer (Fig. 6-1).
