@@ -1,0 +1,1 @@
+If the diskette is the correct type for the drive, the problem might be that the diskette is not initialized, or formatted. There are many diskette manufacturers, and the same type of diskettes can be used with a variety of com­puters

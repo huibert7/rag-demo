@@ -1,0 +1,1 @@
+If you still cannot write to the diskette, try a different diskette, one that you have recently used and know is not defective. If the system has no problem with this diskette, the original diskette was defective. Use its backup.

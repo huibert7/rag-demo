@@ -1,0 +1,1 @@
+Although the 5 1/4-inch diskette is enclosed in plastic, there is a small window at the hub of the diskette where the diskette is exposed for the drive head access. If the diskette is handled roughly, or if this exposed area is contaminated, the emulsion could be altered, and data lost.

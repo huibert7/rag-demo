@@ -1,0 +1,1 @@
+Initializing also tests the diskette for bad sectors. If any bad sectors are found, the INIT program blocks them out. The diskette can still be used, and valuable data is prevented from being written onto bad areas.

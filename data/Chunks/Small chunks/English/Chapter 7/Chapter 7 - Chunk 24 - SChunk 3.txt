@@ -1,0 +1,1 @@
+If your system is not writing to a brand new diskette, first make sure that it is the correct type of diskette for the drive. Make sure you are using a single­ sided, soft-sectored diskette in your drive. Check the disk drive documenta­tion for any additional diskette requirements.

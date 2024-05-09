@@ -1,0 +1,1 @@
+On the IIc, remove the IWM chip from the motherboard. Take the chip(s) to an electronics supply store and obtain a replacement(s). Care­fully install the new chips(s) in the socket(s).
