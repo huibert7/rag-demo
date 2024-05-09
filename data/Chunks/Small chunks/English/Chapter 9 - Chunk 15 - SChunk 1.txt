@@ -1,0 +1,1 @@
+Si el Ejercitador se interrumpe mientras ejecuta la prueba de la unidad de disco, podría haber un archivo llamado "TEST" en la lista del catálogo del disquete. Elimine este archivo del disquete. Normalmente, el diagnóstico elimina este archivo una vez completada su ejecución.

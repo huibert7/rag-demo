@@ -1,0 +1,1 @@
+Un segundo mensaje pregunta si se debe probar la impresora. Nuevamente, ingrese Y o N. Si la respuesta es sí, se le pedirá que ingrese la longitud del carro de la impresora y el número de ranura (slot 0 a 7) del controlador de la impresora.
