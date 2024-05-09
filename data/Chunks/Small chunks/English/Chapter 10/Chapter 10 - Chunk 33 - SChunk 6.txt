@@ -1,0 +1,1 @@
+If the game paddle does not work in any of the four game paddle ports, try operating the game paddle on another system. Also run the Game Paddle Diagnostic on the other system. If the game paddle works on the other system, then there is a problem with the system unit.

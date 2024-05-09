@@ -1,0 +1,1 @@
+Depending on the application software using the game paddle, a certain object on the screen is programmed to move in accordance with the movement of the game paddle control wheel.

@@ -1,0 +1,1 @@
+A potentiometer varies the signal received by the game port according to the direction, speed, and extent to which the user is turning the game paddle wheel. This operation is very similar to that of a light dimmer switch. The varying signals cause different results in the game, usually positioning an object at a certain place on the screen.

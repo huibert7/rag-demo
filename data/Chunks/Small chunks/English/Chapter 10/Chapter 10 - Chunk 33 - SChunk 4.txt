@@ -1,0 +1,1 @@
+If the game paddle still does not work, unplug the game paddle cable from its game paddle socket port, and plug it into the second port.

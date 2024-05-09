@@ -1,0 +1,1 @@
+If the game paddle does not work at all, it could be a problem with the interface connection, the game paddle, or the system unit. To isolate the problem, try the following solutions in the order given.

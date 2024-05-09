@@ -1,0 +1,1 @@
+There are several sources that can provide the information necessary to write a game paddle program, particularly a diagnostic program. The Applesoft BASIC manual has a great deal of valuable information for programming in Applesoft BASIC.

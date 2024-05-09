@@ -1,0 +1,1 @@
+ When you press the fire button, you generally cause a particular graphic to move quickly, as if shot, from the object being controlled by the wheel to wherever the object is pointing. The graphic usually represents something like a bullet, missile, or cannonball being shot from one location to another in a game.

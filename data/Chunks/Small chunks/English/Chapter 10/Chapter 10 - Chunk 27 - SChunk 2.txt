@@ -1,0 +1,1 @@
+The game paddle is a pointing and firing device (Fig. 10-5) used to either position an object on the screen, or to fire a graphic object, like a missile, at another graphic object, as part of a game. A jet airplane can be flown, a graphic robot can be moved, or a laser cannon can be controlled with the game paddle.

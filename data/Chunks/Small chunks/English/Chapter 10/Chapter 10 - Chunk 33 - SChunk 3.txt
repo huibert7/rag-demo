@@ -1,0 +1,1 @@
+Make sure the game paddle is firmly seated in its game paddle port. Unplug the game paddle from its socket port on the motherboard, and carefully plug it back in.

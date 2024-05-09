@@ -1,0 +1,1 @@
+If the game paddle works in the other port, then there is a problem in the original port in the system unit.

@@ -1,0 +1,1 @@
+Discover new uses for the game paddle. Any sample programs in the documen­tation will provide a good idea of the proper approach and special commands for developing a program for your own purposes.

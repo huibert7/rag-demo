@@ -1,0 +1,1 @@
+When the wheel is turned toward the right, or clockwise, the object on the screen tracks to the right. When the game paddle is turned toward the left, or counterclockwise, the object tracks to the left. The game paddle control causes the particular object on the screen to follow its movements.
