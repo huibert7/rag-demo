@@ -1,0 +1,1 @@
+The motherboard, sometimes also called the system board, contains the microprocessor chip, system memory chips, peripheral interface controllers, and expansion slots. This board is the foundation of the com­puter.

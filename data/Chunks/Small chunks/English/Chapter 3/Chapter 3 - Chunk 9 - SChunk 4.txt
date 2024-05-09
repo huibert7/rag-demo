@@ -1,0 +1,1 @@
+These controllers exist as separate circuits on the motherboard, each with its appropriate external connector with which to connect the monitor, keyboard, cassette drive, and game paddle.

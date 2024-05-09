@@ -1,0 +1,1 @@
+The term random-access memory indicates that the information currently stored in the chip can be directly and immediately retrieved for the user. The physical location of the data is not a factor in retrieval time.

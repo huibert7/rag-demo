@@ -1,0 +1,1 @@
+Every computer program instruction consists of at least two parts. The first part of the instruction indicates the command. The second part of the instruction indicates the address which locates the data to be acted upon by the command.

@@ -1,0 +1,1 @@
+The Apple II Plus uses the 6502 microprocessor chip as part of its CPU; the IIe uses the 6502B; and the 65C02 microprocessor controls the IIc. These chips perform the arithmetic-logic and control functions for their respective com­puters.
