@@ -1,0 +1,1 @@
+Para recuperarse de la caída, pulse RESET o CTRL RESET. El entorno debe regresar al Applesoft BASIC, lo que se reconoce a través de la aparición del indicador (]). Esta es una solución simple, pero, desafortunadamente, el trabajo almacenado en la memoria del sistema en el momento del fallo muy probablemente se haya perdido.

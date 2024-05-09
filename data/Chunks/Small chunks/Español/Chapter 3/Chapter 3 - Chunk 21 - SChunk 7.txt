@@ -1,0 +1,1 @@
+Si al presionar RESET la computadora no regresa al entorno Applesoft BASIC, apáguela, espere unos segundos y luego enciéndala nuevamente. Si el sistema aún no accede al entorno Applesoft BASIC con el mensaje del corchete derecho, esto indica un problema más grave. Es posible que el chip ROM (que contiene el BASIC) se haya quemado y sea necesario reemplazarlo.

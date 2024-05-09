@@ -1,0 +1,1 @@
+Si la pantalla se borra repentinamente y es reemplazada por una serie de números hexadecimales, y si en lugar del indicador (])   aparece un asterisco (*), esto indica que el sistema acaba de fallar y que colocó la computadora en el entorno del programa del monitor de la máquina.

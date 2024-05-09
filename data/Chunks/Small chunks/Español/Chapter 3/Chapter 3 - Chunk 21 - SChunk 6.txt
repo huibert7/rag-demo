@@ -1,0 +1,1 @@
+Si estaba trabajando en un idioma que no sea BASIC, es posible que necesite volver a cargar su entorno de programación (por ejemplo Apple Pascal).

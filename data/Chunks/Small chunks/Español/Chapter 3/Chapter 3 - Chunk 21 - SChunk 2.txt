@@ -1,0 +1,1 @@
+Cuando se enciende el sistema Apple II, el Applesoft BASIC se carga automáticamente desde la ROM. Un arranque exitoso se indica mediante un indicador (]) en la pantalla.
