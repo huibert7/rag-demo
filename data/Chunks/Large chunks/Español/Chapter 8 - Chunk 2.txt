@@ -1,0 +1,1 @@
+Descripción y funcionamiento de la interfaz de comunicaciones serie. La interfaz de comunicación serie consta de tres componentes: Un circuito de comunicación en serie. Un puerto serie. Un cable de interfaz. También es necesario un cuarto componente para establecer comunicaciones: el dispositivo con el que su Apple II se va a comunicar.
