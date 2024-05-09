@@ -1,0 +1,1 @@
+Es importante que el programa esté ingresado y funcionando correctamente antes de que surja un problema en el sistema. Si espera hasta que sospeche que hay un mal funcionamiento, es posible que no pueda ingresar al programa debido al mal funcionamiento. Incluso si puede ingresar y ejecutar el programa, los resultados de la prueba pueden ser inexactos y engañosos.

@@ -1,0 +1,1 @@
+Guarde el programa después de cada cien líneas para protegerlo contra la pérdida de datos en caso de una falla de energía o del sistema. Utilice el comando `SAVE DIAG`. Esa parte del programa se guarda en el disquete.

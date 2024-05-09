@@ -1,0 +1,1 @@
+Cuando se presiona Q, el programa "se cierra" o deja de funcionar y devuelve la computadora al entorno Applesoft BASIC.

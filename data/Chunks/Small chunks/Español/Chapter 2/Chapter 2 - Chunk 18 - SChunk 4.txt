@@ -1,0 +1,1 @@
+Siga los mismos pasos para ejecutar la prueba de color de gráficos de alta resolución. Ingrese RUN HIRES. Se mostrarán las instrucciones de la prueba de color de gráficos de alta resolución.

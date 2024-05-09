@@ -1,0 +1,1 @@
+Para cargar y ejecutar el programa de diagnóstico del sistema, siga estos pasos: Encienda el sistema. Applesoft BASIC se carga automáticamente y se muestra el mensaje ]. Coloque el disquete de diagnóstico en la unidad de disco. Ingrese RUN DIAG. Si tiene dos unidades de disco y está cargando el programa desde la unidad n.° 2, ingrese RUN DIAG,D2.

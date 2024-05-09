@@ -1,0 +1,1 @@
+Un pitido indica que el proceso de carga ha comenzado. Un segundo pitido indica que el programa de diagnóstico del sistema ha completado la carga. Luego se muestra el menú principal de diagnóstico del sistema.

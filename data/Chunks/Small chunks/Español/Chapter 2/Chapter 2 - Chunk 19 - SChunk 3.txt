@@ -1,0 +1,1 @@
+Cuando presiona una selección válida, la pantalla se borra y presenta un nuevo menú o comienza la prueba deseada inmediatamente. Si ingresa un comando no válido, como Z o R, el sistema emite un pitido y regresa al modo de selección para permitirle intentarlo nuevamente.

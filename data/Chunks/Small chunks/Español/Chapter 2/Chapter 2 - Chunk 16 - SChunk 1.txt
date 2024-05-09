@@ -1,0 +1,1 @@
+Para corregir cualquier error tipográfico, ingrese el número de línea que contiene el error y luego simplemente vuelva a escribir la línea correctamente. Esto sobrescribe la línea incorrecta. Para obtener más comandos y técnicas de edición, consulte el Manual de referencia del programador BASIC de Applesoft. (Scott Kaming, Addison-Wesley Publishing Company, 1987).

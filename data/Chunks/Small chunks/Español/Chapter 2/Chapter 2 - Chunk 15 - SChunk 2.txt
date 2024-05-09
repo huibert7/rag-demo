@@ -1,0 +1,1 @@
+Si no ha comprado el disquete, ingrese el código del programa como se indica en los Apéndices. Para hacer esto Encienda el sistema Apple. Applesoft BASIC se invoca automáticamente . Ingrese NEW para indicarle a BASIC que este es un programa nuevo. Ingrese el código fuente del Programa de diagnóstico del sistema exactamente como se indica en el Apéndice A.
