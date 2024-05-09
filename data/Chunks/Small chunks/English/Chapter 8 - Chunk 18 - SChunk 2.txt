@@ -1,0 +1,1 @@
+Parity is an error checking scheme used to ensure accurate data trans­ mission. With parity, the last bit in a data word is set so that the sum of the number of bits is either an odd number, for odd parity, or an even number, for even parity.

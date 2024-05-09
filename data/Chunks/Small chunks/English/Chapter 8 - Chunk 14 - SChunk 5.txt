@@ -1,0 +1,1 @@
+When running communication software for the first time, access the setup mode for these communication parameters. Once they are set, these options are usually stored on the program disk so that they are automatically implemented each time the program is used.

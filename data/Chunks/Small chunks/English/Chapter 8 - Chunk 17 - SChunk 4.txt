@@ -1,0 +1,1 @@
+Both the transmitter and receiver in the communication line need to know whether start bits and stop bits are being employed.

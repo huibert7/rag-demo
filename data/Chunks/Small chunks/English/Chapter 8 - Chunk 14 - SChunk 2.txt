@@ -1,0 +1,1 @@
+Since data is sent one bit at a time in serial communication, certain parameters must be specified when first configuring the communication software. These parameters pertain to data transmission speed, the size of the data characters being sent, whether start bits and stop bits are employed, and whether parity error checking is to take place.

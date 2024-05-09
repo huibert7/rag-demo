@@ -1,0 +1,1 @@
+Most modems come supplied with communication software. The same is true for the mouse and other serial communication devices you might acquire.

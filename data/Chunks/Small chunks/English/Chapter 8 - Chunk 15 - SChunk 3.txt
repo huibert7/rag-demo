@@ -1,0 +1,1 @@
+In serial communication, speed is expressed in a measurement called baud.

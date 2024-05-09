@@ -1,0 +1,1 @@
+Different types of computers have different keyboard control se­quences, keyboard mapping, screen format display, text handling, and special functions. These aspects of unique computer design can hinder effective commu­nication between two different computers.

@@ -1,0 +1,1 @@
+Some available serial communication boards do not require separate software. DIP-switches let you set communication parameters, and special programs built into the board's ROMs provide communication command sets to perform all necessary communication software functions.

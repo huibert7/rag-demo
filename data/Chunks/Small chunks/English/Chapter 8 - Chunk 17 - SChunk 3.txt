@@ -1,0 +1,1 @@
+The start bit signals the beginning of a character, and flags the attention of the receiving device. It in essence informs the device to expect seven or eight more bits of data for processing. Likewise, the stop bit signifies the end of a character.
