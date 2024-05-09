@@ -1,0 +1,1 @@
+This book details the steps necessary for diagnosing a problem, and once this is done, for effecting a repair. You are even given suggestions as to when the repair of a subassembly should not be attempted, and when it should be taken in for professional servicing.
