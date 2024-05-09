@@ -1,0 +1,1 @@
+Las líneas 3500 a 3600 contienen el módulo de diagnóstico de comunicación serial, que prueba la interfaz de comunicación serie.

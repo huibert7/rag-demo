@@ -1,0 +1,1 @@
+La prueba de pestañas horizontales verifica todas las posiciones de las pestañas horizontales a lo ancho del carro de la impresora.

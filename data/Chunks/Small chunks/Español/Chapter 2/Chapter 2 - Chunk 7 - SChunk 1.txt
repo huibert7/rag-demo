@@ -1,0 +1,1 @@
+También se proporciona una sexta prueba de monitor, la prueba de gráficos en color de alta resolución, como un programa separado, debido a las limitaciones de asignación de memoria de Apple II relacionadas con los gráficos de alta resolución.

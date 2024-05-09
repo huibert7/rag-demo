@@ -1,0 +1,1 @@
+El programa de diagnóstico del sistema se divide en varios módulos. Cada módulo incluye las instrucciones del programa necesarias para probar un dispositivo particular en el Apple II y probar posibles problemas.

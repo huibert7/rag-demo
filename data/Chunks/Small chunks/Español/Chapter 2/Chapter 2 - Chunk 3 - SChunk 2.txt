@@ -1,0 +1,1 @@
+El código para los otros módulos se enumera y explica en el capítulo del subsistema correspondiente. Por ejemplo, el código para el módulo de diagnóstico del monitor se explica en el Capítulo 5, "El monitor".

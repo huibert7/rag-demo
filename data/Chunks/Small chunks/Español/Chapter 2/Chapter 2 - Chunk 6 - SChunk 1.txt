@@ -1,0 +1,1 @@
+La prueba de visualización llena toda la pantalla con un carácter específico, probando si cada ubicación en el monitor es capaz de mostrar datos.

@@ -1,0 +1,1 @@
+La prueba de desplazamiento proporciona un conjunto de caracteres deslizantes para comprobar que el monitor se desplaza correctamente.

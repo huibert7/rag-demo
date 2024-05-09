@@ -1,0 +1,1 @@
+El diagrama de bloques describe la estructura del Programa de diagnóstico del sistema.

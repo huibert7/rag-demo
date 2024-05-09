@@ -1,0 +1,1 @@
+Este capítulo cubre el programa de diagnóstico del sistema: en qué consisten los módulos del subsistema y cómo cargar y ejecutar el programa.

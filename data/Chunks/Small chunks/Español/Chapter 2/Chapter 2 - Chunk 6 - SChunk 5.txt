@@ -1,0 +1,1 @@
+Finalmente, la prueba de gráficos en color de baja resolución verifica los 16 colores disponibles en cada ubicación de memoria de baja resolución en la pantalla.

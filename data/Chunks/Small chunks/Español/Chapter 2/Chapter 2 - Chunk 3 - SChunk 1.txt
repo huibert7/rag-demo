@@ -1,0 +1,1 @@
+El primer módulo es el menú principal de diagnóstico del sistema. El código correspondiente al módulo Menú principal, que se encuentra entre las líneas 50 a 190 del programa, se describirá más adelante en este capítulo.

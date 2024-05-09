@@ -1,0 +1,1 @@
+La prueba de impresión del juego de caracteres muestra el juego de caracteres principal reconocido por la impresora.

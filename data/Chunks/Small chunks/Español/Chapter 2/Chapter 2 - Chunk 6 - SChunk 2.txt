@@ -1,0 +1,1 @@
+La prueba de alineación muestra una serie de líneas verticales y horizontales para comprobar que el monitor está correctamente alineado.

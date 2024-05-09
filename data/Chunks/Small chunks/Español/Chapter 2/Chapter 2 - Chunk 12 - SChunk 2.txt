@@ -1,0 +1,1 @@
+Burn-in es un modo de prueba continua que ejercita todas las funciones del sistema. Esto es particularmente útil porque la mayoría de los problemas de la computadora ocurren cuando el sistema se configura por primera vez o cuando se mueve la computadora.

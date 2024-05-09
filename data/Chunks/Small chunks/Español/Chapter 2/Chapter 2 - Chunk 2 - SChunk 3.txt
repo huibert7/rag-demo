@@ -1,0 +1,1 @@
+Los dispositivos que se pueden probar con este programa son los de configuración típica: teclado, monitor, unidad de disco o disquetera, impresora e interfaz de comunicación serie.

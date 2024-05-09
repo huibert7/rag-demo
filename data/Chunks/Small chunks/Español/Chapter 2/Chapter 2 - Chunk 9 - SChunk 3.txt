@@ -1,0 +1,1 @@
+La prueba de impresión de caracteres de eco comprueba que se puedan imprimir los caracteres especificados.

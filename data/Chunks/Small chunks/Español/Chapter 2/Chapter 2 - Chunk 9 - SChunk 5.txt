@@ -1,0 +1,1 @@
+La prueba de avance de línea comprueba varias gradaciones de espacio de línea, incluida la alimentación de una nueva página de formulario continuo.

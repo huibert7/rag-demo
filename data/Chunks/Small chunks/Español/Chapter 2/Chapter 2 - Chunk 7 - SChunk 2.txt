@@ -1,0 +1,1 @@
+Comprueba los seis colores disponibles en cada ubicación de memoria de alta resolución en la pantalla. Este programa se proporciona en el mismo disquete que el Programa de diagnóstico del sistema o se puede copiar del listado proporcionado en el Apéndice B.

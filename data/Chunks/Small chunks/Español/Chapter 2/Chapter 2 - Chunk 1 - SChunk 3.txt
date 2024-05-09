@@ -1,0 +1,1 @@
+Luego se describe detalladamente el módulo del Menú principal del Programa de diagnóstico del sistema para explicar cómo funciona realmente el programa. Aquí se cubre brevemente una descripción general sobre la modificación y adaptación de programas para sus propios fines, que se trata con mayor profundidad en el Capítulo 10.

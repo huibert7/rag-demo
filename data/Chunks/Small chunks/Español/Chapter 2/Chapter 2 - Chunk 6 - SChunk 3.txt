@@ -1,0 +1,1 @@
+La prueba de conjunto de caracteres muestra el conjunto completo de caracteres de visualización disponibles en el monitor.

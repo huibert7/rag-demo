@@ -1,0 +1,1 @@
+Los números dentro de cada uno de los bloques son los números de línea donde se encuentra el código para ese módulo del subsistema. Las líneas 10 a 30 están reservadas para comentarios introductorios al programa.

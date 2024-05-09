@@ -1,0 +1,1 @@
+El módulo Ejercitador del Sistema reside entre las líneas 4000 a 4320. Si acaba de comprar un nuevo sistema Apple II, o si acaba de traer la computadora de servicio, es una buena idea probar a fondo el sistema.
