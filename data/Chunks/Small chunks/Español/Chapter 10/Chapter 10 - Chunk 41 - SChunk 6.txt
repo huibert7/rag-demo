@@ -1,0 +1,1 @@
+Haga que el diagrama de flujo del programa sea lo más detallado posible para proporcionar la mayor cantidad de información. Cuando termine, junte los tres segmentos del diagrama de flujo para formar un diagrama de flujo que represente el programa de diagnóstico de la paleta del sistema.

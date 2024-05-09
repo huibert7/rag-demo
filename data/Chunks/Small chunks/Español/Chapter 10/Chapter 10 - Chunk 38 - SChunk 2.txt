@@ -1,0 +1,1 @@
+La paleta de juego incluye un potenciómetro que determina la dirección del movimiento del objeto que controla. Debido a esto, una prueba particularmente útil sería una visualización en pantalla que rastree la dirección hacia la que apunta la paleta del juego. Esto le permitiría diagnosticar si el potenciómetro está funcionando correctamente o no.

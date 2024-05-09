@@ -1,0 +1,1 @@
+La prueba de disparo tiene dos propósitos: probar el botón de disparo y salir de la prueba. Después de presionar el botón de disparo, se mostrará el menú de diagnóstico del módulo. En este punto, puede probar otra paleta de juego conectada a otro puerto.

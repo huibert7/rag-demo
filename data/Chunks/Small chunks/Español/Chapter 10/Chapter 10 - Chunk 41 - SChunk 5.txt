@@ -1,0 +1,1 @@
+Tenga a mano el manual de programación BASIC de Applesoft como referencia. Esto le ayudará a encontrar las instrucciones especializadas utilizadas para acceder a los comandos de la paleta de juego. La documentación que viene con el mando de juego también puede contener información útil adicional.

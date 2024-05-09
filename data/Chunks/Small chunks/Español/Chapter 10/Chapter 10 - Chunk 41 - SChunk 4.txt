@@ -1,0 +1,1 @@
+Con base en el diagrama de flujo del sistema, detalle el diagrama de flujo del programa. Incluya todos los bucles, entradas, ramas y cualquier otro proceso necesario para la estructura del programa. Intente incluir los comandos BASIC reales dentro de las descripciones para ayudarlo con la codificación posterior.

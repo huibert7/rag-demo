@@ -1,0 +1,1 @@
+Una vez que haya determinado las funciones que se probarán como parte del diagnóstico de la paleta de juegos y haya resuelto muchos de los detalles de la prueba, el siguiente paso es desarrollar el diagrama de flujo que le ayudará a escribir el código real. Primero tendrá que crear el diagrama de flujo del sistema y luego el diagrama de flujo del programa.

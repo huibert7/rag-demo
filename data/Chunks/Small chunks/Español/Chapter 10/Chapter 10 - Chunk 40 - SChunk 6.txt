@@ -1,0 +1,1 @@
+Si el botón de disparo no hace que se muestre el menú del módulo, entonces probablemente el botón de disparo esté defectuoso. Al presionar CTRL C se cierra el programa y se sale al entorno BASIC de Applesoft. Consulte "Problema: el botón de disparo no funciona" más arriba para solucionar problemas y reparar el botón de disparo. Luego ejecute la prueba nuevamente.

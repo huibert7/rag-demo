@@ -1,0 +1,1 @@
+The Fire Test can serve two purposes: to test the fire button, and to quit from the current Game Paddle port test. After you press the fire button, the Game Paddle Diagnostic menu will be displayed. At this point, you can test the game paddle on another port.

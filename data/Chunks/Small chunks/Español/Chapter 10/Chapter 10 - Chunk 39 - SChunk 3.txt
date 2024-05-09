@@ -1,0 +1,1 @@
+Si el puntero no se mueve, o si el movimiento no es fluido (da saltos hacia adelante y hacia atrás), consulte las "Pautas de reparación y resolución de problemas de la Paleta de Juegos" más arriba para encontrar soluciones a este problema.

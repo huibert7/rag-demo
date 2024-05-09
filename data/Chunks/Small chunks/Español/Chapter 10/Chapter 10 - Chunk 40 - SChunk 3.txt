@@ -1,0 +1,1 @@
+Debido a restricciones inherentes del Apple II, el botón de disparo para el puerto 3 no se puede probar. Esto significa que a efectos práctico, el Apple II realmente solo puede soportar tres paletas de juego, aunque se puede consultar el estado de los cuatro potenciómetros.

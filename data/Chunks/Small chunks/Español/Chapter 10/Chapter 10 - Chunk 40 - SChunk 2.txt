@@ -1,0 +1,1 @@
+Una segunda prueba necesaria para el diagnóstico de las paletas de juego es probar el botón de disparo. Cuando se presiona el botón de disparo, automáticamente cambia un valor en memoria. A cada botón le corresponde una memoria diferente. Si el valor de esa memoria es superior a 127, siginica que el botón está presionado.
