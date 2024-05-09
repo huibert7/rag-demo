@@ -1,0 +1,1 @@
+Si hay energía, pero el indicador de la unidad no está encendido y sigue sin poder acceder a la unidad, hay un problema con el cable o el controlador. Lleve la unidad a reparar.

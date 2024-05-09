@@ -1,0 +1,1 @@
+Si la prueba de diagnóstico falla o devuelve una larga serie de errores de lectura, entonces la unidad de disco o el circuito de lectura en la tarjeta controladora de la unidad de disco están defectuosos.

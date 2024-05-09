@@ -1,0 +1,1 @@
+En II Plus y IIe, utilice el extractor de chips para retirar con cuidado los chips MC3470 y CA3146, que controlan los circuitos de lectura de la tarjeta. En el IIc, retira el chip IWM de la tarjeta madre. Lleve los chips a una tienda de suministros electrónicos y obtenga uno(s) de reemplazo. Instale con cuidado los nuevos chips en el zócalo.

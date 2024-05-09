@@ -1,0 +1,1 @@
+Si sus intentos de iniciar el sistema, cargar un programa o leer un archivo sólo provocan que se devuelva un mensaje de error de lectura, entonces probablemente haya un problema con el circuito de lectura de la unidad de disco.

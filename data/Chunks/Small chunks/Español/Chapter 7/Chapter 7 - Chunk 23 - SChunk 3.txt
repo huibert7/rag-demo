@@ -1,0 +1,1 @@
+Si se coloca un disquete junto a una fuente de alimentación no blindada o cerca de un aparato con motor, el campo magnético del motor puede alterar los datos de forma impredecible.

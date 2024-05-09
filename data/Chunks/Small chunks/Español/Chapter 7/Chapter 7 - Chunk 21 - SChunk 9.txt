@@ -1,0 +1,1 @@
+Si su configuración de Apple II incluye más de una unidad de disco, es posible que haya un problema de direccionamiento del software. Asegúrese de que el programa en uso esté direccionando el disco con el que quiere trabajar.

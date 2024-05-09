@@ -1,0 +1,1 @@
+Si su sistema incluye una segunda unidad de disco, coloque el disquete del programa en la otra unidad y lea el programa desde allí. Si su sistema no puede leer desde la otra unidad, es posible que tenga un disquete de programa defectuoso. Cargue el disquete de respaldo.

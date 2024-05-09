@@ -1,0 +1,1 @@
+Si tanto su unidad de disco como su controlador funcionan en el otro sistema, pero no funcionan en el suyo, entonces tiene una unidad central defectuosa. Consulte el Capítulo 3 para conocer los procedimientos de solución de problemas de la unidad central.

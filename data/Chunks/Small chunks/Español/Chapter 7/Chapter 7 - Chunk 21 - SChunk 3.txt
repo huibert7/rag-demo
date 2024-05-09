@@ -1,0 +1,1 @@
+Compruebe cómo se insertó el disquete. Si se inserta al revés, la unidad no puede leer ni escribir en él. Los sistemas Apple II utilizan unidades de disco horizontales, en las que el disquete debe insertarse boca arriba o con la etiqueta del disquete hacia arriba.

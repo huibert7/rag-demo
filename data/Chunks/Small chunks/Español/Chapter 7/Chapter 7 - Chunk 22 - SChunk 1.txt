@@ -1,0 +1,1 @@
+No se puede cargar un programa ni leer un archivo de datos

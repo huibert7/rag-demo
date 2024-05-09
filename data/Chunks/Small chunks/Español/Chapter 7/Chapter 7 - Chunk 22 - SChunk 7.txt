@@ -1,0 +1,1 @@
+Pruebe la unidad de disco en otro sistema. Si no funciona, entonces su unidad está defectuosa y debe llevarla a reparar.

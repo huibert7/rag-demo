@@ -1,0 +1,1 @@
+Si su unidad de disco no puede leer ni escribir en un disquete, pruebe las siguientes soluciones.

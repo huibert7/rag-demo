@@ -1,0 +1,1 @@
+Si la unidad de disco funciona, cambie el controlador de su unidad de disco por el de otro sistema. Si no funciona, entonces cierto chip en la tarjeta del controlador de la unidad está defectuoso y debe ser reemplazado. Consulte "Trabajar con chips IC" en el Capítulo 1 para obtener más instrucciones sobre cómo reemplazar chips.

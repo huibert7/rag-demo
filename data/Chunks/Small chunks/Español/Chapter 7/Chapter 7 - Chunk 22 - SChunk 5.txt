@@ -1,0 +1,1 @@
+Si la prueba se ejecuta correctamente y el diagnóstico devuelve el mensaje de finalización de la prueba, entonces no hay ningún problema con su unidad de disco. Probablemente fue un problema de disquete. Pruebe con un disquete diferente en la unidad y debería funcionar.

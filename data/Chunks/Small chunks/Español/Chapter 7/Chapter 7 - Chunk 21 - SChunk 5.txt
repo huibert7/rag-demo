@@ -1,0 +1,1 @@
+Otro indicador es que si no se carga ningún programa desde el disquete y solo se muestra el mensaje Applesoft BASIC, esto indica que la unidad no tiene energía.

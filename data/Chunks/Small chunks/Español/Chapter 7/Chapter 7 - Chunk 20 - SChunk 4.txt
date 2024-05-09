@@ -1,0 +1,1 @@
+Si sus esfuerzos de solución de problemas apuntan a un problema en la tarjeta controladora de la unidad de disco, asegúrese de que esté asentada correctamente en la ranura de expansión correcta y verifique que los contactos estén limpios.

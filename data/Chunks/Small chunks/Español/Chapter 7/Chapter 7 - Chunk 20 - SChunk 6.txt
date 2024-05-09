@@ -1,0 +1,1 @@
+Si el problema de la unidad de disco es causado por la tarjeta madre, consulte el Capítulo 3 para conocer los procedimientos de solución de problemas de la unidad central.

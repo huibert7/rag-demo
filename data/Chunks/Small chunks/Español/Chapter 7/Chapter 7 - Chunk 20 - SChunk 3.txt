@@ -1,0 +1,1 @@
+Si el disquete está en buen estado, verifique el controlador de la unidad de disco. Si el controlador funciona normalmente, solucione el problema de la unidad de disco. Si la unidad de disco está operativa, finalmente solucione los problemas de la tarjeta madre.

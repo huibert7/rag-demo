@@ -1,0 +1,1 @@
+Si se carga, ejecute el módulo de diagnóstico de la unidad de disco en un disquete en blanco y formateado. El diagnóstico escribe un patrón específico en el disco, lo lee y compara los dos para asegurarse de que coincidan. Esto verifica la lógica de lectura/escritura. Ejecute el diagnóstico en la unidad que no cargó el programa.

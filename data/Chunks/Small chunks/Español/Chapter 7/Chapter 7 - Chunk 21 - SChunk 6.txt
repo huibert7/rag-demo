@@ -1,0 +1,1 @@
+Verifique que se esté suministrando energía a la unidad. Su energía proviene de la fuente de alimentación de la unidad central del sistema. Verifique que la unidad de disco esté conectada correctamente a la unidad central.
