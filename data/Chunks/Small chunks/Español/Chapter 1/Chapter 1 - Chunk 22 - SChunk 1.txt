@@ -1,0 +1,1 @@
+Cuando realice ajustes en una de las tarjetas de circuito impreso, utilice una varilla de sintonización, que es un destornillador no conductor. Esto evita que las corrientes eléctricas que residen en el tablero sean conducidas hacia su mano y a través de su cuerpo.

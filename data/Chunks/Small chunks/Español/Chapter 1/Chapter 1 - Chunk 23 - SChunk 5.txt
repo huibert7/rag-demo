@@ -1,0 +1,1 @@
+No coloque su computadora cerca de fuentes de alimentación, electrodomésticos o cualquier otro elemento que contenga algún tipo de motor. Un motor crea un campo magnético que puede interferir con los datos escritos magnéticamente en sus disquetes. Esta interferencia magnética podría borrar o alterar fácilmente sus programas y datos.

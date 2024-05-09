@@ -1,0 +1,1 @@
+Nunca trabaje con un sistema si está "vivo" o alimentado eléctricamente. Incluso cuando la electricidad esté desconectada de un sistema abierto, conéctese a tierra tocando el metal antes de tocar el sistema. Cuando está conectado a tierra, las cargas eléctricas no son atraídas a través de su cuerpo y se evita una descarga eléctrica.

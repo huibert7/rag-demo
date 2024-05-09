@@ -1,0 +1,1 @@
+Este libro está dividido en capítulos según los principales subsistemas informáticos. Si tiene problemas con el teclado, por ejemplo, consulte el Capítulo 4, "El teclado". El capítulo describe el mantenimiento preventivo específico del teclado, los posibles problemas del teclado y los pasos a seguir para solucionarlos y repararlos.
