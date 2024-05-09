@@ -1,0 +1,1 @@
+The high-resolution or color display is a matrix as well, but a more detailed matrix, working at a pixel level rather than a character level. Since an individual pixel is much smaller than a character, and since there is a greater density of pixels, there is more flexibility and precision represented on the display. This creates a sharper picture with higher resolution.

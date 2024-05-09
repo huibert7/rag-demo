@@ -1,0 +1,1 @@
+The television set monitor can display graphics and color, but only in the 40 x 24 text format (as contrasted with the 80 x 24 text format on a standard computer monitor). The low-resolution graphics mode divides the screen into a matrix of 40 x 48 blocks. Each of these blocks can be assigned one of the 16 available colors, and can draw low-resolution graphics.

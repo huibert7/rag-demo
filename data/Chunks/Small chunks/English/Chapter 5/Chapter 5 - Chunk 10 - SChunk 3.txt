@@ -1,0 +1,1 @@
+These circuits control the display mode: text, low-resolution, and high-resolu­tion. The character generator ROM is a part of the video controller. A series of RAM chips comprise video memory, which provide the memory locations on the screen for a character, low-res block, or high-res pixel to be displayed at a given location on the screen.

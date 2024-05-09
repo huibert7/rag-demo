@@ -1,0 +1,1 @@
+A color trim resistor is also included with the video controller circuitry, allowing the adjustment of monitor color.

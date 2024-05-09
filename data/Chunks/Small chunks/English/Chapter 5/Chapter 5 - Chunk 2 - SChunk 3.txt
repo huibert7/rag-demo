@@ -1,0 +1,1 @@
+The Apple II systems all support the 40-column x 24-row screen display format. In addition, the 80-column x 24-row display mode is built into the IIe and IIc, and is available as an option on the II Plus.

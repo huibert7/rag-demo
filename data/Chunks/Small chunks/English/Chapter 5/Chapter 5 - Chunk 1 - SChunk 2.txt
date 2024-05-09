@@ -1,0 +1,1 @@
+Visual feedback, or output, is necessary when working with your computer. You need to see the input as you enter it, as well as processing results as soon as the computer produces them. Just as the keyboard is the primary input device, the monitor is the primary output.
