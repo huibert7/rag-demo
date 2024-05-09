@@ -1,0 +1,1 @@
+The different microswitches can each control a different setting, mode, or configuration; can work in various combinations; or the entire switch can have a specified ON/OFF sequence of the microswitches which indicate a particular setting.

@@ -1,0 +1,1 @@
+If the peripheral still does not work, refer to the peripheral documentation. There might be a DIP-switch on the controller board that needs to be set, particularly on the serial communication interface board.
