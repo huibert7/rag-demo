@@ -1,0 +1,1 @@
+Chapter 1 covers general computer maintenance, troubleshooting, and repair techniques. It provides the foundation necessary to make use of the specific procedures and instructions found in the subsequent subsystem chapters under the "Troubleshooting and Repair Guidelines" sections.

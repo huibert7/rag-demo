@@ -1,0 +1,1 @@
+If a problem with your computer does surface, refer to the appropriate subsys­tem chapter. For example, if the printer is not working correctly, refer to Chapter 6, The Printer. Within that chapter, refer to the "Troubleshooting and Repair Guidelines" section. Then look up the name of the problem that fits what the system is experiencing.

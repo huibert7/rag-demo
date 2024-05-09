@@ -1,0 +1,1 @@
+As it pertains to the specific subsystem, each of these chapters includes: A brief theory of operation. Specific preventive maintenance procedures. A list of possible problems. Troubleshooting and repair techniques. An explanation of the diagnostic program module

@@ -1,0 +1,1 @@
+The program listings and detailed line-by-line explanations of this program code are also included in the corresponding chapters. This is particularly useful if you know how to program in BASIC, and would like to understand the program logic. This can also help you modify the program for your own specific purposes, or create new modules for additional subsystems and peripherals.
