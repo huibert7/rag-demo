@@ -1,1 +1,0 @@
-El contador de errores se incrementa si hay alguna discrepancia entre lo que se escribió y lo que se está leyendo ahora. Luego se elimina el archivo y se completa la prueba.
