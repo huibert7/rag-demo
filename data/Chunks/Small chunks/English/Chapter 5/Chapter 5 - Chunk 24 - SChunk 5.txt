@@ -1,0 +1,1 @@
+If the test reveals blank locations, then there is a problem with the video memory circuitry for that text character location. Each character represents a video memory location. If the character does not display at a certain location, but it does display at other locations, it means the memory loca­tion, controlled by one of the RAM chips, is defective.

@@ -1,0 +1,1 @@
+Run the Low-Resolution Test of the Monitor Diagnostic module. This will confirm whether or not there is a problem with the low-resolution memory locations. If any part of the screen is blank instead of filled, then there is a problem with those memory locations.
