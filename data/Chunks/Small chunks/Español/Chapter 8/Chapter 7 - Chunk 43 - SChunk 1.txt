@@ -1,0 +1,1 @@
+Al igual que en la segunda pasada, la cuarta pasada por el disco abre el archivo y vuelve a leer los datos escritos durante la tercera pasada. Los datos leídos se comparan con CHR$(63). El mensaje "READING LOW VALUES FROM DISK" que en español significa "LEYENDO VALORES BAJOS DEL DISCO" aparece durante aproximadamente cinco minutos.

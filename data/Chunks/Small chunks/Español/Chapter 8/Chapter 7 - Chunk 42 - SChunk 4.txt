@@ -1,0 +1,1 @@
+Debido a que CHR$(63) y CHR$(64) tienen un patrón de bits alterno, esto garantiza que se escriban todos los bits posibles en el disco, creando una prueba exhaustiva del disco.

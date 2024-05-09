@@ -1,0 +1,1 @@
+Los errores se cuentan y se muestra un total final al final de la prueba. Estos errores no son errores fatales y la prueba continuará. Si hay 1 o 2 errores de discrepancia, es posible que desees probar la unidad con más frecuencia para ver si empeora. Pero uno o dos errores no justifican que usted tome medidas.
