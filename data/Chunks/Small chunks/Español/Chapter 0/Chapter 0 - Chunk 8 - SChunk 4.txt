@@ -1,0 +1,1 @@
+También se incluye una breve descripción de los comandos BASIC de Applesoft utilizados en el programa de diagnóstico del sistema.

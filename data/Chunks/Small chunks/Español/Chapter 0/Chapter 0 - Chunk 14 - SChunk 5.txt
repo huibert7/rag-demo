@@ -1,0 +1,1 @@
+El módulo de ejercicio del programa de diagnóstico del sistema garantiza que el sistema, en su conjunto, esté funcionando correctamente.

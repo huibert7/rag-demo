@@ -1,0 +1,1 @@
+Las instrucciones para ejecutar el módulo se proporcionan en su propia sección, junto con ilustraciones de los resultados de prueba esperados. Después de realizar estas pruebas, podrá hacer un diagnóstico y tomar las medidas adecuadas.

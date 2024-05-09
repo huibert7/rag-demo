@@ -1,0 +1,1 @@
+Si no está familiarizado con BASIC, puede omitir fácilmente estas explicaciones del programa y seguir utilizando los módulos de diagnóstico con éxito. Todo el programa está listo para usar. Simplemente cree una copia de seguridad del programa y luego cárguela en su sistema.

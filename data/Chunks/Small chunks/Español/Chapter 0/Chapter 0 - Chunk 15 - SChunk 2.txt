@@ -1,0 +1,1 @@
+Finalmente, el Capítulo 10 detalla las técnicas utilizadas en el desarrollo de módulos de diagnóstico para otros dispositivos periféricos, como tabletas digitalizadoras y joysticks, que aún no están incluidos en el Programa de diagnóstico del sistema.

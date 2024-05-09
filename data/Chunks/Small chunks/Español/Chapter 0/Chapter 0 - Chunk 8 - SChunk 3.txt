@@ -1,0 +1,1 @@
+Puede comprar el programa en un disquete (consulte la última página de este libro) o puede ingresarlo usted mismo (consulte el Apéndice). El Capítulo 2 explica cómo cargar y ejecutar este programa. Además, se explica el módulo del Menú principal, al igual que los módulos del subsistema se explican en los capítulos siguientes.

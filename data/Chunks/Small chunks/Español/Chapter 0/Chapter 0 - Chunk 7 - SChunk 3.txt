@@ -1,0 +1,1 @@
+Este libro detalla los pasos necesarios para diagnosticar un problema y, una vez hecho esto, realizar una reparación. Incluso recibirá sugerencias sobre cuándo no se debe intentar reparar un subsistema y cuándo se debe llevar a un servicio profesional.
