@@ -1,0 +1,1 @@
+If the white keyboard light is illuminated, but the keyboard does not work, check the monitor for the standard screen prompts. These prompts, display­ ing the right bracket cursor, indicate that the computer is in Applesoft BASIC.

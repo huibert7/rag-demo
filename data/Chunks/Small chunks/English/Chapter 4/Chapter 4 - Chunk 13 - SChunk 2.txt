@@ -1,0 +1,1 @@
+A sticking key stays down after being pressed, causing its character to fill up the whole screen until you physically lift the key up again. There are three remedies for this type of problem.
