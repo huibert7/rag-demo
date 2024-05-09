@@ -1,0 +1,1 @@
+The Character Set Print Test displays all characters available within the printer's character set, and checks whether all the characters are printing satisfac­torily. To run the Character Set Print Test, press 2. All characters in the character set will be printed.
