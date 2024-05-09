@@ -1,0 +1,1 @@
+Blank, formatted diskettes should be inserted into each of the drives being tested. Although you might wish to dim the monitor display, there is no danger from etching (see Chapter 5 for more information about etching}, because the display is continuously changing.

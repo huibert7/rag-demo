@@ -1,0 +1,1 @@
+When you are ready to run the System Exerciser on the Apple II, make sure that the components are ready for hours of testing. If the printer is part of the test, load it with a sufficient quantity of continuous form paper. Check that there is enough ribbon to last throughout the duration of the printer test.

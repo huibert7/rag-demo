@@ -1,0 +1,1 @@
+The program then prompts you for the slot number of each of the drives to be tested. Enter the appropriate number, 0 through 7, as indicated on the expansion slot itself. If running a IIe, specify slot 6.

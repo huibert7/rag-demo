@@ -1,0 +1,1 @@
+Any combination of Exerciser parameters can be selected. Once these parame­ters are all entered, the program begins exercising the system. If the monitor is included in the Exerciser, the screen is filled with Xs for the Display Test. The screen then clears and runs through the Character Set Test. Finally, the Scroll Test is run for 50 repetitions.

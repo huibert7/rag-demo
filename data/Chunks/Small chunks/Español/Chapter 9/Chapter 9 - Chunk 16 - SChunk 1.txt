@@ -1,0 +1,1 @@
+If the Exerciser is interrupted while running the disk drive test, there could be a file called "TEST" in the diskette's catalog listing. Delete this file from the diskette. Normally the diagnostic removes this file after its run is completed.

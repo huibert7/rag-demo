@@ -1,0 +1,1 @@
+Because the Exerciser tests the three major components of the Apple II system: the monitor, printer, and disk drive(s}, it can indicate whether there is a system problem. If it's an obvious problem, it will probably surface immediately. If there is a marginal or intermittent problem elsewhere in the system, it will show up within a 12-hour bum-in run of the Exerciser.

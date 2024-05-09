@@ -1,0 +1,1 @@
+If the disk drive(s) are included in the Exerciser, the disk drive test begins upon completion of the printer testing. The write/read test is run on each disk drive specified for testing.

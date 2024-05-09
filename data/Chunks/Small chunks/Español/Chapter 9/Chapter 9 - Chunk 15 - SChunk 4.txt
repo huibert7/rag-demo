@@ -1,0 +1,1 @@
+At this point, a message is displayed indicating the number of passes the program has completed. The system then prompts to enter any character to end the diagnostic. Once this is done, the System Diagnostic Program displays the System Diagnostic Main Menu.

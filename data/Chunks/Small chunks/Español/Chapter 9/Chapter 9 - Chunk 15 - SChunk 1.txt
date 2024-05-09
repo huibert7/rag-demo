@@ -1,0 +1,1 @@
+After this is completed, the program loops back and tests the monitor again, then the printer, and so forth. The Exerciser runs in this continuous loop, running the tests in a repeated cycle.

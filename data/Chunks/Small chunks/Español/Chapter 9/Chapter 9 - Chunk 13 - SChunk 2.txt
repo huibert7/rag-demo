@@ -1,0 +1,1 @@
+A third prompt asks if the disk drive(s) are to be tested. Enter either Y or N . If the answer is yes, you are then prompted to enter the number of drives to be exer­cised. Using the Exerciser, all the disk drives on the Apple II can be tested sequentially. Enter the appropriate number between 1 and 6 to indicate the number of drives you wish to test.

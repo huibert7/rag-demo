@@ -1,0 +1,1 @@
+If all three subsystems are included in the Exerciser, one cycle takes approximately 25 minutes, with 20 of those minutes devoted to the disk drive portion of the test.

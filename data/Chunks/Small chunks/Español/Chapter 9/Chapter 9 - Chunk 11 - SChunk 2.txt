@@ -1,0 +1,1 @@
+This cycle continues until the CTRL RESET is pressed to interrupt the Exerciser. Upon interruption, the message, "TOTAL PASSES THROUGH EXERCISER-X", is displayed to indi­cate the number of cycles the Exerciser has run.

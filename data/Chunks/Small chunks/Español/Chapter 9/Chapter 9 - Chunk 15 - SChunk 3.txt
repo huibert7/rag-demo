@@ -1,0 +1,1 @@
+Press CTRL RESET to halt the Exerciser. This ends the System Exerciser module, and as a result, halts the entire System Diagnostic Program. To return to the Exerciser, enter GOTO 4300 at the Applesoft BASIC right bracket prompt. The system returns to the System Diagnostic Program at line 4300 in the code.
