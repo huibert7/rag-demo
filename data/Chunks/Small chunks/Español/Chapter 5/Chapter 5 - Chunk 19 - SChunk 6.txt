@@ -1,0 +1,1 @@
+Verifique el cableado para asegurarse de que el monitor esté conectado correctamente a la interfaz del monitor de la unidad central en la tarjeta madre.

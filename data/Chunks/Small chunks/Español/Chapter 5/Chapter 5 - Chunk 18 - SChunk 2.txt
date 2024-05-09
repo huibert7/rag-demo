@@ -1,0 +1,1 @@
+Esta sección describe los problemas que pueden ocurrir con su monitor y cómo solucionarlos y solucionarlos. Muchos de los pasos de solución de problemas incluyen la ejecución del módulo Monitor Diagnostic. Se proporcionan más instrucciones y explicaciones de este módulo en la siguiente sección titulada "Ejecución del módulo de diagnóstico".

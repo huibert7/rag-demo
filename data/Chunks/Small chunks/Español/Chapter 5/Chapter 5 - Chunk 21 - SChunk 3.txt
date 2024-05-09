@@ -1,0 +1,1 @@
+Ejecute la prueba de alineación. Si la cuadrícula no aparece cuadrada y simétrica en la pantalla, es necesario ajustar el monitor. Hay potenciómetros de ajuste en la parte posterior de la mayoría de los monitores. Estos están etiquetados como ajustes Horizontal, Vertical, Brillo y Contraste, y sirven para desviar el haz de electrones o cambiar su intensidad.

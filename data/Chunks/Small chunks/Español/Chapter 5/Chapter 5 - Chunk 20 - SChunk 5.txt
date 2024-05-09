@@ -1,0 +1,1 @@
+El convertidor de RF tiene dos posiciones de interruptor: COMPUTADORA y TV. Asegúrese de que el convertidor esté en la posición COMPUTER. Además, verifique que el convertidor esté conectado correctamente a los cables de la antena VHF en lugar de UHF.

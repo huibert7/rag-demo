@@ -1,0 +1,1 @@
+Si realiza todas estas pruebas con su televisor y su convertidor de RF y todavía hay estática en la pantalla del televisor, es probable que la unidad central no funcione correctamente. Consulte el Capítulo 3 sobre cómo solucionar problemas de la unidad central.

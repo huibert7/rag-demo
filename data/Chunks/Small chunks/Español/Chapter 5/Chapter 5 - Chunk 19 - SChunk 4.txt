@@ -1,0 +1,1 @@
+No es una buena idea utilizar un multicontacto controlado por un interruptor de luz para la computadora o el monitor. Alguien podría apagar accidentalmente el interruptor mientras usa su computadora, lo que provocaría que el sistema fallara y se perdieran datos.

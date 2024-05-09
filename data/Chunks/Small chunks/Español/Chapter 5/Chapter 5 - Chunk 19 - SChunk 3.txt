@@ -1,0 +1,1 @@
+Compruebe que el monitor esté correctamente conectado. Si el monitor es un televisor conectado a un enchufe diferente al de la computadora, verifique si el tomacorriente está controlado por un interruptor de luz. Si es así, asegúrese de que el interruptor de la luz esté encendido.

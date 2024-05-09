@@ -1,0 +1,1 @@
+Primero intente usar otro monitor con su sistema. Si el nuevo monitor funciona, entonces su monitor necesita reparación. Si el monitor intercambiado no funciona, es posible que tenga un problema con la unidad central. Consulte el Capítulo 3 para conocer los procedimientos de solución de problemas de la unidad central.
