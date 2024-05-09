@@ -1,0 +1,1 @@
+Printer. Like the monitor, the printer is an output device. However, while the monitor provides output on the screen, the printer provides output on paper, or hardcopy. A serial interface connection between the system unit and printer allows data and processing results to be transferred from the system and typed using a dot-matrix or letter-quality printer.

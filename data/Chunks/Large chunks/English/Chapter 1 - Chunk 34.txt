@@ -1,0 +1,1 @@
+External Fan. If you use the Apple II Plus or IIe for more than a couple hours at a time, obtain an external fan. Sometimes the system experiences overheating, which can cause malfunctions in programs being run. An external fan clips onto the rear of the system unit and forces air through the vents to the inside of the system to keep it cool.
