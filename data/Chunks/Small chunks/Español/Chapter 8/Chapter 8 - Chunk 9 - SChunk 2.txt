@@ -1,0 +1,1 @@
+Los sistemas Apple II utilizan principalmente impresoras serie, lo que significa que en los Apple II la interfaz de la impresora es un puerto serie. Los sistemas Apple IIc tienen dos puertos serie: uno generalmente usado para la impresora y el otro para la comunicación a través de un módem.

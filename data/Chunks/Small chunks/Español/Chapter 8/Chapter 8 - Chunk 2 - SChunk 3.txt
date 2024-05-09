@@ -1,0 +1,1 @@
+También es necesario un cuarto componente para establecer comunicaciones: el dispositivo con el que su Apple II se va a comunicar.

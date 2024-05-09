@@ -1,0 +1,1 @@
+Algunas tarjetas de comunicación serie se pueden usar para ambos usos y se controlan intercambiando el cable de interfaz del dispositivo y cambiando la configuración de un interruptor en la placa. Es posible tener tantos puertos serie como ranuras de expansión disponibles.

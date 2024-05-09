@@ -1,0 +1,1 @@
+Los 20 pines restantes no se usan. El puerto de interfaz serie del Apple IIc es más eficiente y utiliza un conector RS-232 de 5 pines real. Sus asignaciones de pines son las siguientes:

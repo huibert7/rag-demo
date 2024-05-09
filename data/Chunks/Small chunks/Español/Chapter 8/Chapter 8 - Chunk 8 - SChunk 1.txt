@@ -1,0 +1,1 @@
+Los módems sólo pueden funcionar en pares. Para que dos computadoras se comuniquen entre sí, cada computadora debe estar conectada a un módem que tenga configuraciones coincidentes, incluida la velocidad de comunicación, el tamaño de los datos, los bits de inicio y otros parámetros similares que se analizarán más adelante en este capítulo.

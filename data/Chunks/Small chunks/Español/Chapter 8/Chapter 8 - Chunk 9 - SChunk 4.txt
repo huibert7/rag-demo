@@ -1,0 +1,1 @@
+Al igual que con el módem, la impresora debe configurarse con los mismos datos que los usados en el interfaz de comunicaciones en serie (velocidad, tamaño, etc.) y que se configuran en su Apple II. Esto se debe a que la impresora debe saber qué tipo de datos esperar de la computadora y luego debe saber qué hacer con los datos.

@@ -1,0 +1,1 @@
+El puerto del interfaz serie en el Apple II Plus y el IIe es un conector RS-232 de 25 pines ubicado en la parte posterior de la unidad central. Aunque hay 25 pines, sólo 5 de estos pines se utilizan para señales de comunicación en serie, con las asignaciones de pines de la siguiente manera:

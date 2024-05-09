@@ -1,0 +1,1 @@
+El módem es el intermediario para enviar información de una computadora a otra. Convierte la señal digital de la computadora de origen en ondas sonoras. Estas ondas sonoras, o señales analógicas, permiten la transmisión de información a través de líneas telefónicas. Esta parte de la conversión se conoce como modulación.

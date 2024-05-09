@@ -1,0 +1,1 @@
+La interfaz de comunicación serie del Apple II se utiliza para comunicarse con dispositivos como el módem, la impresora u otra computadora.

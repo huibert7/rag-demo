@@ -1,0 +1,1 @@
+Por lo general, la impresora se conecta directamente a la computadora con un cable de interfaz. En algunos casos, la impresora incluso se puede utilizar junto con el módem para proporcionar impresión de largo alcance. Una computadora central desde un sitio remoto puede enviar información a través de una línea de comunicación e imprimirla en una impresora local.

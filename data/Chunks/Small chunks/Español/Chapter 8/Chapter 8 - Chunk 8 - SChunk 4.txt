@@ -1,0 +1,1 @@
+Los sistemas Apple II se conectan a módems externos. Un módem RS-232 utiliza el cable RS-232 y se conecta al puerto serie en la parte posterior de la unidad central.

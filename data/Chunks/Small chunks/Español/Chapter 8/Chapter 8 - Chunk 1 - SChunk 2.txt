@@ -1,0 +1,1 @@
+Los sistemas Apple II pueden comunicarse con otros dispositivos. Usando un interfaz de comunicación en serie, es posible conectar un módem, una impresora, un mouse e incluso otra computadora. Los datos y la información se envían y reciben desde estos periféricos. La comunicación entre diferentes dispositivos requiere los servicios de una interfaz de comunicación en serie.

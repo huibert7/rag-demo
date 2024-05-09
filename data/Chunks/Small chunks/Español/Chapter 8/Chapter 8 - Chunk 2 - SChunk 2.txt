@@ -1,0 +1,1 @@
+La interfaz de comunicación serie consta de tres componentes: Un circuito de comunicación en serie. Un puerto serie. Un cable de interfaz.

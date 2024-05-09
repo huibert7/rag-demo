@@ -1,0 +1,1 @@
+Dispositivos con los que se puede conectar su Apple II a través de un interfaz de comunicación en serie
