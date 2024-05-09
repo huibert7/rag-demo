@@ -1,0 +1,1 @@
+La prueba de bucle invertido de caracteres muestra un mensaje para ingresar un carácter en el teclado. Este carácter se envía a través del bucle de comunicación creado por el cable loopback. 

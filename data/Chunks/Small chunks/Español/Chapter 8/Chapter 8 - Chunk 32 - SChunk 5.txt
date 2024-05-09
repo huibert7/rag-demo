@@ -1,0 +1,1 @@
+Cualquier carácter ingresado en el teclado Apple II se envía al dispositivo, se recibe inmediatamente a través de estos pines y se envía de regreso a la computadora. El carácter se repetirá y se mostrará en la pantalla.

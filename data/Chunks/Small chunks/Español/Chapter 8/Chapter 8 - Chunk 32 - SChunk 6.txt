@@ -1,0 +1,1 @@
+Hay conectores de prueba disponibles que ya tienen los pines 2 y 3 conectados entre sí. Llamado conector de bucle invertido en serie de 25 pines, se puede comprar en la mayoría de las tiendas de informática o suministros electrónicos. El conector de bucle invertido encaja directamente en el extremo del cable RS-232 y logra el mismo efecto de bucle invertido.

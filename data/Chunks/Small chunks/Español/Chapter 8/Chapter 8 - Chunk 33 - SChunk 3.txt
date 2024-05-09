@@ -1,0 +1,1 @@
+El bucle invertido hace que el carácter se envíe de vuelta inmediatamente y se reciba como salida que se muestra en la pantalla del monitor. Esto verifica las funciones de la interfaz de comunicación serial tanto transmitiendo como recibiendo datos. El valor ASCII del carácter también se muestra en la pantalla

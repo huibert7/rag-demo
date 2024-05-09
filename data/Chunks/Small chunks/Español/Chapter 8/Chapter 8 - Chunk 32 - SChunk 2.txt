@@ -1,0 +1,1 @@
+El módulo de diagnóstico de comunicación en serie verifica que la interfaz y la dirección de la interfaz funcionen correctamente. También prueba si el sistema recibe los mismos datos que envía a través del bucle de comunicación.

@@ -1,0 +1,1 @@
+El pin 2 es la línea de recepción de datos, mientras que el pin 3 es la línea de transmisión de datos. Colocar un puente de alambre o un puente entre estos dos pines hace que los datos que se envían se recuperen y se reciban.

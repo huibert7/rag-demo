@@ -1,0 +1,1 @@
+Ejecución del módulo de diagnóstico del interfaz de comunicación serie

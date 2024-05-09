@@ -1,0 +1,1 @@
+Esta prueba es particularmente útil para probar teclas de función como el retorno de carro, la tecla de tabulación y las flechas del cursor. Mediante la visualización de valores ASCII en la pantalla, puede verificar si la interfaz de comunicación envía los códigos correctos para las teclas de función y de caracteres.
