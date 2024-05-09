@@ -1,0 +1,7 @@
+Game Paddle Tests. Once you have a fair understanding of the game paddle's functions, as well as its potential problems, you can determine the kinds of tests that would be most helpful in writing a diagnostic module. Based on the information under the previous "Functions ofthe Game Paddle" and "Troubleshooting and Repair Guidelines" sections, formulate the system design table. This table should include potential problems, tests for those prob­lems, and a short description of each test. Your system design table might look similar to the one shown in Table 10-2.
+
+| Potential Problem                             | Test Description                                             | Test for Problem |
+| --------------------------------------------- | ------------------------------------------------------------ | ---------------- |
+| Game paddle does not work at all              | N/A                                                          | Hardware Only    |
+| Game paddle does not move the object properly | Tracks movement of wheel across the screen, from far left to far right | Tracking Test    |
+| Fire button does not work                     | Provides on-screen response to indicate that the fire button has been pressed | Fire Button Test |

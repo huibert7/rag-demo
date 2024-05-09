@@ -1,0 +1,10 @@
+System Design. The system design phase uses the results of your research and problem identifi­cation that took place in the needs analysis phase. System design addresses the problems and tasks, and determines how the program will solve the problems and complete the tasks. For the system design phase of developing the device diagnostic module, use the potential device problems identified in the needs analysis phase to determine what types of tests should be included in the new device module. To do this, create a simple table that will help keep track of your thoughts. In the first column, jot down the potential device problem. In the second column, indicate the working name of the test you would like to develop to check for that problem. In the third column, briefly describe the functions the test will perform, and what it might look like (Table 10- 1). This table will help organize your thoughts and assist with the design of the diagnostic test routine. Note that one test might be able to check for two or three different problems. Be careful not to create too many redundant tests, when one test would satisfactorily do the job. Keep the module as simple and efficient as possible, at the same time being effective and thorough. Be aware that there might be other problems which no software test will be able to diagnose. These might include those types of problems in which something physical must be done with hardware, and cannot be diagnosed through software.
+
+| Potential Problem | Test for Problem | Test Description |
+| ----------------- | ---------------- | ---------------- |
+|                   |                  |                  |
+|                   |                  |                  |
+|                   |                  |                  |
+|                   |                  |                  |
+|                   |                  |                  |
+|                   |                  |                  |

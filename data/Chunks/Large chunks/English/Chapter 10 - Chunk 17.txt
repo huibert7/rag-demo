@@ -1,0 +1,5 @@
+### Program Preparation (Coding).
+
+After the program flowchart is diagrammed, begin the program preparation phase - the actual coding of the new device diagnostic program.
+
+When developing a new test, first make sure that all aspects of the system are functioning properly. A good way to do this is to run the System Exerciser for several cycles and see whether any errors are encountered. Do not develop a test on a malfunctioning system, or with a peripheral that is experiencing a problem. If a test were developed on a malfunctioning system, as soon as the problem were fixed, the results of the test might well be misleading, and the test code itself could become obsolete.

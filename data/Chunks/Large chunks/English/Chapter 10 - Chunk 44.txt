@@ -1,0 +1,7 @@
+### Testing the Game Paddle Diagnostic Module.
+
+The last thing to do is test the Game Paddle Diagnostic as it now resides as an integrated module of the System Diagnostic Program. Although it might have worked perfectly on its own, there are now many other factors playing into the program as a whole. Run the tests thoroughly, trying to break the program. If a problem is found, locate and fix the code where the problem occurred.
+
+Also test all the other modules, and see whether the newly-added Game Paddle Diagnostic has interfered with the operation of existing modules.
+
+Once you have completed the research, design, flowcharting, coding, integra­tion, and testing procedures, the Game Paddle Diagnostic module is ready for real work whenever troubleshooting and diagnostics are needed for game paddle functions.
