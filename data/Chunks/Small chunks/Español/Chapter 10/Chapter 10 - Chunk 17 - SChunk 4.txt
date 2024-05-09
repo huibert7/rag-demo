@@ -1,0 +1,1 @@
+No desarrolle una prueba en un sistema que funciona mal o con un periférico que esté experimentando un problema. Si se desarrollara una prueba en un sistema que funciona mal, en cuanto se soluciona el problema, los resultados de la prueba pueden ser engañosos y el código de prueba podría volverse obsoleto.

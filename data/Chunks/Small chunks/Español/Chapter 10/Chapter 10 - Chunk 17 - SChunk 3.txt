@@ -1,0 +1,1 @@
+Al desarrollar una nueva prueba, primero asegúrese de que todos los aspectos del sistema estén funcionando correctamente. Una buena forma de hacerlo es ejecutar el módulo Ejercitador del sistema durante varios ciclos y ver si se encuentra algún error.

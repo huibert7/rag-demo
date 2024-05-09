@@ -1,0 +1,1 @@
+Consulte el código de los módulos existentes que se enumeran en los capítulos individuales o en los Apéndices para familiarizarse con las técnicas utilizadas para programar esos módulos.

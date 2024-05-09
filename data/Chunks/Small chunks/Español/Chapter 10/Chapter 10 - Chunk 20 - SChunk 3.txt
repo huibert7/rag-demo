@@ -1,0 +1,1 @@
+Cuando parezca que el código del programa está completo y las funciones funcionan como se esperaba, guarde el programa y cree una copia de seguridad. Imprima una lista del programa y continúe con la fase de prueba del módulo.

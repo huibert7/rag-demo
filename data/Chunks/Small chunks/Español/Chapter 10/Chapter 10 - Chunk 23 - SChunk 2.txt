@@ -1,0 +1,1 @@
+sto se debe a que, como programador, usted está demasiado familiarizado con su propio trabajo y, como resultado, puede no darse cuenta de cómo un usuario usaría el programa. Poner a un usuario externo e imparcial, que no ha participado en el desarrollo, a usar nuestro programa es la mejor prueba para verificar la calidad de cualquier programa.

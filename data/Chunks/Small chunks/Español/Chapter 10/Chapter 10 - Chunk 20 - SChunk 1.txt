@@ -1,0 +1,1 @@
+Mientras escribe el código, guarde el programa en el disco periódicamente, quizás una vez cada cinco o diez minutos. Esto evitará la pérdida de trabajo valioso en caso de una falla eléctrica o del sistema.

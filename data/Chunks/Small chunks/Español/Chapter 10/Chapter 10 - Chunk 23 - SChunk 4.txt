@@ -1,0 +1,1 @@
+Invariablemente, estos usuarios probarán diferentes funciones, diferentes valores, diferentes límites y diferentes combinaciones de las que jamás haya considerado. Como resultado, el evaluador podría encontrar errores adicionales que corregir. Esta es la mejor manera de crear un buen programa que esté lo más cerca posible de la perfección.

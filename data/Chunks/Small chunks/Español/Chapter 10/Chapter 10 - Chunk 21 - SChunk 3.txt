@@ -1,0 +1,1 @@
+Debido a que es muy probable que haya errores, la fase de prueba del módulo es extremadamente importante y necesaria. Pruebe minuciosamente el nuevo módulo de diagnóstico del dispositivo como programa independiente antes de integrarlo con el programa de diagnóstico del sistema. Pruebe todas y cada una de las funciones posibles.

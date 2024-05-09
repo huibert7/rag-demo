@@ -1,0 +1,1 @@
+Utilice números de línea en incrementos de diez para que haya espacio para insertar líneas más adelante si olvidó algo o es necesario corregir un error agregando una o más líneas o si una funcionalidad adicional requiere líneas de código adicionales.

@@ -1,0 +1,1 @@
+Cuando se encuentre un error, vea si se puede repetir. Luego pruebe otras variaciones de esta acción para ver si produce el mismo resultado. Esto le proporcionará más información sobre cómo solucionar el error. Tome notas en la lista del programa, como las líneas donde cree que podría existir el error y las posibles soluciones.

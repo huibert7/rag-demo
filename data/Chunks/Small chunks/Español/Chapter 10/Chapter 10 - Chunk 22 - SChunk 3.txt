@@ -1,0 +1,1 @@
+Cuando crea que el error se ha solucionado, vuelva a probar el programa. Siga la misma secuencia de eventos que llevaron a que ocurriera el error y vea si vuelve a ocurrir. Pruebe todos los diferentes valores y combinaciones imaginables.

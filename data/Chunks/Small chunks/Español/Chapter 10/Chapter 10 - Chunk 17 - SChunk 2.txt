@@ -1,0 +1,1 @@
+Una vez diagramado el flujo del programa, comienza la fase de desarrollo del programa: la codificación real del nuevo programa de diagnóstico del dispositivo.

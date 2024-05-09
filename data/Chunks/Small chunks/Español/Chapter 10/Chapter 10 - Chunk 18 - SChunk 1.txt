@@ -1,0 +1,1 @@
+Escriba una versión independiente del nuevo módulo de diagnóstico del dispositivo. Traduzca todos los pasos del diagrama de flujo del programa del español al BASIC.

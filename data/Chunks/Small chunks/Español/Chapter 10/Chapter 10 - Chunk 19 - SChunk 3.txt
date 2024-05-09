@@ -1,0 +1,1 @@
+Puede que tenga que detenerse varias veces durante el proceso de codificación para aprender aspectos particulares del lenguaje de programación. Aprenderá qué comandos BASIC realizan una función particular, cuál es la sintaxis de ese comando y qué tipos de parámetros requiere el comando.

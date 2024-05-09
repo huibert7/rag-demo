@@ -1,0 +1,1 @@
+Comience a programar usando números de línea alrededor de 6000 o después de donde termine el Programa de diagnóstico del sistema, para que la integración posterior en el Programa de diagnóstico del sistema sea más fácil. Esto eliminará la necesidad de volver a numerar el programa tras la integración, lo cual es un proceso muy tedioso y podría causar más problemas.

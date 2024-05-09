@@ -1,0 +1,1 @@
+No existe un programa perfecto y libre de errores, sin importar cuán experimentado y talentoso sea el programador. Así como puede haber problemas al programar el módulo, probablemente habrá problemas después de que el programa esté completamente escrito.

@@ -1,0 +1,1 @@
+Estos errores pueden manifestarse porque el programa simplemente no funciona, el programa falla al intentar realizar una determinada función, el programa hace algo diferente a lo esperado o puede ser algo tan simple como una visualización que no se ve del todo bien en la pantalla.

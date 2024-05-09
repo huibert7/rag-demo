@@ -1,0 +1,1 @@
+A continuación se muestra el programa BASIC que corresponde al diagrama de flujo que aparece.

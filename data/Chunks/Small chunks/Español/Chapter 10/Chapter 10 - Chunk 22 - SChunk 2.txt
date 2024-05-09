@@ -1,0 +1,1 @@
+Una vez que tenga suficiente información sobre el error, corrija el código editando las líneas afectadas. El error puede no ser obvio por lo que puede que sea necesario realizar investigaciones adicionales para descubrir cuál es la causa raíz del problema y así poder determinar posibles soluciones.
