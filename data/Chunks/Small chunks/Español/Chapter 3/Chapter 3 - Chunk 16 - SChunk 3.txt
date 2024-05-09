@@ -1,0 +1,1 @@
+Compruebe si la luz de encendido de la unidad del sistema ubicada en la parte inferior izquierda de la unidad del sistema/teclado está iluminada o no. Si no está encendido, entonces la unidad del sistema no recibe energía.

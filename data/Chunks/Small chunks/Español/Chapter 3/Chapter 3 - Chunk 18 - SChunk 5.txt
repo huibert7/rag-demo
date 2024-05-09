@@ -1,0 +1,1 @@
+Retire el conector del cable de cada tarjeta de expansión uno por uno y verifique que las clavijas del cable no tengan oxidación: la película gris o negra sobre el metal. Si hay oxidación, retírela con una goma de lápiz, una lija o un paño sin pelusa humedecido con alcohol isopropílico.

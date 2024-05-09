@@ -1,0 +1,1 @@
+La impresora puede también tener interruptores DIP. Un interruptor DIP es un interruptor de plástico en línea doble que contiene varios microinterruptores montados en una tarjeta, cada uno de los cuales se puede configurar en ON o OFF.

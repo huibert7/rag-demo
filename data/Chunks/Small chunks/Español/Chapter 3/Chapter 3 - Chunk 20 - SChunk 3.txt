@@ -1,0 +1,1 @@
+Consulte la documentación del periférico. Es posible que haya un interruptor DIP en la tarjeta del controlador que deba configurarse, particularmente en la tarjeta de interfaz de comunicación en serie.

@@ -1,0 +1,1 @@
+Compruebe si hay oxidación en el conector del borde y retírelo si es necesario. Inserte la tarjeta de expansión nuevamente en la ranura y vuelva a conectar su cable. Pase a la siguiente tarjeta de expansión.

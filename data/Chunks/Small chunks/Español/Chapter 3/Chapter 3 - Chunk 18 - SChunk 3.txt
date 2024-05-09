@@ -1,0 +1,1 @@
+Elimine la oxidación de los conectores del borde de la tarjeta de expansión, aquellos que se insertan en la ranura de expansión de su Apple II, y las clavijas del cable.

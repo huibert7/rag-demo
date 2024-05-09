@@ -1,0 +1,1 @@
+Apague el sistema. Desconecte la fuente de poder (si se trata de un Apple IIc). Desconecte todos los dispositivos periféricos conectados (unidad de casete, unidad de disco, impresora, monitor, controlador de juegos, etc.). Retire la cubierta superior para abrir la unidad del sistema (Fig. 3-6).

@@ -1,0 +1,1 @@
+No intente manipular o abrir la fuente de alimentación interna si posee un II Plus o un IIe. Lleve la unidad central a un centro de servicio Apple II y haga que el técnico verifique la fuente de energía.

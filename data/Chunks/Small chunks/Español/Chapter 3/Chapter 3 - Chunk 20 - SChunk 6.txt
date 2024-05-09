@@ -1,0 +1,1 @@
+La unidad central lee la configuración del interruptor cuando está encendida y determina si una determinada configuración o valor está habilitada o no.

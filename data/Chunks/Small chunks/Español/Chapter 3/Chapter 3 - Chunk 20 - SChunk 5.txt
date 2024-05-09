@@ -1,0 +1,1 @@
+Cada uno de los diferentes microinterruptores puede controlar un modo o configuración diferente; puede funcionar en varias combinaciones; o todo el interruptor puede tener una secuencia de ENCENDIDO/APAGADO específica de los microinterruptores que indican una configuración particular.

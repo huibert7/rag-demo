@@ -1,0 +1,1 @@
+Retire la tarjeta de expansión de la ranura (consulte "Trabajar con tarjetas de PC" en el Capítulo 1 para obtener más instrucciones sobre el manejo de tarjetas de circuito impreso).
