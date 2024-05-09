@@ -1,0 +1,5 @@
+When a character on the keyboard is pressed to be displayed on the monitor, or when a particular application prints processing results, the program instructs the monitor to create a certain pattern to form the character representation. The specific pattern displayed is dependent upon the type of display matrix your monitor has.
+
+In the text mode, the monitor's display works on a character matrix. The display is divided into 24 horizontal rows which are intersected by 40 or 80 vertical columns. The position where a column and row intersect is one character location (Fig. 5-4).
+
+The high-resolution or color display is a matrix as well, but a more detailed matrix, working at a pixel level rather than a character level. Since an individual pixel is much smaller than a character, and since there is a greater density of pixels, there is more flexibility and precision represented on the display. This creates a sharper picture with higher resolution.

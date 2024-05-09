@@ -1,0 +1,11 @@
+### Types of Monitors.
+
+There are several types of monitors that can work with the Apple II system.
+
+They include:
+
+- A television set (color or black-and-white)
+- A high-resolution monochrome graphics monitor
+- A high-resolution color graphics monitor
+
+The monitor you use with your Apple must be able to use the RCA phono connector. Any computer monitor can accommodate this type of cable.

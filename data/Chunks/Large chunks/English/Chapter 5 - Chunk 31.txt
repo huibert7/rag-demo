@@ -1,0 +1,3 @@
+### Display Test.
+
+To run the Display Test, press 1 . The screen will clear and then display the test instructions (Fig. 5-9). Press a character on the keyboard. (Function keys and the cursor arrow keys do not work for this test, because they do not have a graphic display.) The character will fill the entire screen at every available character location(Fig. 5-10). Any character locations that do not display the character will be very obvious.

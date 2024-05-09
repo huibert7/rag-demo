@@ -1,0 +1,1 @@
+Chapter 4 - The Keyboard. Commands and data are input to the system unit for processing via the keyboard, which is the primary external link to the computer.

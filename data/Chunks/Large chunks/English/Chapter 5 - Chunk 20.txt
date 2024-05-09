@@ -1,0 +1,16 @@
+### Problem: Static on the Television Screen.
+
+If you are using a television monitor, and it displays static, or snow, rather than a picture, it could indicate a problem with the television set, the RF converter, or the system unit.
+
+**Solutions**:
+
+- First, check your television. Switch the RF converter to the TV mode, or disconnect it altogether. Set the television channel selector to a known working television station. For example, if channel 2 television broadcasts are usually received in your area, switch it to channel 2. If channel 2 does not come in, nor does any other channel, this indicates a problem with the television's tuning or receiving circuitry, and it should be taken to a televi­sion repair shop for servicing.
+
+  If television broadcast pictures are received with no problem, then the televi­sion is working fine, and the RF converter should be tested.
+
+  The RF converter has two switch positions: COMPUTER and TV. Make sure that the converter is switched to the COMPUTER position. Also, check that the converter is properly connected to the VHF rather than UHF antenna leads.
+
+  Next, make certain the television channel selector is set at Channel 33 to work with your computer.
+  If the screen still just shows static, replace the RF converter. You can purchase one at a stereo or electronics store.
+
+- If you try all these tests with your television set and RF converter, and there is still static on the television screen, then the system unit is probably malfunc­tioning. Refer to Chapter 3 on how to troubleshoot system unit problems.

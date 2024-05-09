@@ -1,0 +1,13 @@
+### Problem: Colors Do Not Display Correctly.
+
+When using a color monitor (either a color television or a high-resolution color monitor), another possible problem is that no colors display at all, or that the colors display the incorrect tones. Check the colors with the Low-Resolution Color Test of the Monitor Diagnostic module, as well as the High-Resolution Color Test program.
+
+**Solution**:
+
+- First make certain that the monitor is actually a color television or a color monitor instead of a black-and-white television or monochrome monitor. Some monitors have a control that allows switching between a monochrome mode and a color mode. Make sure it is in the color mode.
+
+- If the monitor is displaying colors, but they're not the correct colors, there are two adjustments that can rectify this problem.
+
+  For a television monitor, first check a normal television picture, and see if the color is adjusted properly. If it doesn't look right, for instance, if faces look too red, or green, then the color and tint controls on the television set simply need to be adjusted.
+
+  Once the television broadcast picture displays the correct colors, switch the television back to the computer mode and check the color. It's possible that the color of a television broadcast might look fine, but when working in the computer mode, the colors are wrong and/or fuzzy. When working with a computer monitor, simply adjust the color and tint controls of the moni­tor, just as you would with a television.

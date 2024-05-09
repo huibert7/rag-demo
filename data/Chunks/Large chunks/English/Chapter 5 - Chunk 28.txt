@@ -1,0 +1,16 @@
+- After making the proper adjustments, if the colors still are not correct, there is a variable resistor on the motherboard that serves to optimize video color.
+
+  Follow these steps to use this color trim pot:
+
+  1) Turn system power off, disconnect all peripheral cables, and remove the system unit cover.
+  2) Reconnect the monitor and disk drive cables.
+  3) Turn system power on again. While the system is open and power is on, do not touch anything. When making adjustments, use only a non-con­ductive (plastic) tuning wand. Do not use a metal screwdriver.
+  4) Load and run the System Diagnostic Program. Choose the Monitor Diagnostic, and then the Low-Resolution Color Test (refer to "Running the Monitor Diagnostic Module" later in this chapter for further in­structions).
+  5) Locate the color trim variable resistor on the motherboard (Fig. 5-7).
+  6) Use the tuning wand to adjust this resistor in small increments until you see satisfactory colors on the screen display.
+  7) Turn the system off again and disconnect the peripheral cables.
+  8) Replace the system unit cover.
+  9) Connect all peripheral and power supply cables.
+  10) Power up the system and run several passes of the Exerciser program (see Chapter 9, The System Exerciser) to ensure that the system is functioning properly.
+
+Adjusting the color from inside the system unit does not affect the color and tint settings on the television or monitor itself.

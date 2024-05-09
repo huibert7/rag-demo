@@ -1,0 +1,3 @@
+## Running the Monitor Diagnostic Module.
+
+To run the Monitor Diagnostic module, follow the instructions provided in "Running the Diagnostic Program" in Chapter 2. Then press M. The screen clears, and the Monitor Diagnostic Menu is displayed (Fig. 5-8). To activate one of these tests, press the corresponding number. To end the Monitor Diagnostic module, press the ESC key, whereupon the Diagnostic Main Menu will be displayed again.

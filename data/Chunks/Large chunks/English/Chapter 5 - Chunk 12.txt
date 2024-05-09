@@ -1,0 +1,5 @@
+If you use a computer monitor instead of a television as the video output device, note that the II Plus and IIe can only use composite-type computer monitors with an RCA phono jack. On the other hand, the IIc provides two types of video connectors: RCA as well as RGB.
+
+The video interface circuit resides on the motherboard in all Apple II systems.
+
+This circuit includes trim potentiometers for adjusting color and horizontal synchronization.

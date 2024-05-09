@@ -1,0 +1,13 @@
+### Problem: Misaligned Display.
+
+Sometimes the monitor display can become skewed, or it can appear com­ pressed. It can also go out of alignment (Fig. 5- 6). Follow these suggestions to check for proper alignment.
+
+**Solutions**:
+
+- Run the Alignment Test. If the grid does not appear square and symmetrical on the screen, the monitor needs adjustment. There are adjustment potenti­ometers on the back of most monitors. These are labeled as Horizontal, Vertical, Brightness, and Contrast adjustments, and serve to deflect the electron beam or change its intensity.
+
+  Use the tuning wand (do not use a metal screwdriver) to gently turn the Horizontal and Vertical potentiometers ("pots") either clockwise or coun­terclockwise to bring the screen back into alignment. Note the direction you're turning the pot, and turn only one-quarter turn at a time, so you can easily return the pot to its original position if you over-adjust.
+
+- If adjusting these pots does not bring the monitor back into the proper alignment, take the monitor in for servicing.
+
+- If the monitor is a television set, adjust the horizontal and vertical hold controls until the alignment grid looks straight.

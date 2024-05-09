@@ -1,0 +1,9 @@
+### High-Resolution Color Graphics Test.
+
+To test colors in the high-resolution graphics mode, load the High-Resolution Color Test Program, available as a separate program called "HIRES" on the System Diagnostic Program diskette. If you do not have this diskette, you can key it in your self following the listing provided in Fig. 5-17.
+
+After this program is loaded, a menu of the six high-resolution colors is dis­played (Fig. 5-15). Enter the name of the color to be tested in uppercase letters.
+
+Once this is done, the screen is completely filled with a series of high-resolution pixels in that color at each screen memory location. Any location that is not filled with the color pixel indicates a high-resolution video memory location problem.
+
+Press any key to end the test. The screen will clear and return to the color menu, so another color can be tested if desired. When finished testing colors, press ESC, and the program quits to the Applesoft BASIC environment displaying the right bracket prompt.

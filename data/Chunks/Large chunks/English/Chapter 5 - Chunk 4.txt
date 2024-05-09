@@ -1,0 +1,5 @@
+**Television Set**. The Apple II series computers, like many home computers, can use a television set as its display monitor. An external radio frequency (RF) converter is attached to the television via the television's VHF antenna leads. If your television is cable-ready, a coaxial cable connector can be used instead of the antenna leads. The Apple II cable attaches from the internal RF converter (Fig. 5-2) to an RF converter on the television using a composite video cable. The television RF converter includes a switch to choose between using the television as a computer monitor (COMPUTER) and using the television to view broad­ casts (TV). The television channel selection must also be set to channel 33 when working with the Apple II.
+
+The television set monitor can display graphics and color, but only in the 40 x 24 text format (as contrasted with the 80 x 24 text format on a standard computer monitor).
+
+The low-resolution graphics mode divides the screen into a matrix of 40 x 48 blocks. Each of these blocks can be assigned one of the 16 available colors, and can draw low-resolution graphics.
