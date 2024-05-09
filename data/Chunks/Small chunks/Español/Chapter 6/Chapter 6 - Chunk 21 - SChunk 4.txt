@@ -1,0 +1,1 @@
+La razón por la que esto sucede es que en lo que respecta al sistema Apple II, la nueva impresora es un dispositivo completamente extraño. No es direccionable, por lo tanto, la computadora y la nueva impresora no saben cómo comunicarse efectivamente entre sí.

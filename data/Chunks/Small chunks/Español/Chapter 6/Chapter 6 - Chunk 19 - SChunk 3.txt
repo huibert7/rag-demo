@@ -1,0 +1,1 @@
+Si está trabajando con una impresora matricial, ejecute la Impresión de caracteres en pantalla o la Prueba de caracteres eco del Diagnóstico de la impresora. Si hay un cuadro negro o un espacio en blanco donde se supone que debe estar un carácter, entonces la impresora probablemente no esté configurada para admitir gráficos.

@@ -1,0 +1,1 @@
+Cuando se trabaja con formularios especiales como cheques y facturas, el programa de aplicación configura el interlineado para que se produzca en un patrón específico que es más complejo que el espacio simple o doble. Además, puede ingresar un comando de avance de formulario en un punto definido, lo que hace que la impresora pase al siguiente formulario.

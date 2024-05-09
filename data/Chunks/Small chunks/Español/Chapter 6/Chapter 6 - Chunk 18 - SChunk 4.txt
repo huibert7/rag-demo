@@ -1,0 +1,1 @@
+Pueden ocurrir problemas cuando el espaciado vertical especificado no funciona como se esperaba. Es posible que el número especificado de líneas entre el texto no avance o que el papel se amontone y se atasque al pasar a la página siguiente.

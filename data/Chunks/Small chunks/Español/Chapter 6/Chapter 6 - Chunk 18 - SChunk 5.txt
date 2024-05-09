@@ -1,0 +1,1 @@
+Ejecute la prueba de avance de línea del módulo de diagnóstico de la impresora para verificar el control del carro. Esta prueba imprime líneas con interlineado variable y luego avanza el papel hasta la página siguiente.

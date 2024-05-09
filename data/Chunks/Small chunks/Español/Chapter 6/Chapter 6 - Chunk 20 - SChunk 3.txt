@@ -1,0 +1,1 @@
+Primero revisa la cinta. Podría estar doblada o gastada. Reemplace la cinta y ejecute la prueba de impresión de caracteres en pantalla o alfa deslizante para obtener un resultado de muestra.

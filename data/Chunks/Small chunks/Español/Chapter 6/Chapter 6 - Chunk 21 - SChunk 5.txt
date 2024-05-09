@@ -1,0 +1,1 @@
+Se deben seguir reglas o protocolos particulares para que los distintos componentes del sistema se comuniquen entre sí y envíen datos de un lado a otro. Los protocolos que entendía la impresora original pueden ser bastante diferentes de los protocolos que requiere la nueva impresora.

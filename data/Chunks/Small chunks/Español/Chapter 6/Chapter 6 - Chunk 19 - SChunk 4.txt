@@ -1,0 +1,1 @@
+Como se mencionó anteriormente, existen varios tipos de impresoras matriciales. Un tipo admite caracteres gráficos además de los caracteres alfanuméricos estándar. Otro tipo funciona sólo en el modo de carácter. Si la suya es una impresora de caracteres, no puede imprimir caracteres gráficos.

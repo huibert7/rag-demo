@@ -1,0 +1,1 @@
+Si la cinta está en buenas condiciones, entonces hay un problema en el cabezal de impresión. Uno de los solenoides que acciona los pines de matriz de puntos en el cabezal probablemente no funcionó correctamente o está desgastado. Lleve la impresora a reparar y solicite que reparen o reemplacen el solenoide defectuoso.

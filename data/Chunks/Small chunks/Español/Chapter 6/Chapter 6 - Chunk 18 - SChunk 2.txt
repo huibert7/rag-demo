@@ -1,0 +1,1 @@
+Es posible que la impresora no alimente el papel correctamente. Ciertos comandos emitidos desde el programa de aplicación a la impresora pueden hacer que el papel avance varias líneas, de forma similar a los retornos de carro en una máquina de escribir.

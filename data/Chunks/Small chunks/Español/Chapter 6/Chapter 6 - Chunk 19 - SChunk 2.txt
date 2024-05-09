@@ -1,0 +1,1 @@
+A veces un determinado carácter no se imprime. El carácter existe en la pantalla y usted sabe que está disponible dentro del conjunto de caracteres de la impresora. Sin embargo, cuando solicita la salida de la impresora, el carácter no se forma correctamente o hay un cuadro negro o un espacio en blanco donde debería estar el carácter.

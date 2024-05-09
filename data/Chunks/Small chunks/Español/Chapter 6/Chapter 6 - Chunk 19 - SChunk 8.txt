@@ -1,0 +1,1 @@
+Por ejemplo, si las "a" no aparecen donde se supone que deben aparecer, ejecute la prueba de caracteres alfa deslizante o eco del diagnóstico de la impresora para ver si faltan tanto la "A" mayúscula como la "a" minúscula.

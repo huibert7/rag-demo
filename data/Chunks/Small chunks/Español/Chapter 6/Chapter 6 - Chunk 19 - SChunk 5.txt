@@ -1,0 +1,1 @@
+Puede resultar confuso ver el carácter gráfico en la pantalla del monitor, pero no imprimirlo. Esto se debe a que diferentes marcas de impresoras admiten diferentes conjuntos de caracteres. Algunos conjuntos de caracteres son más limitados que otros. Asegúrese de enviar sólo caracteres válidos a su impresora.

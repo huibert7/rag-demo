@@ -1,0 +1,1 @@
+El controlador del dispositivo le permite especificar qué impresora se está utilizando y, por lo tanto, puede permitir que el programa se comunique correctamente con la impresora. Consulte el manual del usuario del software de la aplicación para obtener más información sobre cómo configurar el controlador del dispositivo.
