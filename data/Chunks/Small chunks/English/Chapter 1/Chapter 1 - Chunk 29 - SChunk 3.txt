@@ -1,0 +1,1 @@
+You've probably experienced drops in electricity when the lights flicker or dim in intensity. This brown-out effect might cause the keyboard to temporarily lock up, and you might lose some data due to logic-re­lated problems within the computer.

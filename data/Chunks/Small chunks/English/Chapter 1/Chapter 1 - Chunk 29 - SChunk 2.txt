@@ -1,0 +1,1 @@
+The electricity supplied at the electrical wall outlet is rated at 110/120 volts at 60 Hertz (cycles per second). There are moments when surges of electricity exceed 110/ 120 volts, and other moments when sags in voltage are lower than nominal.

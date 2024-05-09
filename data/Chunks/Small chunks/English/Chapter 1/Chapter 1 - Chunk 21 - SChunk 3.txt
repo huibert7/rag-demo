@@ -1,0 +1,1 @@
+Before disconnecting cables or opening any part of the system, unplug the ac connector from its source, usually the electrical outlet or ac strip. Never work with an open system if it is "live," or electrically powered.

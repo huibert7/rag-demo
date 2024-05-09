@@ -1,0 +1,1 @@
+Do not touch the metal edge connectors, when handling a printed circuit board within the system. This will discharge electricity in your body through the printed circuit board to the nearest IC chip.
