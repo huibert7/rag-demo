@@ -1,0 +1,1 @@
+Para probar colores en el modo de gráficos de alta resolución, cargue el Programa de prueba de color de alta resolución, disponible como un programa separado llamado "HIRES" en el disquete del Programa de diagnóstico del sistema. Si no tiene este disquete, puede introducirlo usted mismo siguiendo el listado proporcionado.

@@ -1,0 +1,1 @@
+Presione cualquier tecla para finalizar la prueba. La pantalla se borrará y volverá al menú de colores, por lo que se puede probar otro color si lo desea. Cuando termine de probar los colores, presione ESC y el programa se cerrará y regresará al entorno BASIC de Applesoft que puede reconocer por la presencia del familiar corchete derecho (]).

@@ -1,0 +1,1 @@
+Si hay ubicaciones que no están llenas con uno de los bloques, entonces hay un problema con la memoria de video. Además, si el color seleccionado no se representa correctamente en la pantalla, entonces existe un problema de ajuste del color. Deje esta prueba en la pantalla, realice los ajustes necesarios y vea todos los colores hasta que se muestren correctamente.

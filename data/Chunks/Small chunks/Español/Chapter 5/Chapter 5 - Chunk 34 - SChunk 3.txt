@@ -1,0 +1,1 @@
+Una vez cargado este programa, se muestra un menú de seis colores de alta resolución. Ingrese el nombre del color a probar en letras mayúsculas.

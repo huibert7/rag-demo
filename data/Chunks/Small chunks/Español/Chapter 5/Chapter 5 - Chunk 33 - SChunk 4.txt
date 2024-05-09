@@ -1,0 +1,1 @@
+Presione cualquier tecla para finalizar la prueba. La pantalla se borrará y volverá al menú de colores, y se podrá probar otro color si lo desea. Cuando termine de probar los colores, presione ESC y se mostrará nuevamente el menú principal de diagnóstico del monitor.
