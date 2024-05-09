@@ -1,0 +1,1 @@
+If the printer is to be tested, the Sliding Alpha Test is run for 35 repetitions, and then the Character Set Print Test is run. The Echo Character Print Test then runs with the letter "E" across one line. The Horizontal Tab Test and Line Space Test are each run through once.

@@ -1,0 +1,1 @@
+If the disk drive is to be tested, the read/write test is run, with records filling the disk and then being read back. The disk drives include some of the most delicate components of the entire system, and should be tested after repair.

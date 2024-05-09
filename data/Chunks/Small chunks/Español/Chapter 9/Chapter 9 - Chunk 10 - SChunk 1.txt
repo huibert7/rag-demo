@@ -1,0 +1,1 @@
+If the monitor is to be tested, the Display Test is run with the letter "X" across the screen, the Character Set Test is run, and finally the Scroll Test is run for 50 repetitions.

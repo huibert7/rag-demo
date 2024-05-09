@@ -1,0 +1,1 @@
+Burn-in is routinely practiced as an important segment of industrial manufac­turing and product testing. Burn-in thoroughly tests and exercises the Apple II system and should be done for 12 to 24 hours.

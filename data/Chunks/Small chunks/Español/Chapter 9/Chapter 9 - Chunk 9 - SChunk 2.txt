@@ -1,0 +1,1 @@
+The System Exerciser module calls on diagnostic tests that are already a part of individual component diagnostic modules elsewhere in the System Diagnostic Program. Specifically, it branches to routines in the Monitor Diagnostic module, Printer Diagnostic module, and Disk Drive Diagnostic module.

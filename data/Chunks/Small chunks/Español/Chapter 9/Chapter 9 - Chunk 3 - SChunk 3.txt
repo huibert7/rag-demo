@@ -1,0 +1,1 @@
+This Exerciser module checks various components of the Apple II system and leaves it running in a continuous mode so that it can burn in for several hours, even overnight.

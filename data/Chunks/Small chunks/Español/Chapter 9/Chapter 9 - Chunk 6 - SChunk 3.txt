@@ -1,0 +1,1 @@
+If the printer has recently been repaired, run the Printer Diag­nostic module.

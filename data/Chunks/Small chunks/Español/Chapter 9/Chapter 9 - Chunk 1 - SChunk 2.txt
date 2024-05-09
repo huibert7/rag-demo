@@ -1,0 +1,1 @@
+El Capítulo 9 proporciona un módulo de diagnóstico que prueba no sólo un subsistema, sino que examina el sistema Apple II como un todo, probando toda la computadora de forma  integral, en busca de problemas.

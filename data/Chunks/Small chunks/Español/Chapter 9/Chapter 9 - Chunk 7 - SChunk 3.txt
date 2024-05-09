@@ -1,0 +1,1 @@
+When checking for the original problem, run the appropriate subsystem diag­nostic module, and thoroughly run the Exerciser. If no old or new problems occur, you can be assured that your entire system is in an optimum state, and that the computer can be trusted with programs and data.

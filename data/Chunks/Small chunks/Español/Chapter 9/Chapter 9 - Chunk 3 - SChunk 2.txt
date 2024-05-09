@@ -1,0 +1,1 @@
+The diagnostic module covered in this chapter is a program that thoroughly exercises the Apple II when it's new, when its configuration changes, or when it returns from servicing.

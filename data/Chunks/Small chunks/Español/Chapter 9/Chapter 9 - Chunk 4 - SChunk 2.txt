@@ -1,0 +1,1 @@
+There are three aspects to testing the Apple II system when it is new, or when it returns from repair: Checking for the original problem. Running the subsystem diagnostic module. Burning in the system as a whole with the System Exerciser.

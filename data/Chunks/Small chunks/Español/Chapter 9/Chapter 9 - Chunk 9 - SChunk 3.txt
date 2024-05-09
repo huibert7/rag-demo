@@ -1,0 +1,1 @@
+When the System Exerciser module is accessed, a menu will be displayed. This menu prompts you to specify the devices to be tested, the monitor, printer, and/or disk drives. Any combination of devices can be specified for inclusion in or exclusion from the Exerciser. These component parameters may be set up in whatever combination is convenient and appropriate for the system.
