@@ -1,0 +1,1 @@
+Description and Function of the Serial Comm Interface. The serial communication interface consists of three components: A serial communication circuit. A serial port. An interface cable. A fourth component is also necessary to establish communications: the device with which the Apple is to communicate.
