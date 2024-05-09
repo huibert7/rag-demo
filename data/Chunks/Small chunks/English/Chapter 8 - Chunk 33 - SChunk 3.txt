@@ -1,0 +1,1 @@
+The loopback causes the character to be sent back immediately and received as output displayed on the monitor screen. This checks the func­tions of the serial communication interface by both transmitting and receiving data. The ASCII value of the character is also displayed on the screen.

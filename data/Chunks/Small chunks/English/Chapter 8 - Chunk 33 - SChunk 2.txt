@@ -1,0 +1,1 @@
+The Character Loopback Test displays a prompt to enter a character on the keyboard. This character is sent through the communication loop created by the loopback wire.
