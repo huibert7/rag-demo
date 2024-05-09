@@ -1,0 +1,1 @@
+Just as in the second pass, the fourth pass through the disk opens the file and rereads the data written during the third pass. The read data are compared to CHR$(63). The message "READING LOW VALUES FROM DISK" is dis­ played for approximately five minutes.

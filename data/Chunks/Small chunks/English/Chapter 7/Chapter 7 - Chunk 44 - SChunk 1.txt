@@ -1,0 +1,1 @@
+If a greater number of mismatch errors are found by the diagnostic, then you have a problem in the read/write circuitry in the drive controller. Refer to "Prob­lem: Data Mismatch - Read/Write Circuitry is Defective" above for suggestions on correcting this problem.

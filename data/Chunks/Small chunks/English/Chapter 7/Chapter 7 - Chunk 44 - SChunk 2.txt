@@ -1,0 +1,1 @@
+If any fatal errors are found during the test, the error message will be displayed and the test will halt. Each error message is referenced under "Disk Drive Troub­leshooting and Repair Guidelines" above. Follow the indicated suggestions and run the test again.

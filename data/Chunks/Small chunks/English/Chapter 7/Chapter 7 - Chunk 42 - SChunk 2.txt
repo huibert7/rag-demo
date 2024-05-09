@@ -1,0 +1,1 @@
+After the second pass of the test is finished, the file will be closed and deleted.
