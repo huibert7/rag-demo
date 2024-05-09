@@ -1,0 +1,1 @@
+Carefully line the IC chip pins up with the socket holes, then gently press the chip into the socket as far as it will go. Be sure not to bend the IC pins while you're pressing it into the socket. This could render the chip useless.

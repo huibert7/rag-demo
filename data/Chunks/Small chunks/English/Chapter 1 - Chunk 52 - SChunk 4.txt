@@ -1,0 +1,1 @@
+If the component is broken beyond repair, you might find it interesting to take it apart. There is nothing to lose at this point, so you can fool with it and find out how it ticks. This way, if the replacement component ever has a problem, you'll have a better idea of what to do with it, without the fear of damaging it further.

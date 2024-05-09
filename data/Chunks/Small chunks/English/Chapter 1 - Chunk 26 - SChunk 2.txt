@@ -1,0 +1,1 @@
+A piece of dust inside the disk drive can cause problems there as well. The drive head travels mere microns above the surface of the diskette. If a piece of dust gets in the way of the drive head, it can cause data to be read or written incorrectly.

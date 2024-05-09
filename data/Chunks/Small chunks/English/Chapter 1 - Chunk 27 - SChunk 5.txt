@@ -1,0 +1,1 @@
+Most devices within the computer run on power of up to about 15 volts, and are protected from electrical damage up to 2-5 kilovolts. However, the electro­ static discharge from a human can be more than 20 kilovolts.
