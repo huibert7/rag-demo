@@ -1,0 +1,1 @@
+Pulsar el botón para disparar. Cuando presionas el botón de disparo, generalmente haces que un gráfico se mueva rápidamente, como si hubiera sido disparado, desde el objeto controlado por la rueda hacia donde apunta el objeto. El gráfico generalmente representa algo así como una bala, un misil o una bala de cañón que se dispara de un lugar a otro en un juego.
