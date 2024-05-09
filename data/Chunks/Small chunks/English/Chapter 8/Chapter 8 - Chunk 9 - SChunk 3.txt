@@ -1,0 +1,1 @@
+Some serial communication boards can be used for both, and are controlled by exchanging the device interface cable and changing a switch setting on the board. It is possible to have as many serial ports as there are available expansion slots.

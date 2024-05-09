@@ -1,0 +1,1 @@
+Modems can only operate in pairs. For two computers to communicate with one another, each computer must be connected to a modem that has matching configurations, including communication speed, data size, start bits, and other such parameters which will be discussed later in this chapter.

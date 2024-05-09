@@ -1,0 +1,1 @@
+A fourth component is also necessary to establish communications: the device with which the Apple is to communicate.
