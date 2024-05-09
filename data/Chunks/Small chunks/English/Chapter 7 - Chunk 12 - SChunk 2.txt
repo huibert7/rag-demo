@@ -1,0 +1,1 @@
+When data is being written, the timing and synchronization hole on the diskette is used as a location reference point. This hole marks the starting point for information to be written onto the diskette.

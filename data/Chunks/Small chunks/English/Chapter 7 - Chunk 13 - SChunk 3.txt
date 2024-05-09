@@ -1,0 +1,1 @@
+A 1 data bit is magnetized in one direction on the diskette, while a 0 data bit is magnetized in another direction. A group of eight of these data bits constitutes one byte of data. Many bytes together constitute a record, or file.

@@ -1,0 +1,1 @@
+If you place a warped diskette is placed into the disk drive, it will damage the drive head assembly. Magnetic fields caused by power supplies, appliance motors, magnets, or transformers will erase or change the data stored on the diskette surface.

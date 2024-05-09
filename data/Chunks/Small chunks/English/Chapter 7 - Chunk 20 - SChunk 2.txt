@@ -1,0 +1,1 @@
+Disk drive problems can be caused by the diskette, the disk drive controller board, the disk drive, or the motherboard. When you troubleshoot any disk drive problem, check for diskette problems first.

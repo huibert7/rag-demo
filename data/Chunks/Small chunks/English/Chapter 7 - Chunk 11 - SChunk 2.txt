@@ -1,0 +1,1 @@
+The components described above: the floppy diskette, the disk drive controller board, and the disk drive mechanism itself, all work together to perform the functions of the disk drive system.
