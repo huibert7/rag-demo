@@ -1,0 +1,1 @@
+Ejecute la prueba de baja resolución del módulo de diagnóstico del monitor. Esto confirmará si hay o no un problema con las ubicaciones de memoria de baja resolución. Si alguna parte de la pantalla está en blanco en lugar de llena, entonces hay un problema con esas ubicaciones de memoria.

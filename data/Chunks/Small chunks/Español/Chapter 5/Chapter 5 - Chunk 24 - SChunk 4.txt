@@ -1,0 +1,1 @@
+Si la prueba de pantalla no revela ubicaciones en blanco, entonces el problema no está en el monitor, sino en el software que estaba utilizando cuando se produjeron los espacios en blanco. También verifique si hay un problema con un carácter específico, en lugar de un problema con la memoria.

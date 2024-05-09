@@ -1,0 +1,1 @@
+Si estás ejecutando un juego o una aplicación, como una hoja de cálculo o un programa de gráficos, que utiliza el modo de gráficos de alta resolución, y ciertos caracteres, o una parte del fondo, parece tener pequeños puntos oscuros, entonces hay píxeles que no están funcionando debido a un problema con las ubicaciones de la memoria de alta resolución.

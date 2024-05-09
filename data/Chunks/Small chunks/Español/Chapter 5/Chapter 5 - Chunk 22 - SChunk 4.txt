@@ -1,0 +1,1 @@
+Para resolver este problema, puede reemplazar la ROM del generador de carácteres (chip 2513 en Apple II Plus y IIe) o llevar la tarjeta madre a un centro de servicio de Apple II y pedirles que la reemplacen por usted.

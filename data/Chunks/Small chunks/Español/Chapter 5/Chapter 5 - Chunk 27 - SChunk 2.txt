@@ -1,0 +1,1 @@
+Cuando se utiliza un monitor en color (ya sea un televisor a color o un monitor a color de alta resolución), otro posible problema es que no se muestre ningún color o que los colores muestren tonos incorrectos. Verifique los colores con la Prueba de color de baja resolución del módulo de Diagnóstico del monitor, así como con el programa Prueba de color de alta resolución.

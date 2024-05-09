@@ -1,0 +1,1 @@
+Si está ingresando caracteres en el modo de texto y nota que hay una ubicación en la pantalla en la que no puede mostrar ningún carácter, entonces hay un problema con la ubicación de los caracteres en el modo de texto.

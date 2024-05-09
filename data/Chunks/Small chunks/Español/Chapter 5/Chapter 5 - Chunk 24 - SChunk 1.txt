@@ -1,0 +1,1 @@
+Falla de memoria afecta a la pantalla de texto.

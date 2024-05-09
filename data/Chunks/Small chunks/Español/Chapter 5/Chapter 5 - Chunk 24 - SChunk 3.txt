@@ -1,0 +1,1 @@
+Ejecute la prueba de visualización del módulo de diagnóstico del monitor. Esta prueba llena toda la pantalla con el carácter que usted haya ingresado. Cualquier ubicación en blanco indica un problema con esas ubicaciones de memoria.

@@ -1,0 +1,1 @@
+Si nota que parte de un carácter falta o tiene una forma incorrecta, ejecute la prueba de visualización para mostrar ese carácter en toda la pantalla. Si el defecto aparece en cada instancia del carácter en la pantalla, esto también indica un problema con el generador de caracteres.

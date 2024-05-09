@@ -1,0 +1,1 @@
+Ejecute la prueba de desplazamiento para comprobar esto. Si la pantalla no se desplaza correctamente, entonces hay un problema con la sección de pantalla de la unidad central. Consulte el Capítulo 3 sobre cómo solucionar problemas de la unidad central.

@@ -1,0 +1,1 @@
+Si está ejecutando una aplicación usando el modo gráfico de baja resolución y ciertas secciones de la pantalla aparecen en blanco, esto indica un problema con las ubicaciones de memoria de baja resolución.

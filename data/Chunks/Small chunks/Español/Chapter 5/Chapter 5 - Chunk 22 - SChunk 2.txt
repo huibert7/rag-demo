@@ -1,0 +1,1 @@
+Si presiona una tecla que corresponde a un carácter visible en el teclado, pero ese carácter no aparece en el monitor, ejecute la prueba de juego de caracteres del módulo de diagnóstico del monitor. Vea si el carácter sí se muestra correctamente en ese entorno. Si no aparece, esto confirma un problema con la ROM del generador de caracteres.

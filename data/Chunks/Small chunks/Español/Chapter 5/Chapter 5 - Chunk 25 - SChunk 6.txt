@@ -1,0 +1,1 @@
+Si la ubicación aún está en blanco, desconecte su sistema nuevamente, ábralo y reemplace la RAM antigua en su zócalo original. Retire una RAM diferente y reemplácela por la nueva. Encienda el sistema nuevamente y verifique si el problema persiste. Repita esta operación hasta que determine qué chip de memoria es el que está fallando.

@@ -1,0 +1,1 @@
+Ejecute el programa de prueba de alta resolución, el programa HIRES en el disquete de diagnóstico, pero separado del programa de diagnóstico del sistema. Esta prueba verifica todas las ubicaciones de memoria de alta resolución.

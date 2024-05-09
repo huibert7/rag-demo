@@ -1,0 +1,1 @@
+Si no se revelan puntos en blanco al ejecutar la prueba de alta resolución, el problema no está en el monitor, sino en el software que estaba utilizando cuando se produjeron los puntos en blanco.

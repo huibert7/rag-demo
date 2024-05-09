@@ -1,0 +1,1 @@
+El texto en la pantalla no se desplaza verticalmente.

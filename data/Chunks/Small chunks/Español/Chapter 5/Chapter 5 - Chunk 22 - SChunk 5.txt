@@ -1,0 +1,1 @@
+Si ejecuta la prueba de pantalla y no ve todos los caracteres esperados, o si la pantalla es incorrecta o está llena de caracteres extraños, entonces hay un problema con la unidad central. Consulte el Capítulo 3 sobre cómo solucionar problemas de la unidad central.
