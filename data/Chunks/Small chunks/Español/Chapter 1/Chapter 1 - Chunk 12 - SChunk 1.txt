@@ -1,0 +1,12 @@
+ Herramientas requeridas                           | Uso                                                          |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| Destornilladores de punta plana                   | Para apretar y aflojar tornillos ranurados.                  |
+| Destornilladores Phillips                         | Para apretar y aflojar los tornillos con ranuras cruzadas que se utilizan para sujetar los pernos. |
+| Pinzas de punta de aguja                          | Para agarrar y/o doblar objetos pequeños como una extensión o una "mano amiga". |
+| Alicates                                          | Para agarrar y/o doblar objetos pequeños, para sujetar tuercas más grandes. |
+| Pelacables                                        | Para quitar el aislamiento plástico de los cables.           |
+| Cortador de alambre                               | Para cortar alambre.                                         |
+| Destornillador no conductor "varita de afinación" | Para apretar y aflojar tornillos en un entorno con carga eléctrica. |
+| Extractor de teclas                               | To sacar teclas del teclado.                                 |
+| Extractor de chips                                | Para quitar un chip IC insertado en su zócalo.               |
+| Lima plana metálica                               | Para alisar o pulir una superficie de plástico como la tapa de una tecla. |

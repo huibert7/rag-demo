@@ -1,0 +1,1 @@
+Los técnicos profesionales suelen tener un inventario de repuestos asociados al equipo en el que trabajan. Los repuestos les ayudan a solucionar problemas, cuando cambian piezas para averiguar si fue ese componente el que estaba causando el problema. Si el reemplazo resuelve el problema, entonces sabrán que la pieza vieja estaba defectuosa.

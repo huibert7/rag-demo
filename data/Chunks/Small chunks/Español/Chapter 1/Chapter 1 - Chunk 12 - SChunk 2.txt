@@ -1,0 +1,8 @@
+| Productos de limpieza                                    | Uso                                                          |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| Aire comprimido con boquilla y extensión.                | Aire a presión utilizado para eliminar el polvo y la suciedad. |
+| Freón o limpiador de contactos con boquilla y extensión. | Solución utilizada para limpiar contactos e interruptores en componentes de tarjetas de circuito impreso. |
+| Alcohol isopropílico desnaturalizado.                    | Para limpieza general de hardware electrónico, cabezales de unidades de disquete y cabezas de impresión. |
+| Cotonetes                                                | Para limpiar hardware y componentes en lugares de difícil acceso; utilizado con alcohol isopropílico. |
+| Esponjas y papel o paño sin pelusa                       | Para limpiar componentes de hardware con alcohol isopropílico. |
+| Papel de lija o borrador de lápiz                        | Para limpiar la oxidación de conectores y clavijas.          |
