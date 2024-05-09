@@ -1,0 +1,1 @@
+They will invariably try different functions, different values, different limits, and different combinations than you might have ever considered. As a result, the tester might find additional bugs to be fixed. This is the best way to create a good program as close to perfection as possible.

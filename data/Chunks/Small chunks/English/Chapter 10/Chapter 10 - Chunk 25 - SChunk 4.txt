@@ -1,0 +1,1 @@
+For the same reason, test all the other modules in the System Diagnostic Program. Find out whether the new program is interfering with the normal operations and integrity of the existing module. Fix any bugs found in the new diagnostic, and cycle the testing again, until no more bugs are discovered.

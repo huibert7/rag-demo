@@ -1,0 +1,1 @@
+Have the tester follow the same general testing techniques described above.

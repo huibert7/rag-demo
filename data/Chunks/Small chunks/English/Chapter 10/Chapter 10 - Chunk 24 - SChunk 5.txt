@@ -1,0 +1,1 @@
+Also, insert the appropriate IF statement for the new module so that the program branches to the proper line number where the new code begins. Once this is done, add the code to the program. Have the line numbers of the new code begin around 6000, or wherever the last diagnostic module stopped.

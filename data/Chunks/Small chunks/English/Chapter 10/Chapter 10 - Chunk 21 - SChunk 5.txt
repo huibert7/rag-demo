@@ -1,0 +1,1 @@
+Wherever different values are to be input by the user, try every different value and combination imaginable. Particularly use extreme values, such as very high values and very low values, and make sure the program can accommodate these inputs without breaking down. Also find out how the program handles the input of incorrect values and conditions.

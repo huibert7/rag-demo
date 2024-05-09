@@ -1,0 +1,1 @@
+Up to this point, development of a new device diagnostic module has been treated in generalized terms. Provided in this section is a concrete example to make the development process clearer. This example uses the game paddle as the new peripheral for which a diagnostic module will be developed.

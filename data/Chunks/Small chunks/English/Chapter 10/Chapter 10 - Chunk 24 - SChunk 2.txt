@@ -1,0 +1,1 @@
+The integration phase consists of appending the program code to an existing program, in this case the System Diagnostic Program, and making sure that the two programs work together harmoniously without adversely interfering with one another.

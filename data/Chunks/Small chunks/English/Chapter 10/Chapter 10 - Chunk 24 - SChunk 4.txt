@@ -1,0 +1,1 @@
+When you insert the new module into the System Diagnostic Program, modify lines 50 through 190 of the program where the Main Menu module resides. Add the module's title and identifier to the PRINT statement that lists the menu options on the screen.

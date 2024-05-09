@@ -1,0 +1,1 @@
+Integration also consists of editing lines of code so that the two programs are intermeshed, using each other's resources and subroutines, and referring appropriate parts of one program to parts of the other so that they work together as one cohesive program.

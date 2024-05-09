@@ -1,0 +1,1 @@
+There is no such thing as a perfect, bug-free program, no matter how experi­enced and talented the programmer is. Just as there might have been problems while programming the module, there will probably be problems after the pro­gram is completely written.

@@ -1,0 +1,1 @@
+These bugs might manifest themselves by the pro­gram simply not working, the program crashing when trying to perform a certain function, the program doing something other than what is expected, or it might be something as simple as a display not looking quite right on the screen.

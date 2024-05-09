@@ -1,0 +1,1 @@
+Because of these bugs, the module testing phase is extremely important and necessary. Test the new device diagnostic module thoroughly as a standalone program before integrating it with the System Diagnostic Program. Try out each and every function possible.

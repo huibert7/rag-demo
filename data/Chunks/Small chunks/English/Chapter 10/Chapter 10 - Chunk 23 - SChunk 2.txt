@@ -1,0 +1,1 @@
+This is because as the programmer, you are too familiar with your own work, and as a result, you can become blind to certain aspects of the program. An outside, impartial user is the truest test of the new program.

@@ -1,0 +1,1 @@
+When a bug is found, see if it is repeatable. Then try out other variations of this action to see if it causes the same result. This will provide you with more information on how to fix the bug. Make notes on the program listing, such as the lines where you think the bug might exist, and possible solutions.

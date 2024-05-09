@@ -1,0 +1,1 @@
+The step-by-step process includes researching the functions and potential problems of the game paddle, designing the flowcharts for the Game Paddle Diagnostic, developing and testing the new code, and finally integrating and testing the new program as a new module in the System Diagnostic Program.

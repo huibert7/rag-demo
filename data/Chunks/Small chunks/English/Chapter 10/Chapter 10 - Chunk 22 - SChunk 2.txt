@@ -1,0 +1,1 @@
+After you have sufficient information about the bug, list the code and edit the appropriate lines. It may be necessary to do additional research to find out why the problem is happening in the first place, and to get ideas on possible solutions.

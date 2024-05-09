@@ -1,0 +1,1 @@
+When you believe the bug is fixed, try the program out again. Go through the same sequence of events that lead up to the bug occurring, and see whether it happens again. Try all the different values and combinations imaginable.

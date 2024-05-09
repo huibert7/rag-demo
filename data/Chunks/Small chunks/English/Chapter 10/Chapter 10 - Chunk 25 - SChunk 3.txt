@@ -1,0 +1,1 @@
+Some other bugs might crop up as a result o fbeing a part of the larger program. The two programs might interact with one another in an adverse way, and these kinds of bugs must be discovered before using the revised program for actual diagnostics.
