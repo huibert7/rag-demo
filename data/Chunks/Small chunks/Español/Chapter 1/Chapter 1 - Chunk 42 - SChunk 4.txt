@@ -1,0 +1,1 @@
+Al realizar ajustes en una de las tarjetas de circuito impreso, utilice una varilla de afinación en lugar de un destornillador de metal. Esto evita que los componentes eléctricos se produzcan cortocircuitos o puentes accidentales. Los cortocircuitos eléctricos entre componentes pueden causar daños graves a un circuito.

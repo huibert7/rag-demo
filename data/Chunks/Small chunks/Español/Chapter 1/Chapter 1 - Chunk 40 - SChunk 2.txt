@@ -1,0 +1,1 @@
+Los procedimientos para cada uno de estos casos se tratan en el Capítulo 3, en "Pautas de reparación y solución de problemas de la unidad central del sistema". Cada uno de los siguientes capítulos enumera varias soluciones más específicas para solucionar un problema de un subsistema específico.
