@@ -1,0 +1,1 @@
+Three actions take place when a keyboard key is pressed.

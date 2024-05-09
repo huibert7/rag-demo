@@ -1,0 +1,1 @@
+If the value represents a particular key combination, such as CTRL G, further processing in the I/O ROM causes the designated function of CTRL G to be executed.

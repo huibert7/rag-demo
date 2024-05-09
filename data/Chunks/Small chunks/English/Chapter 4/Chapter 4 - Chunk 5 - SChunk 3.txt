@@ -1,0 +1,1 @@
+Each key post is positioned over a wire matrix, with each post being directly over the crossover of an X (horizontal) wire, and a Y (vertical) wire. The contact with this crossover point generates a column/row value indicating the originating keyboard location.

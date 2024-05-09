@@ -1,0 +1,1 @@
+ASCII (American Standard Code for Information Interchange) values are used to represent the standard display characters, such as A through Z, as an eight-bit binary ( 1 s and Os) code which can be interpreted and processed by the computer. For example, the letter "A" translates into the ASCII value of 1000001, with a decimal equivalent of 65.

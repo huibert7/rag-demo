@@ -1,0 +1,1 @@
+A column/row value indicating the key's location in the keyboard matrix is generated in the keyboard controller.

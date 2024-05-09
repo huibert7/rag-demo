@@ -1,0 +1,1 @@
+This encoder is a counter circuit with a built-in ROM containing the ASCII character set. Based on the matrix value of the pressed key, and based on whether or not the SHIFT or CTRL key was pressed in conjunction with the key, an ASCII value representing the pressed key is generated.

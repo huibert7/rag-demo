@@ -1,0 +1,1 @@
+The Apple II uses an integral keyboard, meaning it is housed together with the system unit. The CPU, memory, interfaces, and keyboard are all contained in one housing.

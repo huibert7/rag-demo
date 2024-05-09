@@ -1,0 +1,1 @@
+A unique ASCII value, based on the column/row value, is generated to represent the value of the pressed key.
