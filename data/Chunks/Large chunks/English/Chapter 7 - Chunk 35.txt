@@ -1,0 +1,1 @@
+Problem: "Try a New Diskette" Error Message. If the error message "Try a New Diskette" is returned while running the Disk Drive Diagnostic module, then you have a defective diskette. Try using a new, freshly formatted, blank diskette. If the error persists, refer to "Problem: I/O Error Message" above.

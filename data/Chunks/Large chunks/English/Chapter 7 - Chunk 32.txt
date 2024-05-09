@@ -1,0 +1,1 @@
+Problem: "The Diskette is Write-Protected" Error Message. If the error message "The Diskette is Write-Protected" is returned while run­ning the Disk Drive Diagnostic module, stop the program and check the contents of the diskette. Find out why it was write-protected. Replace it with a blank, formatted diskette, or remove the write-protect tape and resume the test.
