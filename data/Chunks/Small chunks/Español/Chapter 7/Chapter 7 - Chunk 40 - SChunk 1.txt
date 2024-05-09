@@ -1,0 +1,1 @@
+Cuando ejecute la prueba, utilice un disquete en blanco formateado recientemente. No utilice un disquete que contenga datos, porque la prueba se quedará sin espacio en el disquete y se devolverá un mensaje de error.

@@ -1,0 +1,1 @@
+El diagnóstico de la unidad de disco comienza con dos indicaciones. El primer mensaje solicita el número de ranura en la que reside la tarjeta controladora de la unidad de disco, del 0 al 7 (generalmente es la 6). Un segundo mensaje solicita el número específico que identifica la unidad de disco que se va a probar, 1 o 2.

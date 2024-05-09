@@ -1,0 +1,1 @@
+La primera pasada escribe una serie de registros de 254 bytes que contienen una cadena de 254 caracteres con valor CHR$ 64. El valor CHR$ 64 es un carácter que tiene una cadena de bits de 1000000. El diagnóstico escribe 239 registros con valor CHR$ 64 para llenar el disco.

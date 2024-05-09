@@ -1,0 +1,1 @@
+Si hay una discrepancia entre lo que se escribió y lo que se está leyendo ahora, se anota un error y se agrega al contador. El número total de errores se muestra en la pantalla al final de la prueba.

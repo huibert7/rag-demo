@@ -1,0 +1,1 @@
+Mientras los registros se escriben en el disco, se muestra el mensaje "WRITING HIGH VALUES TO DISK", que en español significa "ESCRIBIENDO VALORES ALTOS EN EL DISCO". Se necesitan unos cinco minutos para que el disco se llene con estos registros. Una vez hecho esto, se cierra el archivo.

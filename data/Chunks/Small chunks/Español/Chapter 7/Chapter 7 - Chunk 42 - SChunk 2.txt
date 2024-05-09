@@ -1,0 +1,1 @@
+Una vez finalizada la segunda pasada de la prueba, el archivo se cerrará y eliminará.
