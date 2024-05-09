@@ -1,0 +1,1 @@
+Los chips de su computadora pueden estar soldados a la tarjeta, or montados sobre un zócalo o "socket". En este segundo caso, los chips pueden ser extraídos y reemplazados fácilmente. Para hacerlo, use un extractor de chips para levantar el chip y sacarlo del  zócalo.

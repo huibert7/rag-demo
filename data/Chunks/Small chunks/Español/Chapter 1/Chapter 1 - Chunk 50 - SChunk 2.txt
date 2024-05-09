@@ -1,0 +1,1 @@
+Alinee con cuidado los pines del chip IC con los orificios del zócalo y luego presione suavemente el chip en el zócalo hasta el tope. Asegúrese de no doblar los pines del IC mientras lo presiona en el zócalo. Esto podría dañar permanentemente el chip.

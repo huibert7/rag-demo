@@ -1,0 +1,1 @@
+La tarjeta de PC se puede quitar una vez que todos los cables estén desconectados. Sujétela por los bordes y saque suavemente la tarjeta de la ranura de expansión de su Apple II. Tenga cuidado de no tocar la parte inferior de la tarjetas con sus pines IC expuestos, ya que podrían herirle los dedos.

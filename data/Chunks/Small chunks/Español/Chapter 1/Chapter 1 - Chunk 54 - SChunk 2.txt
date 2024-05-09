@@ -1,0 +1,1 @@
+Pruebe los diagnósticos ahora, antes de encontrar un problema. Sepa cómo se supone que deben aparecer los resultados en circunstancias normales.

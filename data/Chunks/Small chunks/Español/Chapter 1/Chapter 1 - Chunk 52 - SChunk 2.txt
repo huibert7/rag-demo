@@ -1,0 +1,1 @@
+Cuando sospeche que es necesario reemplazar un determinado subsistema de la computadora, primero cambie el componente por el de otro sistema. Esto confirmará que el componente realmente está defectuoso y que no es un problema en otra parte del sistema.

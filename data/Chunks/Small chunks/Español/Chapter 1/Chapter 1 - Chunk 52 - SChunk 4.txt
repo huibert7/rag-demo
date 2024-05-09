@@ -1,0 +1,1 @@
+Si el componente está roto y no puede ser reparado, puede que le resulte interesante desmontarlo. No hay nada que perder en este punto, así que puede jugar con él y descubrir cómo funciona. De esta manera, si el componente de repuesto alguna vez tiene un problema, tendrá una mejor idea de qué hacer con él, sin temor a dañarlo más.

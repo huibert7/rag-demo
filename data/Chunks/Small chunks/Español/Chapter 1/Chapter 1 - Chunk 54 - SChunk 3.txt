@@ -1,0 +1,1 @@
+Codifique cualquier modificación necesaria en el programa de diagnóstico del sistema. Estas modificaciones pueden tener que ver con la adaptación de otro periférico o un tipo de sistema, impresora o teclado diferente al soportado por este programa. Pruebe minuciosamente el programa modificado y, cuando esté satisfecho de que funciona como debería, haga una copia de seguridad.

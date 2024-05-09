@@ -1,0 +1,1 @@
+Por lo general, hay una muesca o un punto en el chip, así como en el zócalo, para ayudar con la orientación de la alineación al insertar un chip en el zócalo. Haga que las muescas del chip y del zócalo miren en la misma dirección.

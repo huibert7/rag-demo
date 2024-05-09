@@ -1,0 +1,1 @@
+Si llega a determinar que un determinado chip (CI) está defectuoso, puede reemplazarlo fácilmente si está colocado en un socket (y por lo tanto no está soldado).
