@@ -1,0 +1,1 @@
+Esta conexión les permite intercambiar datos tal como lo harían si estuvieran conectados mediante módem. La diferencia es que las líneas telefónicas no son necesarias en una conexión por cable debido a su proximidad.

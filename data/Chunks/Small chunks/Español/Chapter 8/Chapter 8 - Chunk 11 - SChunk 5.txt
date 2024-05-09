@@ -1,0 +1,1 @@
+La conexión directa entre dos computadoras mediante un cable serie funciona siempre y cuando el cable mida menos de 15 metros. Más allá de esa distancia es necesario utilizar módems o amplificadores de señal, porque los pulsos eléctricos disminuyen y llegan incluso a perderse debido a la resistencia del cable por donde viajan las señales.

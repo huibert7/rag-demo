@@ -1,0 +1,1 @@
+Algunas tarjetas de comunicación serie disponibles no requieren software independiente. Los interruptores DIP le permiten configurar los parámetros de comunicación y los programas especiales integrados en las ROM de la placa proporcionan conjuntos de comandos de comunicación para realizar todas las funciones necesarias del software de comunicación.

@@ -1,0 +1,1 @@
+Para utilizar la interfaz de comunicación serie, se necesita un software de comunicación que funcione desde la interfaz de comunicación serie. Un ejemplo de este tipo de software es un programa de comunicación por módem.

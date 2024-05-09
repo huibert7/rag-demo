@@ -1,0 +1,1 @@
+En la comunicación en serie, el software genera bits adicionales para cada carácter para ayudar a coordinar la transferencia de la comunicación. Estos bits añadidos se denominan bits de inicio y bits de parada. Cuando el software agrega el bit de inicio y el bit de parada, en realidad se envían diez bits por cada carácter de datos.

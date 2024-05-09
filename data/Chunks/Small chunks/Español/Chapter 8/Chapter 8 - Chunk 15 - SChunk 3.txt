@@ -1,0 +1,1 @@
+En la comunicación serie, la velocidad se expresa en una medida llamada baudios.

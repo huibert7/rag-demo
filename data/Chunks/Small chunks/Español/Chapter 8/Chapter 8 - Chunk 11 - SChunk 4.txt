@@ -1,0 +1,1 @@
+Cuando las computadoras están conectadas entre sí, la velocidad de envío de datos puede ser mucho más rápida. Los parámetros de comunicación entre las dos computadoras deben coincidir para que puedan comprender y procesar la información que se envía y recibe.

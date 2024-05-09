@@ -1,0 +1,2 @@
+Baudios suele ser, aunque no siempre, el número de bits que se pueden transmitir en un segundo. Las diferencias en las velocidades en baudios se pueden comparar con las diferentes formas en que se puede hacer sonar la bocina de un automóvil. Se pueden escuchar tres pitidos cortos mucho más rápido que tres pitidos largos.
+

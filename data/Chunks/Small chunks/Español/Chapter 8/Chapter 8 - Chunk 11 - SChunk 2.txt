@@ -1,0 +1,1 @@
+Si su Apple II reside en un entorno en el que las computadoras están a menos de 15 metros de distancia, estas computadoras pueden conectarse con un cable para conectarlas directamente a través de sus puertos de comunicación en serie.

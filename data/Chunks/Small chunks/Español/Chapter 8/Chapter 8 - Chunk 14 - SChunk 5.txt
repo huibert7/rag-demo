@@ -1,0 +1,1 @@
+Cuando ejecute el software de comunicación por primera vez, acceda al modo de configuración para definir estos parámetros de comunicación. Una vez configurados, estas opciones generalmente se almacenan en el disco del programa para que se implementen automáticamente cada vez que se utiliza el programa.

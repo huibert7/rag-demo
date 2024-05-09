@@ -1,0 +1,1 @@
+Tanto el transmisor como el receptor en la línea de comunicación necesitan saber si se están empleando bits de inicio y bits de parada.

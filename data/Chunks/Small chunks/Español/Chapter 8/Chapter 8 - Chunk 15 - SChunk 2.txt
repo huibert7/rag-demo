@@ -1,0 +1,1 @@
+La velocidad en baudios se refiere a la rapidez con la que el dispositivo envía información. El dispositivo que recibe los datos debe conocer la velocidad a la que se envían los datos para que los dos dispositivos estén sincronizados entre sí.
