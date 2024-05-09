@@ -1,0 +1,1 @@
+On the Apple II systems, the system unit is enclosed in the same assembly with the keyboard. The system unit houses the central processing unit (CPU), as well as the various interfaces for the computer's peripherals.

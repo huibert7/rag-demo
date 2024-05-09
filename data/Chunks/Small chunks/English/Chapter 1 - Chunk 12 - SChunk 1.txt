@@ -1,0 +1,12 @@
+| Required tools                            | Use                                                          |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| Flat-blade screwdrivers                   |                                                              |
+| Phillips screwdrivers                     | To tighten and untighten cross-slotted screws used for holding bolts down |
+| Needle-nose pliers                        | To grip and/or bend small objects as an extension or a "helping hand" |
+| Pliers                                    | To grip and/or bend small objects, to hold larger nuts       |
+| Wire strippers                            | To strip away plastic insulation                             |
+| Wire cutters                              | To cut wire                                                  |
+| Non-conductive screwdriver  "tuning wand" | To tighten and untighten screws in an electrically charged environment |
+| Key extractor                             | To remove keys from the key post on the keyboard             |
+| Chip extractor                            | To remove a socketed IC chip from its socket                 |
+| Metal flat file                           | To smooth or grind down a plastic surface such as a keycap   |

@@ -1,0 +1,1 @@
+When you make adjustments on one of the printed circuit boards, use a tuning wand, which is a non-conductive screwdriver. This prevents any electrical cur­ rents residing in the board from being conducted into your hand and through your body.

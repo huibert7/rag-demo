@@ -1,0 +1,1 @@
+Professional technicians usually have an inventory of spare parts associated with the equipment they work on. The spares help them in troubleshooting, when they swap out parts to find out whether or not it was that component that was causing the problem. If the replacement solves the problem, then they know that the old part was defective.

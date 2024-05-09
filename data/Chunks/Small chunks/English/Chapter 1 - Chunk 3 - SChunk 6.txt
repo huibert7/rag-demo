@@ -1,0 +1,1 @@
+The Apple II Plus system unit microprocessor consists of the 6502 CPU chip with 48 kilobytes of memory. It also includes eight expansion slots for additional peripheral boards such as a disk drive controller or serial communication inter­face board.

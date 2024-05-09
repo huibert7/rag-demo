@@ -1,0 +1,1 @@
+The serial communication interface is the means used to enable the Apple II to talk to the outside world. It can connect to, or interface with a modem, which sends data to and receives data from another computer via telephone lines. It can also interface with a printer, transmitting data to be printed, or interface directly with another computer.

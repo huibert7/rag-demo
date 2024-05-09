@@ -1,0 +1,1 @@
+This book is broken down in chapters according to major computer subsys­tems. If you're having trouble with the keyboard, for example, refer to Chapter 4, "The Keyboard." The chapter describes specific preventive maintenance for the keyboard, possible keyboard problems, and steps to take in troubleshooting and repairing them.

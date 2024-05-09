@@ -1,0 +1,1 @@
+Do not place your computer near any power supplies, appliances, or any other items that contain some type of motor. A motor creates a magnetic field, which can interfere with the data written magnetically on your diskettes. This magnetic interference could easily erase or garble your programs and data.
