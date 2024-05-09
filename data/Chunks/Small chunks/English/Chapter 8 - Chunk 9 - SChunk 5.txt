@@ -1,0 +1,1 @@
+Printer parameters are either set through switches within the printer or on the printer controller board, and/or set through the application software being used. Check the printer's user manual to see if any switches must be set upon installa­tion. Also check the individual software documentation to see how printer pa­rameters are set up to run with that particular program.

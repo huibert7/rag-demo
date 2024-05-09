@@ -1,0 +1,1 @@
+Other devices that connect to the computer through the serial communication interface include the mouse, plotter, digitizer tablet, system clock, and light pen.

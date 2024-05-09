@@ -1,0 +1,1 @@
+The serial interface port on the Apple II Plus and IIe is a RS-232 25-pin connector located at the rear of the Apple II system unit. Although there are 25 pins, only 5 of these pins are used for serial communication signals, with pin assignments as follows:

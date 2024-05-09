@@ -1,0 +1,1 @@
+The serial communication interface consists of three components: A serial communication circuit. A serial port. An interface cable.

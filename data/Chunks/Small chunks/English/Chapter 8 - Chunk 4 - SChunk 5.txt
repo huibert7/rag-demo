@@ -1,0 +1,1 @@
+1. DATA TERMINAL READY (output). 2. TRANSMIT DATA (output). 3. POWER AND SIGNAL COMMON (ground). 4. READ DATA (input). 5. DATA SET READY (input).

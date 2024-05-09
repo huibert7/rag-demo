@@ -1,0 +1,1 @@
+Pin 2 - TRANSMIT DATA (output). Pin 3 - READ DATA (input). Pin 6 - DATA SET READY (input). Pin 7 - POWER AND SIGNAL COMMON (ground). Pin 20 - DATA TERMINAL READY (output).
