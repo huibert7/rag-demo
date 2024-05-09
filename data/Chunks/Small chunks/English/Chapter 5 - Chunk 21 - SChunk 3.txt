@@ -1,0 +1,1 @@
+Run the Alignment Test. If the grid does not appear square and symmetrical on the screen, the monitor needs adjustment. There are adjustment potenti­ometers on the back of most monitors. These are labeled as Horizontal, Vertical, Brightness, and Contrast adjustments, and serve to deflect the electron beam or change its intensity.

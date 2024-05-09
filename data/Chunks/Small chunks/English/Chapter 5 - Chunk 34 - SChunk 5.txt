@@ -1,0 +1,1 @@
+Press any key to end the test. The screen will clear and return to the color menu, so another color can be tested if desired. When finished testing colors, press ESC, and the program quits to the Applesoft BASIC environment displaying the right bracket prompt.

@@ -1,0 +1,1 @@
+If you're running a game or application, such as a spreadsheet or graphics program, that uses the high-resolution graphics mode, and certain characters, or a part of the background appears to have tiny dark spots in them, then there are pixels missing due to a problem with the high-resolution memory locations.

@@ -1,0 +1,1 @@
+Once the screen is filled, the top line scrolls off the top of the screen and disappears, while a new line appears at the bottom of the screen. If new lines are added to the bottom, the lines of the character set appear to walk down and across the screen, shifting to the right, one character at a time.

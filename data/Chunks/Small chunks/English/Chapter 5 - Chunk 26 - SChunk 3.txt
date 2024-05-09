@@ -1,0 +1,1 @@
+Run the High-Resolution Test Program, the HIRES program on the diag­nostic diskette, but separate from the System Diagnostic Program. This test checks all high-resolution memory locations.

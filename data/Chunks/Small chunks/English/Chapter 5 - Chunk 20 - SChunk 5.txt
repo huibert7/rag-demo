@@ -1,0 +1,1 @@
+The RF converter has two switch positions: COMPUTER and TV. Make sure that the converter is switched to the COMPUTER position. Also, check that the converter is properly connected to the VHF rather than UHF antenna leads.

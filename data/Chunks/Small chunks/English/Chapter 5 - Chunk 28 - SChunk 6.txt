@@ -1,0 +1,1 @@
+Load and run the System Diagnostic Program. Choose the Monitor Diagnostic, and then the Low-Resolution Color Test (refer to "Running the Monitor Diagnostic Module" later in this chapter for further in­structions).

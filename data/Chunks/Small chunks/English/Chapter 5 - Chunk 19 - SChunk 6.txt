@@ -1,0 +1,1 @@
+Check the cabling to ensure that the monitor is properly attached to the system unit monitor interface on the motherboard.

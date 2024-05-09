@@ -1,0 +1,1 @@
+Once this is done, the screen is completely filled with a series of high-resolution pixels in that color at each screen memory location. Any location that is not filled with the color pixel indicates a high-resolution video memory location problem.

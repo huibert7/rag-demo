@@ -1,0 +1,1 @@
+Check that the monitor is properly connected. If the monitor is a television set plugged into a different socket than the computer, check to see whether the outlet is controlled by a light switch. If it is, make certain the light switch is turned on.

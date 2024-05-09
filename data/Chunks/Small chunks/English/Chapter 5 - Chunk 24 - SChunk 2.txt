@@ -1,0 +1,1 @@
+If you're entering characters in the text mode, and you notice that there is a location on the screen into which you are not able to display any character, then there is a problem with the text mode character location.
