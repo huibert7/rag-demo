@@ -1,0 +1,1 @@
+If the disk drive and controller work on the other system, but they do not work on yours, then you have a faulty motherboard. Refer to Chapter 3 for system unit troubleshooting procedures.

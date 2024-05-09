@@ -1,0 +1,1 @@
+Try reading from and writing to another diskette that you know is formatted. If you are successful with this diskette, and the error message is not returned, then the original diskette probably was not formatted.

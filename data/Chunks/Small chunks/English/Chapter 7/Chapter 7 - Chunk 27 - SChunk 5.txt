@@ -1,0 +1,1 @@
+Run the Disk Drive Diagnostic again. There should be no errors returned from the Read/Write Test. If the errors persist, contact an Apple II service outlet. The drive controller or the motherboard might need more in-depth troubleshooting.

@@ -1,0 +1,1 @@
+On the II Plus and IIe, if it's a read problem, use the chip extractor to carefully remove the MC3470 and CA3146 chips. If it's a write problem, remove those two chips in addition to 74LS125 and ULN2003.

@@ -1,0 +1,1 @@
+Find out why it was write-protected. Replace it with a blank, formatted diskette, or remove the write-protect tape and resume the test.

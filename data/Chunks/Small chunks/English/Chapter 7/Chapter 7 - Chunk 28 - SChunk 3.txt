@@ -1,0 +1,1 @@
+Diskettes, like records and tapes, can become warped and damaged when exposed to heat, or direct sunlight. If a warped diskette is placed into the drive, it will scrape up against the head and cause a head crash. Don't try to use a warped diskette, because if it causes a head crash, the disk drive will become misadjusted, and will have to be taken in for servicing.

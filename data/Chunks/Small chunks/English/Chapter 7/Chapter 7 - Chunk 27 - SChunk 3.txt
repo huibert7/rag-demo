@@ -1,0 +1,1 @@
+Replace one or more chips on the drive controller board. Refer to "Working With IC Chips" in Chapter 1 for further instructions on handling and replacing chips.
