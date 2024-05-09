@@ -1,0 +1,1 @@
+Si el otro sistema funcionó con su tarjeta controladora de unidad, entonces tiene una unidad de disco defectuosa. Si su unidad no funciona, está defectuosa y debe llevarse a un centro de servicio Apple II para solucionar el problema y repararla. Si su unidad funciona en otro sistema y ya revisó el controlador de la unidad, entonces tiene un problema con la tarjeta madre.

@@ -1,0 +1,1 @@
+También puede intentar reinicializar el disquete. Cuando se inicializa un disquete por primera vez, se bloquean los sectores defectuosos. A veces se puede desarrollar un sector defectuoso después de la inicialización. En este caso, el disquete se puede recuperar con una reinicialización.

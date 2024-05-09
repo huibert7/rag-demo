@@ -1,0 +1,1 @@
+Si la otra unidad de disco no funciona con su tarjeta controladora, entonces cierto chip en la tarjeta del controlador de la unidad está defectuoso y debe ser reemplazado. Consulte "Trabajar con chips IC" en el Capítulo 1 para obtener más instrucciones sobre cómo manipular y reemplazar chips.

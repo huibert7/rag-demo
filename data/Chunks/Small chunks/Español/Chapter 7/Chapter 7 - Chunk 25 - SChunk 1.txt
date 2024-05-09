@@ -1,0 +1,1 @@
+Si el sistema puede leer un disquete, pero no puede escribir en él, examine el disquete para ver si está protegido contra escritura.

@@ -1,0 +1,1 @@
+En el Apple II Plus y IIe, utilice el extractor de chips para retirar con cuidado los chips MC3470, CA3146, 74LS125 y ULN2003 de la tarjeta controladora de la unidad de disco.

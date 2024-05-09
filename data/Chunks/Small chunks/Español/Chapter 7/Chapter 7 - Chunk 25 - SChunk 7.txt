@@ -1,0 +1,1 @@
+Si no puede escribir en el segundo disquete, probablemente tenga un problema con su unidad. Para comprobar esto, pruebe el disquete en otro sistema. Si no escribe en el sistema, entonces tiene un disquete defectuoso. Sin embargo, si escribe en el otro sistema, entonces tiene un problema con el controlador de su unidad de disco o con la unidad misma.

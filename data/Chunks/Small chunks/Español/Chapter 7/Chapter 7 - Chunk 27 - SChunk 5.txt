@@ -1,0 +1,1 @@
+Ejecute nuevamente el Diagnóstico de la unidad de disco. No debería haber errores devueltos por la prueba de lectura/escritura. Si los errores persisten, comuníquese con un centro de servicio técnico de Apple II. Es posible que la tarjeta controladora de la unidad o la tarjeta madre necesiten una revisión más profunda.

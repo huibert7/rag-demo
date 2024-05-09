@@ -1,0 +1,1 @@
+Si el disquete es del tipo correcto para la unidad, el problema podría ser que el disquete no esté inicializado o formateado. Hay muchos fabricantes de disquetes y el mismo tipo de disquete se puede utilizar con una variedad de computadoras.

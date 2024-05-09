@@ -1,0 +1,1 @@
+La inicialización también prueba el disquete en busca de sectores defectuosos. Si se encuentran sectores defectuosos, el programa INIT los bloquea. El disquete aún se puede utilizar y se evita que se escriban datos valiosos en áreas defectuosas.

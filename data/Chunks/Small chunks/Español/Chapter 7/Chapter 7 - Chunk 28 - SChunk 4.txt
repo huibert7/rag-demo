@@ -1,0 +1,1 @@
+Se indica un bloqueo del cabezal si el sistema no puede leer, escribir o inicializar un disco. Otra indicación es un sonido chirriante y rayado que se escucha cuando se inserta un disquete en la unidad.

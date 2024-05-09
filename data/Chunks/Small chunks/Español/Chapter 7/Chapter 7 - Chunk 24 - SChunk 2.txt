@@ -1,0 +1,1 @@
+Un problema común de la unidad de disco es que el sistema no puede escribir datos en el disquete. Lo primero que debes comprobar es el propio disquete.

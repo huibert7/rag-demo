@@ -1,0 +1,1 @@
+Si su unidad aún no escribe, cambie el controlador de su unidad de disco por el de otro sistema Apple II. Si usa un Apple IIc, cambie toda la tarjeta madre o el chip controlador de la unidad. Si la otra unidad de disco funciona, su sistema tiene una unidad de disco defectuosa.

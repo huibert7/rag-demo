@@ -1,0 +1,1 @@
+Si su sistema no escribe en un disquete nuevo, primero asegúrese de que sea el tipo correcto de disquete para la unidad. Asegúrese de utilizar un disquete de una sola cara con sectores flexibles en su unidad. Consulte la documentación de la unidad de disco para conocer los requisitos adicionales del disquete.
