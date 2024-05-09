@@ -1,0 +1,1 @@
+Debido a que el Apple II incluye cuatro puertos para controles de juegos, lo primero que se debe solicitar es el número del puerto se va a probar. Esto permitirá realizar pruebas de cada uno de los cuatro puertos. Los puertos están numerados como 0, 1, 2 y 3

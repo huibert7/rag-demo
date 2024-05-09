@@ -1,0 +1,1 @@
+Una vez que entienda perfectamente las funciones de la paleta de juego, así como los posibles problemas que se pudan presentar con su funcionamiento, podrá determinar los tipos de pruebas que serían más útiles al escribir un módulo de diagnóstico.

@@ -1,0 +1,1 @@
+If the game paddle still does not work, refer to the game paddle documen­tation for further troubleshooting and repair instructions.

@@ -1,0 +1,1 @@
+El interruptor que controla el botón de disparo puede atascarse. Esto se percibe si al presionar el botón de disparo no sucede nada o el botón sigue disparando, aunque ya haya soltado el botón.

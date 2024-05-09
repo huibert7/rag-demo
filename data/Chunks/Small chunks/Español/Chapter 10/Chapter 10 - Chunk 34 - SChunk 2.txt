@@ -1,0 +1,1 @@
+La paleta de juegos debería poder mover el objeto que controla en la pantalla completamente hacia la izquierda y hacia la derecha de la misma en una aplicación determinada. Si la paleta no logra mover el objeto de esta manera, o si el objeto tiembla o se mueve con dificultad, entonces tiene un problema con el potenciómetro de la rueda de control.

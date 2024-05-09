@@ -1,0 +1,1 @@
+Si la paleta de juegos no funciona en ninguno de los cuatro puertos, intente utilizarlo en otro sistema. Ejecute también Game Paddle Diagnostic en el otro sistema. Si el mando del juego funciona en el otro sistema, entonces hay un problema con la unidad central. Consulte el Capítulo 3 para conocer los procedimientos de solución de problemas de la unidad del sistema.

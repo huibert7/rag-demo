@@ -1,0 +1,1 @@
+Si tiene acceso a otra paleta de juego que sepa que funciona, intente conectarla. Si la otra paleta funciona en su sistema, entonces su paleta de juego está mal y debe ser reemplazada. Si el otro mando de juego tampoco funciona, entonces tiene un problema con la unidad central.

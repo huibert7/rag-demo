@@ -1,0 +1,1 @@
+Si el mando del juego no funciona en absoluto, podría ser un problema con la conexión de la interfaz, el mando del juego o la unidad central. Para aislar el problema, pruebe las siguientes soluciones en el orden indicado.

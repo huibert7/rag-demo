@@ -1,0 +1,1 @@
+Si la paleta de juegos sigue sin funcionar, desconecte el cable de la paleta del puerto y conéctelo al otro puerto. Si el mando funciona en el otro puerto, entonces hay un problema en el puerto original de la unidad central. Consulte el Capítulo 3 para obtener más instrucciones sobre cómo solucionar problemas de la unidad central.

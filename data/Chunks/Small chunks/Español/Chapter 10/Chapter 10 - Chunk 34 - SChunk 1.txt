@@ -1,0 +1,1 @@
+La paleta de juegos no mueve el objeto de forma correcta

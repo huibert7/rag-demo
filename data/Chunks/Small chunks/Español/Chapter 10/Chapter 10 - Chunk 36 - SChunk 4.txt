@@ -1,0 +1,5 @@
+| Problema potencial                                       | Descripción de la prueba                                     | Nombre de la prueba              |
+| -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------- |
+| La paleta de juegos no funciona en absoluto              | N/D                                                          | No se puede probar por software. |
+| La paleta de juegos no mueve el objeto de forma correcta | Sigue el movimiento de la rueda a través de la pantalla, desde el extremo izquierdo hasta el extremo derecho. | Prueba de seguimiento.           |
+| El botón de disparo no funciona                          | Muestra en la pantalla el estado del botón para saber si está siendo presionado o no. | Prueba del botón de disparo.     |
