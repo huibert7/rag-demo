@@ -1,0 +1,1 @@
+When the Apple II system is powered on, Applesoft BASIC is automatically loaded from ROM. A successful load is indicated by a right bracket (]) prompt on the screen.

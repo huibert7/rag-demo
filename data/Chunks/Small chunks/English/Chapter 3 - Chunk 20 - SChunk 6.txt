@@ -1,0 +1,1 @@
+Switch settings are read by the system unit when it is powered on, and determine whether or not a certain configuration or setting is enabled.
