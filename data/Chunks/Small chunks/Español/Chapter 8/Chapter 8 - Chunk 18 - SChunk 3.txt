@@ -1,0 +1,1 @@
+Si el sistema está configurado para paridad impar desde el módem a la computadora y se recibe un carácter o palabra con un número par de bits, la paridad no es correcta. Esto podría significar que uno de los bits de caracteres se perdió durante la transmisión.

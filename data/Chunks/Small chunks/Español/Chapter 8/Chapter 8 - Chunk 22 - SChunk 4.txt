@@ -1,0 +1,1 @@
+Marque el teléfono para llamar al otro módem y sistema informático. El módem cambia al modo de datos y emite la señal DSR (Data Set Ready).

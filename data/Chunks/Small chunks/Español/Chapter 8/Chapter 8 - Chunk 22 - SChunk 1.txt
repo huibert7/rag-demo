@@ -1,0 +1,1 @@
+Otro protocolo utilizado por los módems para establecer comunicación se llama handshake protocol. Se utiliza una serie de señales para establecer la comunicación por módem. La siguiente es una descripción de la secuencia del protocolo de handshake, incluido el procedimiento y las señales de datos utilizados para establecer y mantener la comunicación.

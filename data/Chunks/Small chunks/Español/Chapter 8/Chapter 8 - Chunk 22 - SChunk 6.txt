@@ -1,0 +1,1 @@
+Presione una tecla para comenzar a enviar un código de carácter al otro sistema. La señal RTS (Request to Send o Solicitud de envío) se envía desde la computadora al módem y se ilumina la luz correspondiente.

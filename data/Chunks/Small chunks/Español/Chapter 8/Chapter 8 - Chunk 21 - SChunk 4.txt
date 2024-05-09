@@ -1,0 +1,1 @@
+Por ejemplo, supongamos que el Apple II tiene un búfer de comunicación de 128 bytes. En el proceso de recibir un archivo que puede tener 4.000 bytes de longitud, por ejemplo, el búfer de comunicación se llenará rápidamente. Cuando esto sucede, el Apple II envía un comando de suspensión al otro sistema, deteniendo temporalmente la transferencia de datos.

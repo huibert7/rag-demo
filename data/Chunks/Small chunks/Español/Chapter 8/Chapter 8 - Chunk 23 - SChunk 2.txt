@@ -1,0 +1,1 @@
+La tarjeta de interfaz de comunicación serie tiene un conector al que se conecta un cable. Esta conexión es por donde las señales funcionales y los datos pasan, un bit a la vez, entre los dos dispositivos en comunicación.

@@ -1,0 +1,1 @@
+El protocolo XON/XOFF funciona junto con el emulador y se establece con los demás parámetros de configuración del software de comunicación. El protocolo XON/XOFF es opcional. Aunque las velocidades en baudios pueden ser compatibles, si el sistema receptor no puede procesar los datos lo suficientemente rápido, algunos datos podrían perderse.

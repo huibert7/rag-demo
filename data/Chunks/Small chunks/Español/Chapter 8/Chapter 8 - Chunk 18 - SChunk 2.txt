@@ -1,0 +1,1 @@
+La paridad es un esquema de corrección de errores que se utiliza para garantizar una transmisión de datos precisa. Con paridad, el último bit de una palabra de datos se establece de modo que la suma del número de bits sea un número impar, para paridad impar, o un número par, para paridad par.

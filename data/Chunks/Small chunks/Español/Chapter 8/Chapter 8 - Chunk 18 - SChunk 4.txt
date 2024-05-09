@@ -1,0 +1,1 @@
+Cuando no se logra la paridad, esto indica un error en la transmisión. En este caso, el software de comunicación le indica que intente nuevamente la transmisión de datos o se reinicia automáticamente.

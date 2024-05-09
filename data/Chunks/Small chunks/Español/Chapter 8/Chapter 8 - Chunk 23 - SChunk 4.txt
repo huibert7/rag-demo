@@ -1,0 +1,1 @@
+El estándar de comunicación en serie RS-232 determina en qué consisten estas señales funcionales y qué cables están asignados para transportar qué tipos de señales o datos.

@@ -1,0 +1,1 @@
+El otro sistema descuelga y responde. Se emite el CD (Carrier Detect) y la luz correspondiente se ilumina en el panel del módem.

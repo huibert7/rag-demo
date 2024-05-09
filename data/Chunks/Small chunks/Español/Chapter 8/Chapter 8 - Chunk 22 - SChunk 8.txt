@@ -1,0 +1,1 @@
+Se recibe la señal CTS (Clear To Send o Listo para enviar). 6. Se envían los datos. La luz SD (SendData) está iluminada en el módem.

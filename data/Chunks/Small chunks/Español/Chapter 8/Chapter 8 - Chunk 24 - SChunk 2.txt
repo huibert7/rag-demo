@@ -1,0 +1,1 @@
+El mantenimiento preventivo de la interfaz de comunicación serie consiste en mantener el circuito, puerto, cable y dispositivo de comunicación serie limpios y libres de polvo.

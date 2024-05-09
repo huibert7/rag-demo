@@ -1,0 +1,1 @@
+El módem transmite una señal a la computadora para indicar que está preparada para aceptar datos para la transmisión.

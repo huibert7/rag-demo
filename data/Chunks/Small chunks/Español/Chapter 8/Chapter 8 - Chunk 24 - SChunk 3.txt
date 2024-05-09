@@ -1,0 +1,1 @@
+Aspire el polvo de la tarjeta de comunicación serie (o circuito de la tarjeta madre en el caso del IIc) periódicamente. Compruebe si hay oxidación en el conector de la tarjeta, aquél que se inserta en la ranura de extensión de su Apple II. Asegúrese de que la tarjeta esté asentada firmemente en su ranura.

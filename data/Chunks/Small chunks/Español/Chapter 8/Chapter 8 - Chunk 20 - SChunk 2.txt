@@ -1,0 +1,1 @@
+Los diferentes tipos de computadoras tienen diferentes secuencias de control de teclado, asignación de teclado, visualización de formato de pantalla, manejo de texto y funciones especiales. Estos aspectos del diseño único de una computadora pueden dificultar la comunicación efectiva entre dos computadoras diferentes.

@@ -1,0 +1,1 @@
+El protocolo XON/XOFF pone la transmisión en espera según sea necesario para evitar que los buffers de comunicación se desborden y luego la enciende nuevamente para asegurarse de que los datos se transfieran por completo.

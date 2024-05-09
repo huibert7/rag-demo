@@ -1,0 +1,1 @@
+Tenga en cuenta que algunas de las señales, como Carrier Detect, Request to Send, and Clear to Send, las utiliza únicamente el módem y no pasan por la propia interfaz de comunicación serie.

@@ -1,0 +1,1 @@
+Dependiendo del dispositivo con el que se esté comunicando el Apple II, los datos pueden enviarse en una sola dirección o pueden enviarse en ambas direcciones: hacia y desde ambos dispositivos. 

@@ -1,0 +1,1 @@
+Las impresoras son dispositivos unidireccionales, lo que significa que sólo reciben datos; no pueden transmitir datos a la computadora. Por otro lado, cuando dos computadoras están conectadas a través de módems, se dice que los datos son bidireccionales, ya que cada sistema puede enviar y recibir datos.
