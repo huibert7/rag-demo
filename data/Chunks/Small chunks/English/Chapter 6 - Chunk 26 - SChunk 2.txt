@@ -1,0 +1,1 @@
+The Sliding Alpha Test is very similar to the sliding alpha routine used in the Scroll Test of the Monitor Diagnostic module. It serves two functions: to fully exercise the printer, and to get a sample of the full alphanumeric display character set available on the printer.

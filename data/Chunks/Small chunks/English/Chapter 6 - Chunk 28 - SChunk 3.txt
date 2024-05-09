@@ -1,0 +1,1 @@
+Press 3 to run the Echo Character Print Test. You will be prompted to enter the character to be echoed. Function keys and cursor keys are disabled for this test. Only valid character keys can be echoed. The printer prints this character at all positions along the carriage, columns 1 through 80. When it's finished, press any other character to have that character echoed.

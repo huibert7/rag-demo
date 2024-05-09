@@ -1,0 +1,1 @@
+To run the Printer Diagnostic module, first turn the printer on, then follow the instructions provided in "Running the Diagnostic Program" in Chapter 2 to load and run the program. Press P to initiate the Printer Diagnostic module. The screen will clear and the Printer Setup routine will be displayed.

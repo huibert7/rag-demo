@@ -1,0 +1,1 @@
+The Line Feed Test checks the printer's vertical line spacing, and is selected by pressing 5 from the Printer Diagnostic Menu. Like the Horizontal Tab Test, this test needs no additional parameters entered, and runs as soon as it is selected.

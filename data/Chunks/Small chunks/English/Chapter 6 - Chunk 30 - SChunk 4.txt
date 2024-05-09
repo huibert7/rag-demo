@@ -1,0 +1,1 @@
+he printer types the first line. Then it gives two line feeds, types the second line, gives three line feeds, types a third line, gives four line feeds, types a fourth line, gives five line feeds, then types a fifth line. Finally a form feed command is issued, and the printer rolls up to the next page and prints a line.

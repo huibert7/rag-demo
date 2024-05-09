@@ -1,0 +1,1 @@
+After printing the character set, the Printer Diagnostic Menu is displayed once again.

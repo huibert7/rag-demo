@@ -1,0 +1,1 @@
+When you connect your printer to your Apple II, ensure that any software program that uses the printer is set up to the proper interface. This information should be provided by the user documentation: the computer system, the printer, and the software documentation are all vital for specific configuration.
