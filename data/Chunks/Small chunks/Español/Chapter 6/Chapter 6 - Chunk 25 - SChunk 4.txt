@@ -1,0 +1,1 @@
+Si no conoce el número de ranura, abra la unidad del sistema y ubique la tarjeta controladora de la impresora. El número de ranura está etiquetado en la tarjeta madre, frente a la ranura misma.

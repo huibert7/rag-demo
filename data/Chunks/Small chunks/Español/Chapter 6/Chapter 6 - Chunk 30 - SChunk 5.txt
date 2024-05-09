@@ -1,0 +1,1 @@
+El espaciado de líneas y el avance de formulario a menudo se controlan mediante la configuración de  interruptores dentro de la impresora. Si los resultados no son satisfactorios, consulte "Pautas de solución de problemas y reparación" en la sección anterior para obtener más información.

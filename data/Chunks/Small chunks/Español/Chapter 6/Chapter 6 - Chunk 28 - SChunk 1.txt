@@ -1,0 +1,1 @@
+Prueba de impresión de un determinado carácter (Echo Character Print Test)

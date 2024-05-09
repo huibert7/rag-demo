@@ -1,0 +1,1 @@
+Hay dos tipos básicos de impresoras entre los cuales el módulo de Diagnóstico de Impresora debe distinguir. Debido a esto, la rutina de Configuración de la impresora se ejecuta incluso antes de que se muestre el menú Diagnóstico de la impresora. Se dan dos indicaciones.

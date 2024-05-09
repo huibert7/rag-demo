@@ -1,0 +1,1 @@
+La prueba alfa deslizante es muy similar a la rutina alfa deslizante utilizada en la prueba de desplazamiento del módulo de diagnóstico del monitor. Tiene dos funciones: ejercitar completamente la impresora y obtener una muestra del conjunto de caracteres alfanuméricos completos disponibles en la impresora.

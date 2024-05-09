@@ -1,0 +1,1 @@
+Los problemas de avance de línea se manifiestan al imprimir texto encima de las líneas anteriores porque la impresora no pudo avanzar una línea en el momento adecuado. La impresora puede atascarse cuando se supone que debe saltar varias líneas o pasar a la página siguiente con un comando de inicio de página.

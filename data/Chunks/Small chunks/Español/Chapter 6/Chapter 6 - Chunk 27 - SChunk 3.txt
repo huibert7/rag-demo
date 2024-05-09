@@ -1,0 +1,1 @@
+Después de imprimir el juego de caracteres, se muestra nuevamente el menú de diagnóstico de la impresora.

@@ -1,0 +1,1 @@
+La impresora escribe la primera línea. Luego proporciona dos saltos de línea, escribe la segunda línea, tres saltos de línea, escribe una tercera línea, cuatro saltos de línea, escribe una cuarta línea, cinco saltos de línea y luego escribe una quinta línea. Finalmente, se emite un comando de avance de página y la impresora pasa a la página siguiente e imprime una línea.

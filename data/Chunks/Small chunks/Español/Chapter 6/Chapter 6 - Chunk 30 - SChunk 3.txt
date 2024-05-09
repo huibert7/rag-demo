@@ -1,0 +1,1 @@
+La prueba de avance de línea verifica el espacio entre líneas verticales de la impresora y se selecciona presionando 5 en el menú de diagnóstico de la impresora. Al igual que la prueba de pestaña horizontal, esta prueba no necesita ingresar parámetros adicionales y se ejecuta tan pronto como se selecciona.

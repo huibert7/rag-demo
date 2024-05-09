@@ -1,0 +1,1 @@
+La prueba de impresión del juego de caracteres muestra todos los caracteres disponibles dentro del juego de caracteres de la impresora y comprueba si todos los caracteres se imprimen satisfactoriamente. Para ejecutar la prueba de impresión del juego de caracteres, presione 2. Se imprimirán todos los caracteres del juego de caracteres.

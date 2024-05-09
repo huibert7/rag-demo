@@ -1,0 +1,1 @@
+Si no obtiene dichos resultados, hay un problema con el mecanismo de la impresora o es posible que la impresora necesite cambiar la configuración de algún interruptor dentro de la impresora. Consulte "Solución de problemas y pautas de reparación" anteriormente en este capítulo para obtener más información.

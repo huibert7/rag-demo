@@ -1,0 +1,1 @@
+Después de presionar la tecla "ESC", se mostrará nuevamente el menú de diagnóstico de la impresora.

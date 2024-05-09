@@ -1,0 +1,1 @@
+La prueba de tabulación horizontal verifica todas las combinaciones de tabuladores a lo largo del carro de la impresora.

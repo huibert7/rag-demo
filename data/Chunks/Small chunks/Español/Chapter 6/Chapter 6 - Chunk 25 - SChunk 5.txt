@@ -1,0 +1,1 @@
+Después de responder estas indicaciones y presionar RETURN, el módulo se configura para su impresora y se muestra el menú de diagnóstico de la impresora como se muestra. Para activar una de las pruebas de la impresora, presione el número correspondiente, del 1 al 5.
