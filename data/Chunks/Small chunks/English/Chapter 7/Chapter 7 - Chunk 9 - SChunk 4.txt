@@ -1,0 +1,1 @@
+The head-arm assembly locates, reads, and writes data to and from the disk according to the instructions coming from the disk drive controller.

@@ -1,0 +1,1 @@
+The small hole located near the center of the diskette is used by the disk drive circuitry for timing and synchronization. This hole senses when the diskette is spinning at the correct rpm necessary for reading or writing data. As long as the disk drive motor is rotating the diskette at the correct speed, data can be written to and read from the surface of the diskette.

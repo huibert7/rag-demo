@@ -1,0 +1,1 @@
+Likewise, when you command the computer to retrieve a saved file, the system recalls the information stored on the diskette. It places it into system memory just as it was when last saved. The disk drive also allows you to buy prerecorded programs and load them into your system.

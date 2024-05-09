@@ -1,0 +1,1 @@
+In addition, most microcomputers, the Apple II systems included, have a volatile memory. This means that in order for the random-access memory (RAM) chips to retain their data, power must be continuously supplied to their circuitry. Once the computer is turned off, everything that was stored in that 48, 64, or 128kB is now erased.

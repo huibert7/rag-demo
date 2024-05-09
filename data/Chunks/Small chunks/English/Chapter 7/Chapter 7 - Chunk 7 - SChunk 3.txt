@@ -1,0 +1,1 @@
+The magnetic media used by the Apple II systems is the 5 1/4-inch single-sided, double-density floppy diskette. The Apple II system can write 143 kilobytes of data to this diskette.

@@ -1,0 +1,1 @@
+The disk drive system consists of three basic components: Floppy diskette. Disk drive controller. Disk drive mechanism.

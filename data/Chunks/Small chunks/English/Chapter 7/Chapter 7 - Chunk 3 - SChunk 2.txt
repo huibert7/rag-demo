@@ -1,0 +1,1 @@
+A disk drive provides a means for high-speed storage and retrieval for programs and data, and as such, it is one of the most useful peripheral devices for the Apple II. Spreadsheet software, database programs, and word processing applications can be quickly stored and accessed using a disk drive.

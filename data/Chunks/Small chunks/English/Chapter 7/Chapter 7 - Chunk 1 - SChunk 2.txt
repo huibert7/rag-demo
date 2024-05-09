@@ -1,0 +1,1 @@
+The previous chapters have primarily covered computer input and output; the keyboard being the major input device, and the monitor and printer being output devices. However, when you wish to do anything sophisticated with the com­puter, the facilities of one more function are needed: mass storage, as provided by the disk drive.

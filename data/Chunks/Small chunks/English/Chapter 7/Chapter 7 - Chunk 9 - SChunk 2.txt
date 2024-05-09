@@ -1,0 +1,1 @@
+The disk drive itself consists of a motor, drive head, and access arm (Fig. 7-7). When you insert a diskette into the disk drive and close the drive latch, a switch inside the drive tells the system that a diskette has been inserted. The drive motor then spins the diskette at a constant speed of 300 - 400 revolutions per minute (rpm).
