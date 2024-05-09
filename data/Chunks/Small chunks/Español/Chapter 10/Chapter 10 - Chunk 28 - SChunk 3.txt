@@ -1,0 +1,1 @@
+Cuando la rueda se gira hacia la derecha o en el sentido de las agujas del reloj, el objeto en la pantalla avanza hacia la derecha. Cuando la paleta del juego se gira hacia la izquierda o en sentido contrario a las agujas del reloj, el objeto avanza hacia la izquierda. El control de la paleta del juego hace que el objeto particular en la pantalla siga sus movimientos.

@@ -1,0 +1,1 @@
+Además, inserte la instrucción `IF` apropiada para que el programa se bifurque al número de línea adecuado donde comienza el código del nuevo módulo. Una vez hecho esto, agregue el código del módulo al programa. Haga que los números de línea del nuevo código comiencen alrededor de 6000 o después de donde termina el último módulo de diagnóstico.

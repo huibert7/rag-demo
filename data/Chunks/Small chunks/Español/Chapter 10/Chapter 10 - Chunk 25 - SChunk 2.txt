@@ -1,0 +1,1 @@
+Cuando el nuevo programa de diagnóstico esté completamente integrado en el Programa de diagnóstico del sistema, es necesaria una fase final de prueba del programa integrado. Realice los mismos procedimientos de prueba en el nuevo módulo que antes.

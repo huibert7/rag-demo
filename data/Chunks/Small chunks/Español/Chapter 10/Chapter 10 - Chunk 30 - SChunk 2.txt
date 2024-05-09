@@ -1,0 +1,1 @@
+Existen varias fuentes que pueden proporcionar la información necesaria para escribir un programa que use la paleta de juego, en particular un programa de diagnóstico. El manual de Applesoft BASIC tiene una gran cantidad de información valiosa para programar su dispositivo desde un programa escrito en Applesoft BASIC.

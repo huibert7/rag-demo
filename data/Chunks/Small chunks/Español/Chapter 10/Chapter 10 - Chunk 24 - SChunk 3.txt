@@ -1,0 +1,1 @@
+La integración también consiste en editar líneas de código para que los dos programas estén interconectados, utilizando los recursos y subrutinas de cada uno y relacionando partes apropiadas de un programa con partes del otro para que funcionen juntas como un programa cohesivo.

@@ -1,0 +1,1 @@
+La fase de integración consiste en agregar el código del nuevo módulo a un programa existente, en este caso el Programa de diagnóstico del sistema, y asegurarse de que los dos programas funcionen juntos de manera armoniosa sin interferir negativamente entre sí.

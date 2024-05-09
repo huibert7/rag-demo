@@ -1,0 +1,1 @@
+EmptyUn potenciómetro varía la señal recibida por el puerto de juego según la dirección, la velocidad y el grado en que el usuario gira la rueda de paletas del juego. Esta operación es muy similar a la de un regulador de intensidad de luz. Las diferentes señales provocan diferentes resultados en el juego, normalmente posicionando un objeto en un lugar determinado de la pantalla.

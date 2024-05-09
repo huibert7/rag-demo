@@ -1,0 +1,1 @@
+El proceso paso a paso incluye investigar las funciones y posibles problemas de las paletas, diseñar los diagramas de flujo para su diagnóstico, desarrollar y probar el nuevo código y, finalmente, integrar y probar el nuevo programa como un nuevo módulo del Programa de Diagnóstico.

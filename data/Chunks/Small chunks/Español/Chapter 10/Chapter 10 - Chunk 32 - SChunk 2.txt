@@ -1,0 +1,1 @@
+El manual del usuario de la paleta de juego generalmente proporciona información sobre mantenimiento, solución de problemas y posiblemente reparación. Esta información, junto con los siguientes posibles problemas, le ayudará a decidir qué tipos de pruebas de diagnóstico son necesarias para solucionar estos fallos de funcionamiento en particular.

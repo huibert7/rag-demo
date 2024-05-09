@@ -1,0 +1,1 @@
+Hasta este punto, el desarrollo de un nuevo módulo de diagnóstico de dispositivos se ha tratado en términos generalizados. En esta sección se proporciona un ejemplo concreto para aclarar el proceso de desarrollo. Este ejemplo utiliza la paleta de juego como el nuevo periférico para el cual se desarrollará un módulo de diagnóstico.

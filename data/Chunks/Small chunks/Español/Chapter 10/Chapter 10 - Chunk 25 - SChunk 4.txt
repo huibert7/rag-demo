@@ -1,0 +1,1 @@
+Por la misma razón, pruebe todos los demás módulos del Programa de diagnóstico del sistema. Descubra si el nuevo programa está interfiriendo con las operaciones normales y la integridad del módulo existente. Corrija cualquier error encontrado en el nuevo diagnóstico y realice un ciclo de prueba nuevamente hasta que no se descubran más errores.

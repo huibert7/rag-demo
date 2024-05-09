@@ -1,0 +1,1 @@
+Cuando inserte el nuevo módulo en el Programa de diagnóstico del sistema, modifique las líneas 50 a 190 del programa donde reside el módulo del Menú principal. Agregue el título y el identificador del módulo a la declaración `PRINT` que enumera las opciones del menú en la pantalla.

@@ -1,0 +1,1 @@
+En este punto, finalmente se puede decir que se han completado todas las fases de desarrollo del programa. Guarde el programa recién revisado y haga una copia de seguridad en otro disquete. El nuevo programa ya está listo para su uso real en una situación de diagnóstico.

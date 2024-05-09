@@ -1,0 +1,1 @@
+La paleta de juego es un dispositivo para apuntar y disparar que se utiliza para mover un objeto en la pantalla o para disparar un objeto gráfico, como un misil, contra otro objeto gráfico, como parte de un juego. Con el mando del juego se puede pilotar un avión a reacción, mover un robot en la pantalla o controlar un cañón láser.

@@ -1,0 +1,1 @@
+Entre los principios generales descritos en la sección anterior y los ejemplos concretos descritos en esta sección, debería poder comprender bien cómo se puede desarrollar un módulo de diagnóstico para cualquier periférico agregado a su sistema Apple II.

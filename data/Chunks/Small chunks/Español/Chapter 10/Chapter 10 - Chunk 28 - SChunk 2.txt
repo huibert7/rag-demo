@@ -1,0 +1,1 @@
+Dependiendo de la aplicación que utiliza la paleta de juego, un determinado objeto en la pantalla está programado para moverse de acuerdo con el movimiento de la rueda de control de la paleta de juego.
