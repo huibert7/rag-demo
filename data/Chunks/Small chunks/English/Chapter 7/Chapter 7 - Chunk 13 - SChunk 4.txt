@@ -1,0 +1,1 @@
+The floppy diskette has a method for protecting the programs and data stored there from being overwritten or erased. The diskette includes a small cutout on the side called a write-protect notch. As long as the write-protect notch is exposed, the disk drive head is able to write information onto the diskette as well as read from it.

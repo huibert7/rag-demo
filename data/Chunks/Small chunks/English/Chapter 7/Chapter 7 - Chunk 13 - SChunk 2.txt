@@ -1,0 +1,1 @@
+When the user gives a save command, data currently residing in a disk buffer in system memory is written onto the magnetic emulsion of the diskette. With the magnetic drive head positioned over the proper track and sector, the data is transferred, written, and stored as tiny magnetic fields on this surface.

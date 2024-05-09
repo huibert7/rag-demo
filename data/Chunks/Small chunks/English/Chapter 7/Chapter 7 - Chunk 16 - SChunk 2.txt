@@ -1,0 +1,1 @@
+The floppy disk drive requires perhaps a greater degree of preventive mainte­nance than the other subassemblies that make up the Apple II system. It is a very delicate mechanism, in which a single piece of dust in the wrong place can prove catastrophic to programs and data, causing the disk drive head to crash onto the surface of the floppy diskette.
