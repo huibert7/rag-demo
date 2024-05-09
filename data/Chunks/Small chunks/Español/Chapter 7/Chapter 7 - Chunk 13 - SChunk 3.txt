@@ -1,0 +1,1 @@
+Un bit de datos 1 se magnetiza en una dirección en el disquete, mientras que un bit de datos 0 se magnetiza en otra dirección. Un grupo de ocho de estos bits de datos constituye un byte de datos. Muchos bytes juntos constituyen un registro o archivo.

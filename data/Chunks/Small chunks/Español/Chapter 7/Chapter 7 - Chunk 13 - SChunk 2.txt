@@ -1,0 +1,1 @@
+Cuando el usuario da la orden de guardar, los datos que residen en ese momento en un búfer de disco en la memoria del sistema se escriben en la emulsión magnética del disquete. Con el cabezal magnético colocado sobre la pista y el sector adecuados, los datos se transfieren, escriben y almacenan como pequeños campos magnéticos en esta superficie.

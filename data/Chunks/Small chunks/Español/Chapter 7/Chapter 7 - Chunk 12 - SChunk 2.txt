@@ -1,0 +1,1 @@
+Cuando se escriben datos, el orificio de temporización y sincronización del disquete se utiliza como punto de referencia de ubicación. Este agujero marca el punto de partida para escribir la información en el disquete.

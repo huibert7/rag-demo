@@ -1,0 +1,1 @@
+El cabezal en sí nunca toca físicamente la superficie del disquete mientras lee o escribe. En cambio, se coloca unas pocas micras por encima sobre un colchón de aire. La lógica del software y el hardware posicionan el cabezal en la ubicación adecuada para leer o escribir.

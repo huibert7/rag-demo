@@ -1,0 +1,1 @@
+Cuando el sistema operativo, la aplicación o el usuario dan un comando de recuperación o lectura para un registro o archivo específico, el CPU envía estas instrucciones al controlador de la unidad de disco. El controlador localiza los datos solicitados y envía sus instrucciones al conjunto de cabezal-brazo de la unidad de disco.

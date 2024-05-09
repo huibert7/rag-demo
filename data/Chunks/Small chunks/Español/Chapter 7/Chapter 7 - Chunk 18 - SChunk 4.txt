@@ -1,0 +1,1 @@
+Si coloca un disquete deformado en la unidad de disco, dañará el conjunto del cabezal de la unidad. Los campos magnéticos causados por fuentes de alimentación, motores de electrodomésticos, imanes o transformadores borrarán o cambiarán los datos almacenados en la superficie del disquete.

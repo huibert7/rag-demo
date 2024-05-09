@@ -1,0 +1,1 @@
+El disquete tiene un método para proteger los programas y datos almacenados allí para que no se sobrescriban o borren. El disquete incluye un pequeño recorte en el lateral llamado muesca de protección contra escritura. Mientras la muesca de protección contra escritura esté expuesta, el cabezal de la unidad de disco puede escribir información en el disquete y también leerla.

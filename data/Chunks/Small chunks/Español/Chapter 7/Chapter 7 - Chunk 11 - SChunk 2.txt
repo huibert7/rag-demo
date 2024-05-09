@@ -1,0 +1,1 @@
+Los componentes descritos anteriormente: el disquete, el controlador de unidad de disco y el mecanismo de la unidad de disco en sí, trabajan juntos para realizar las funciones del sistema de unidad de disco.

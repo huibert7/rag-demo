@@ -1,0 +1,1 @@
+El tarjeta controladora de la unidad de disco es una tarjeta que se instala en una de las ranuras de expansión de la tarjeta madre. Siempre que abra la unidad del sistema para fines de mantenimiento preventivo, resolución de problemas o reparación, realice también algún mantenimiento preventivo en esta tarjeta.

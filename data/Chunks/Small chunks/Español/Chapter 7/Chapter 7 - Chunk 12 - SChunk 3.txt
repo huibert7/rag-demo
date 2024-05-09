@@ -1,0 +1,1 @@
+El controlador de la unidad de disco conoce las ubicaciones y el contenido de cada grupo de datos almacenados en el disquete. Cuando el controlador recibe un comando de lectura o escritura del CPU, localiza los datos requeridos y dirige el cabezal al lugar adecuado para la lectura.

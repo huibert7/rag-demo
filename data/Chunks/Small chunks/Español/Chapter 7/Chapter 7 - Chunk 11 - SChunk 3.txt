@@ -1,0 +1,1 @@
+Estas funciones consisten en: Localizar y agrupar datos en el disquete. Escribir datos desde la memoria del sistema al disquete. Leer datos del disquete a la memoria del sistema.
