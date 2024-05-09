@@ -1,0 +1,1 @@
+Si se ampliara un carácter en la pantalla del monitor, vería que en lugar de estar formado por líneas continuas, el carácter en realidad está compuesto por una serie de puntos creados con luz. Cada línea de un carácter suele estar compuesto por siete o más puntos. La serie de puntos que se utiliza para construir caracteres se llama matriz de puntos.

@@ -1,0 +1,1 @@
+La impresora matricial utiliza el mismo método para crear caracteres para imprimir letras en papel. En la impresora hay un único cabezal de impresión con una serie de pequeños cables. Cuando se envía un carácter a la impresora, estos cables del cabezal de impresión perforan la forma del carácter a través de la cinta entintada para crear su impresión en el papel.

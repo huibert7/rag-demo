@@ -1,0 +1,1 @@
+Hay muchas impresoras disponibles compatibles con los sistemas Apple II. La mayoría de las impresoras Apple II utilizan un conector de interfaz serie, aunque algunos controladores de impresora incluyen una interfaz paralela integrada.

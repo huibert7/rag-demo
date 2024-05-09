@@ -1,0 +1,1 @@
+Ciertas impresoras matriciales, llamadas impresoras gráficas, pueden reproducir caracteres gráficos. Apple ImageWriter es un ejemplo de una impresora gráfica de este tipo. Una impresora gráfica puede abordar tantos puntos de tinta (que corresponden a los píxeles del monitor) como pueda mostrar la resolución de su monitor.

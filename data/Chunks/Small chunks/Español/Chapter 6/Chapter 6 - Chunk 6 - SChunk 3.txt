@@ -1,0 +1,1 @@
+Muchas impresoras matriciales ofrecen varias calidades de impresión, incluidos los modos borrador, calidad casi carta y calidad carta. El modo borrador puede imprimir una cantidad mínima de puntos para un carácter, tomando así la menor cantidad de tiempo.

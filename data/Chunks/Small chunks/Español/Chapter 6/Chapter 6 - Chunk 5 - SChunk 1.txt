@@ -1,0 +1,1 @@
+La impresora matricial proporciona resultados muy rápidos y es el tipo de impresora menos costosa disponible. La velocidad se mide en caracteres por segundo (cps), en referencia a la rapidez con la que la impresora puede colocar caracteres en el papel. Una impresora matricial puede tener una velocidad de entre 30 y más de 200 cps.

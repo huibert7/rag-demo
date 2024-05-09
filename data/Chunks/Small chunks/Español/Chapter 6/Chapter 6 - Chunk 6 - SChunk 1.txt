@@ -1,0 +1,1 @@
+Algunas impresoras imprimen sólo de izquierda a derecha y se denominan impresoras unidireccionales.

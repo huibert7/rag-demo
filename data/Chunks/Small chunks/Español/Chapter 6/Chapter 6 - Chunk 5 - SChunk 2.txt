@@ -1,0 +1,1 @@
+La amplia gama de velocidades posibles se atribuye a varios factores, incluida la velocidad a la que la computadora puede enviar datos a la impresora; si la interfaz de la impresora es una conexión serie o paralela; si hay un búfer de impresora; la cantidad de puntos utilizados para crear un carácter; y si una impresora es unidireccional o bidireccional.

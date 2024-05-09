@@ -1,0 +1,1 @@
+Otras pueden imprimir tanto de izquierda a derecha como de derecha a izquierda y se denominan impresoras bidireccionales. Colocan caracteres en una página mucho más rápido, ya que no se pierde tiempo en enviar el cabezal de impresión al comienzo de una nueva línea.

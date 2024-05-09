@@ -1,0 +1,1 @@
+El motor de una impresora hace girar la margarita hasta que el carácter deseado gira hasta su posición, momento en el que el martillo de impresión golpea el carácter contra la cinta de tinta para formar el carácter en el papel. Funciona según un principio similar al de la máquina de escribir, aunque mucho más rápido.

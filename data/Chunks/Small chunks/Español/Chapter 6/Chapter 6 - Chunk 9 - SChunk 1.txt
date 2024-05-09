@@ -1,0 +1,1 @@
+La margarita incluye todo el conjunto de caracteres para una familia de fuentes y un tamaño en puntos determinados. En lugar de estar formados por un único cabezal de impresión con una serie de puntos, estos caracteres están grabados de forma individual y sólida en la margarita.
