@@ -1,0 +1,1 @@
+Si las unidades de disco están incluidas en el Ejercitador, la prueba de la unidad de disco comienza al finalizar la prueba de la impresora. La prueba de escritura/lectura se ejecuta en cada unidad de disco especificada para la prueba.

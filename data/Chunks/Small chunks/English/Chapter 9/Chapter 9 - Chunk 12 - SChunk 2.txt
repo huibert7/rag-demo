@@ -1,0 +1,1 @@
+Un tercer mensaje pregunta si se van a probar las unidades de disco. Introduzca Y o N. Si la respuesta es sí, se le pedirá que ingrese la cantidad de unidades que desea ejercitar. Usando el Ejercitador, todas las unidades de disco del Apple II se pueden probar secuencialmente. Ingrese el número apropiado entre 1 y 6 para indicar la cantidad de unidades que desea probar.

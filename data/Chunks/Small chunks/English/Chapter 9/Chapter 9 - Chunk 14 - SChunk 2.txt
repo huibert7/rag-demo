@@ -1,0 +1,1 @@
+Si los tres subsistemas están incluidos en el Ejercitador, un ciclo dura aproximadamente 25 minutos, de los cuales 20 se dedican a la parte de la prueba de la unidad de disco.

@@ -1,0 +1,1 @@
+Si se trata de un problema para el cual no hay ningún mensaje de error, el programa simplemente se detiene en el punto donde ocurrió el error y probablemente usted pueda ver por sí mismo cuál es el problema.
