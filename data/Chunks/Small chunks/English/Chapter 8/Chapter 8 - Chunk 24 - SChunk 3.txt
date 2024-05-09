@@ -1,0 +1,1 @@
+Vacuum dust off the serial communication board (or circuit on the Ile motherboard) periodically. Check the board's edge connector for oxidation. Make sure board is seated securely in its slot.

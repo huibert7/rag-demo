@@ -1,0 +1,1 @@
+Run the Serial Communication Diagnostic module (described in the follow­ ing section of this chapter). If the test fails, and the character entered is not echoed on the screen, try the test using another RS-232 cable.

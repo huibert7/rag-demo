@@ -1,0 +1,1 @@
+Preventive maintenance of the serial communication interface consists of keeping the serial communication circuit, port, cable, and device clean and free of dust.

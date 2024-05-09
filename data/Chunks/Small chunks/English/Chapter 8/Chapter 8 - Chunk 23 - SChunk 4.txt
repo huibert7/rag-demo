@@ -1,0 +1,1 @@
+The RS-232 serial communication standard determines what these functional signals consist of, and which cable wires are assigned to carry which types of signal or data.

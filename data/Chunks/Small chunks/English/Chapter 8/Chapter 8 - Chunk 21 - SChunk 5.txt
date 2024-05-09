@@ -1,0 +1,1 @@
+This suspension is the XOFF command. When the buffer is emptied through computer processing, such as displaying characters on the screen, the Apple II sends a resume command, which is XON. The transfer then continues where it left off. This process continues throughout the file in 128-byte chunks until all 4,000 bytes are successfully transferred.

@@ -1,0 +1,1 @@
+Check the interface or system technical manual to see if the interface cable has any special requirements. RS-232 is a relatively loose standard. Some cable manufacturers use a different scheme for their RS-232 cable pins. These cables might expect data from different pins, expect different signals, or have signals tied together.
