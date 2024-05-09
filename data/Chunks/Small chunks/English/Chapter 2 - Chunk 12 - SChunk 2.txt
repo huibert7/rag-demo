@@ -1,0 +1,1 @@
+Burn-in is a continuous testing mode that exercises all system functions. This is particularly useful be­ cause most computer problems take place when the system is first set up, or when the computer is moved.

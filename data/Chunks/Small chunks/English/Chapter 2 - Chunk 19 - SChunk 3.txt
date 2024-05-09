@@ -1,0 +1,1 @@
+When you press a valid selection, the screen clears and presents either a new menu or begins the desired test immediately. If an invalid command such as a Z or R is entered, the system beeps and returns to the selection mode to let you try again.

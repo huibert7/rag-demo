@@ -1,0 +1,1 @@
+Exerciser module allows you to burn in and check system functions automatically and unattended. Further information about the System Exerciser can be found in Chapter 9.

@@ -1,0 +1,1 @@
+For this test, the user presses a key on the keyboard, and the character and its ASCII value is displayed on the screen. This "loopback" test determines whether or not the modem interface is functioning accurately.

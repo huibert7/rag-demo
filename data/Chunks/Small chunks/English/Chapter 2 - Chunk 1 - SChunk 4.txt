@@ -1,0 +1,1 @@
+For those unfamiliar with Applesoft BASIC programming, or who need a quick refresher, a final section describes how to interpret the module code expla­nations provided in each chapter. This section also provides short definitions of the Applesoft BASIC statements and commands used in the System Diagnostic Program.

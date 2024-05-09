@@ -1,0 +1,1 @@
+A sixth monitor test, the High-Resolution Color Graphics Test, is also pro­vided as a separate program, due to Apple II memory allocation constraints pertaining to high-resolution graphics.

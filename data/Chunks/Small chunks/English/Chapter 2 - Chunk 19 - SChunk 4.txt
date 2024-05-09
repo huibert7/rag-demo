@@ -1,0 +1,1 @@
+When you press Q, the program "quits," or ceases operation, and returns the computer to the Applesoft BASIC environment.
