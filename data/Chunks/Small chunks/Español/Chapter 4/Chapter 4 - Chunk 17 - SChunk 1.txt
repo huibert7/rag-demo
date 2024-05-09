@@ -1,0 +1,1 @@
+Siga las instrucciones proporcionadas en "Ejecución del programa de diagnóstico" en el Capítulo 2 para ejecutar el módulo de diagnóstico del teclado. Luego presione K o k para iniciar el módulo de diagnóstico del teclado.

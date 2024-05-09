@@ -1,0 +1,1 @@
+Se muestra la pantalla Prueba de eco, junto con un mensaje para presionar la tecla que se va a repetir. Se puede probar cualquier tecla del teclado: teclas alfanuméricas, teclas de caracteres especiales y teclas de cursor. Se muestra la leyenda de la tecla presionada, junto con su valor de código ASCII y cualquier combinación de teclas aplicable.
