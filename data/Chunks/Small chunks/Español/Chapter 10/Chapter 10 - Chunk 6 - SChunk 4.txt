@@ -1,0 +1,1 @@
+El manual también cubre la integración del dispositivo con otros componentes y software del sistema. Se proporcionan sugerencias sobre la configuración de hardware y software existente para que el nuevo dispositivo funcione de manera adecuada y eficiente.

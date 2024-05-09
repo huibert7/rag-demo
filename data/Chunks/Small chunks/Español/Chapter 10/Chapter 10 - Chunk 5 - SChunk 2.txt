@@ -1,0 +1,1 @@
+Un análisis de requerimientos para un módulo de diagnóstico consiste en determinar los problemas particulares a detectar y resolver y determinar cómo se va lograr este objetivo.

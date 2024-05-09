@@ -1,0 +1,1 @@
+Tenga cuidado de no crear demasiadas pruebas redundantes, cuando una sola prueba podría hacer el trabajo satisfactoriamente. Mantenga el módulo lo más simple y eficiente posible, siendo al mismo tiempo efectivo y completo.

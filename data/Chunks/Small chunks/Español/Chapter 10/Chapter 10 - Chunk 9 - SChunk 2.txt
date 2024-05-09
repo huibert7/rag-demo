@@ -1,0 +1,1 @@
+Una vez que conozca a fondo las funciones del dispositivo, considere los posibles problemas que pueda llegar a tener el dispositivo. En otras palabras, si se supone que un dispositivo debe realizar una función particular, un problema potencial es simplemente que no realiza esa función.

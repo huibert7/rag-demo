@@ -1,0 +1,1 @@
+El proceso de desarrollo de un programa incluye las siguientes fases: Análisis de requerimientos. Diseño del sistema. Fase de análisis (diagramas de flujo). Desarrollo del programa (programación). Prueba del módulo. Integración. Pruebas integrales del programa.

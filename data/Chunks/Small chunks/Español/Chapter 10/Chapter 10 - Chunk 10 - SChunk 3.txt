@@ -1,0 +1,1 @@
+En esta fase debe utilizar los problemas potenciales del dispositivo identificados en la fase de análisis de requerimientos para determinar qué tipos de pruebas se deben incluir en el nuevo módulo. Para hacer esto, cree una tabla simple que le ayudará a realizar un seguimiento de sus pensamientos.

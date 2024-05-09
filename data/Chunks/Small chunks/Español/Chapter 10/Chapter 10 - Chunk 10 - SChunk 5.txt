@@ -1,0 +1,1 @@
+Tenga en cuenta que una prueba podría detectar múltiples tipos de problemas diferentes.

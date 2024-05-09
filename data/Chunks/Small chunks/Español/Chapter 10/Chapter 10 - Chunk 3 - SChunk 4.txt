@@ -1,0 +1,1 @@
+Primero determine las tareas que su programa debe realizar. Luego decida qué se debe mostrar en la pantalla. Trabaje hacia atrás a partir de estos objetivos y determine cómo completar estas tareas a través de un programa, teniendo en cuenta las limitaciones de los comandos y la sintaxis del leguaje de programación BASIC.

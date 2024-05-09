@@ -1,0 +1,1 @@
+Considere también que puede haber otros problemas que ninguna prueba de software podrá diagnosticar. Estos podrían incluir aquellos tipos de problemas en los que se debe hacer algo físico con el hardware y no se puede diagnosticar mediante software.

@@ -1,0 +1,1 @@
+However, if your system uses peripherals not covered by this program, it might be advantageous to write new diagnostic modules for them. In this way, the System Diagnostic Program can grow with your computer system, and new or different components will not be excluded from the diagnostic loop that tests the rest of the system.

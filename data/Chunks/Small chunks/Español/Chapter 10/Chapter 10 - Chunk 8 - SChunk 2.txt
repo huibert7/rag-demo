@@ -1,0 +1,1 @@
+Después de leer la documentación, instale el dispositivo. Para desarrollar un nuevo módulo de diagnóstico para un nuevo periférico, primero aprenda todo lo posible sobre cómo funciona el dispositivo.

@@ -1,0 +1,1 @@
+Estos requisitos deben definirse claramente mucho antes de comenzar cualquier codificación. Realizar un análisis de requerimientos para un nuevo módulo de diagnóstico de dispositivo requiere: Leer el manual del dispositivo. Trabajar con el dispositivo. Determinar posibles problemas que pueda tener el dispositivo

@@ -1,0 +1,1 @@
+El software profesional desarrollado en un entorno corporativo, puede tener un ciclo de desarrollo de tres meses a dos años. Sin embargo, un módulo que consta de rutinas de diagnóstico sencillas puede que sólo lleve unos días.

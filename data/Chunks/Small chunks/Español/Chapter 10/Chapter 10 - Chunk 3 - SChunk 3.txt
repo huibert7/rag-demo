@@ -1,0 +1,1 @@
+Si tiene miedo de escribir su propio módulo de diagnóstico, especialmente si nunca antes ha programado, recuerde que la programación se basa en realizar una tarea de una manera muy lógica, empezando por saber a dónde llegar, es decir saber cuál es el objetivo. Si no sabe lo que está intentando lograr, no hay manera de que pueda escribir un programa.

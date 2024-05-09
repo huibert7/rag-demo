@@ -1,0 +1,1 @@
+La fase de diseño del sistema utiliza los resultados de la fase de análisis de requerimientos. En esta fase se determina cómo el programa resolverá los problemas y completará las tareas con las que se cumplen los requerimientos del sistema.

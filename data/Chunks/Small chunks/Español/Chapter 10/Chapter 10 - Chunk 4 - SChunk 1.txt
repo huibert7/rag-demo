@@ -1,0 +1,1 @@
+Cuando los desarrolladores de software profesionales crean un nuevo programa de software, cuentan con métodos específicos que les ayudan a determinar los objetivos de un programa. Estos métodos les ayudan a diseñar y finalmente escribir el programa para que cumpla plenamente con los objetivos originales y realice las tareas necesarias.
