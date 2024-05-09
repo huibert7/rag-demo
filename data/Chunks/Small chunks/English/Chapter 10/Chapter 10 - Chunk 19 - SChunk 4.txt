@@ -1,0 +1,1 @@
+The Applesoft BASIC manual and device documentation are the best resources for this information. They also provide examples. Try these examples to get a feel for how the command works. When convinced that this is the proper command to use for this application, include it with the necessary parameters and variables in your device diagnostic program.

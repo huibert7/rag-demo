@@ -1,0 +1,1 @@
+Write a standalone version of the new device diagnostic module. Translate all steps of the program flowchart from English into BASIC.

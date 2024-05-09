@@ -1,0 +1,2 @@
+Creating the system flowchart is the first stage of program analysis and flowcharting. The system flowchart expresses the fundamental ideas of the program.
+ The general order in which the program will flow to attain the desired results is abstracted in this flowchart.

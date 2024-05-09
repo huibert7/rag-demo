@@ -1,0 +1,1 @@
+After the program flowchart is diagrammed, begin the program preparation phase - the actual coding of the new device diagnostic program.

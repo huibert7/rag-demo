@@ -1,0 +1,1 @@
+If your design of the device diagnostic module includes more than one test, you will probably have several system flowcharts, representing each of the sub-module tests. Create a separate program flowchart for each of the separate system flowcharts.

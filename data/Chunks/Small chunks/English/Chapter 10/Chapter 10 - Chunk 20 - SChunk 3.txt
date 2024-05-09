@@ -1,0 +1,1 @@
+When it seems like the program code is complete, and functions are working as expected, save the program and create a backup. Print out a program listing and continue to the module testing phase.

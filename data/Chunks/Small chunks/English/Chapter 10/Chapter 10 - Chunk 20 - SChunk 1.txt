@@ -1,0 +1,1 @@
+While writing the code, save the program to disk periodically, perhaps once every five or ten minutes. This will avoid the loss of valuable work in the event of a power or system failure.

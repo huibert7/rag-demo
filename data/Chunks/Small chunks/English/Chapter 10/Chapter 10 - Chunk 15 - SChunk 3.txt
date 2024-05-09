@@ -1,0 +1,1 @@
+ It is the implemen­tation of the system flowchart. While the system flowchart lists the necessary tasks to achieve a desired goal, the program flowchart shows specifically how these tasks will be completed in the program.

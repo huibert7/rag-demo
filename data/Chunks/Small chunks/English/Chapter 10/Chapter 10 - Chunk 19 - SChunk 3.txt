@@ -1,0 +1,1 @@
+It might be necessary to stop several times throughout the coding process to do further research. Find out which BASIC commands perform a particular func­tion, what the syntax of that command is, as well as what kinds of parameters the command includes.

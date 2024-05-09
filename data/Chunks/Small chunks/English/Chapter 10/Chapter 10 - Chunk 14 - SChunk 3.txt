@@ -1,0 +1,1 @@
+The system flowchart also lists the intermediate functions to be carried out. This technique lets you think out the program as a whole without being concerned about more specific details, such as where loops and branches need to occur.

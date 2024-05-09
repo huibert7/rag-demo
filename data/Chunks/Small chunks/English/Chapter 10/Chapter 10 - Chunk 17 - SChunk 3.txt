@@ -1,0 +1,1 @@
+When developing a new test, first make sure that all aspects of the system are functioning properly. A good way to do this is to run the System Exerciser for several cycles and see whether any errors are encountered.

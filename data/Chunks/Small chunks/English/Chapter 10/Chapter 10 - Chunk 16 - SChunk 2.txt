@@ -1,0 +1,1 @@
+Although the program flowchart does not generally use the BASIC commands, the name of the BASIC command might incidentally be included in a given flowchart box. If desired, include the pertinent BASIC command in the flowchart box to which it applies. This additional level of detail can help later when coding. 

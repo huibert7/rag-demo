@@ -1,0 +1,1 @@
+Is an example of a system flowchart for a simple program segment asking users to enter their name, and then greeting them by name.

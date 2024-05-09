@@ -1,0 +1,1 @@
+Do not develop a test on a malfunctioning system, or with a peripheral that is experiencing a problem. If a test were developed on a malfunctioning system, as soon as the problem were fixed, the results of the test might well be misleading, and the test code itself could become obsolete.

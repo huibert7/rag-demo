@@ -1,0 +1,1 @@
+Make the program flowchart as detailed as possible. The more detailed the flowchart is, the easier and more trouble-free the coding will tend to be. The objective is to establish the program's flow and logic to the point where the program can easily be written.
