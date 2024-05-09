@@ -1,1 +1,0 @@
-The Exerciser Module of the System Diagnostic Program ensures that the system as a whole is working properly.

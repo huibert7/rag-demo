@@ -1,1 +1,0 @@
-The procedures and techniques covered throughout this book will help you better understand the internal workings of your system. You will be able to maintain a well-running system less likely to experience long periods of down­time.

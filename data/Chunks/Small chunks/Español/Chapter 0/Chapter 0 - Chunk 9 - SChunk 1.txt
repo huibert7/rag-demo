@@ -1,1 +1,0 @@
-Los subsistemas. Los capítulos 3 a 8 se especializan cada uno en un subsistema particular de su Apple II: Unidad central. Teclado. Monitor. Impresora. Unidad de disco  o Disquetera. Interfaz de comunicación en serie.

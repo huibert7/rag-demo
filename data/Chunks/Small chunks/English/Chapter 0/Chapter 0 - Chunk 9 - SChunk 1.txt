@@ -1,1 +1,0 @@
-The subsystems. Chapters 3 through 8 each specialize in a particular Apple II subsystem: System unit. Keyboard. Monitor. Printer. Disk drive. Serial communication interface

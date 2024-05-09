@@ -1,1 +1,0 @@
-Al demostrar cómo se desarrolló el módulo de diagnóstico de la paleta de juego (paddle), el Capítulo 10 presenta un enfoque de diagnóstico sistemático que comienza ayudándole a aprender cómo predecir los problemas que pueden ocurrir con el dispositivo.

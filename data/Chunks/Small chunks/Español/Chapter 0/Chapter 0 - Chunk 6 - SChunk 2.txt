@@ -1,1 +1,0 @@
-Este programa BASIC permite por un lado probar distintos subsistemas para detectar problemas y por otro ejercitar el sistema en su conjunto. Además, este programa está estructurado de forma modular para que pueda expandirlo y personalizarlo, dependiendo  de la configuración particular de su sistema.

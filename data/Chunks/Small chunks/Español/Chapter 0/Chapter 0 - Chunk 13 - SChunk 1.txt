@@ -1,1 +1,0 @@
-El Módulo del Programa de Diagnóstico del Subsistema.

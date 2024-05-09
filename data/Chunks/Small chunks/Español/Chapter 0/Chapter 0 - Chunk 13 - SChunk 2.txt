@@ -1,1 +1,0 @@
-El Programa de diagnóstico del sistema le permite recopilar información para determinar si el subsistema que se está probando tiene un problema y detectar dónde radica ese problema.

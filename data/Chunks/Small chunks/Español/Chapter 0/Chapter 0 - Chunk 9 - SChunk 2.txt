@@ -1,1 +1,0 @@
-Para cada uno de estos subsistema, el capítulo correspondiente incluye. Una breve teoría del funcionamiento. Procedimientos específicos de mantenimiento preventivo. Una lista de posibles problemas. Técnicas de resolución de problemas y reparación. Una explicación del módulo del programa de diagnóstico.

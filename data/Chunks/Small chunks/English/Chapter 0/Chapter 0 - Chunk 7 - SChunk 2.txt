@@ -1,1 +1,0 @@
-The repairs described in Chapter 1, as well as in the later subsystem chapters, do not require knowledge or expertise in electronics. You do not need to know how to solder, nor do you need to know how to troubleshoot a series of integrated circuit chips.

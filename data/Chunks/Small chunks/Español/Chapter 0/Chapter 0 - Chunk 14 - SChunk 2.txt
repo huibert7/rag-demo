@@ -1,1 +1,0 @@
-El Capítulo 9 cubre el Módulo del Ejercitador del Sistema, que es el que prueba minuciosamente el sistema cuando es nuevo o después de una reparación. Todas las funciones del sistema se ejercitan y ejecutan continuamente con el ejercitador. Esto es muy parecido a probar su automóvil después de una reparación.

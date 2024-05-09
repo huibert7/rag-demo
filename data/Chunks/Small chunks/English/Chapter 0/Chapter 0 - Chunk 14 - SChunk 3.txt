@@ -1,1 +1,0 @@
-The Exerciser checks whether your computer has an inherent problem, or whether your problem has indeed been repaired as expected.

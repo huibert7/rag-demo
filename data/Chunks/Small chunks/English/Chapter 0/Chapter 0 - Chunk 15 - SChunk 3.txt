@@ -1,1 +1,0 @@
-By demonstrating how the game paddle diagnostic module was developed, Chapter 10 presents a systematic diagnostic approach that starts by helping you learn how to predict problems that can occur with the device.

@@ -1,1 +1,0 @@
-La teoría de operación del subsistema proporciona una idea general de cómo funciona éste. Cuando sepa qué se supone que debe hacer un determinado subsistema y cómo lo hace, tendrá más información para poder solucionar y diagnosticar con éxito cualquier problema del subsistema que pueda surgir.
