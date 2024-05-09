@@ -1,0 +1,1 @@
+You can buy the program on a diskette (refer to the last page of this book), or you can key it in yourself (refer to the Appendix). Chapter 2 explains how to load and run this program. In addition, the Main Menu module is explained, just as the subsystem modules are explained in subsequent chapters.
