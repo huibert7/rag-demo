@@ -1,0 +1,1 @@
+Problema: Mensaje de error "File Not Found". Si aparece el mensaje de error "FileNotFound", que esn español significa "Archivo No Encontrado", mientras se ejecuta el módulo de diagnóstico de la unidad de disco, entonces hay un problema con el circuito de lectura. Consulte "Problema: no se puede cargar un programa ni leer un archivo de datos" más arriba para encontrar soluciones.
