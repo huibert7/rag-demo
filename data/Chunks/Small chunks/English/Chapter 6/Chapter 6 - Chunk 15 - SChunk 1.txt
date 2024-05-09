@@ -1,0 +1,1 @@
+Check that the application program is addressing the printer correctly. The printer might not be working because the correct printer driver has not been installed for the application in use.
