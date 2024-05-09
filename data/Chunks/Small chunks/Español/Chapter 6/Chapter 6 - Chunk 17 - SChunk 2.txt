@@ -1,0 +1,1 @@
+Si la impresora parece incapaz de desplazarse hasta una determinada posición a lo largo del carro, ejecute la prueba de tabulación horizontal. Los asteriscos deben imprimirse en una línea diagonal a lo largo del papel, comenzando en la posición 1.

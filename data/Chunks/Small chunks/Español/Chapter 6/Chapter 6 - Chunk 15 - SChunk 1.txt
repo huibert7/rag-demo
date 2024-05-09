@@ -1,0 +1,1 @@
+Compruebe que su aplicación se dirige correctamente a la impresora. Es posible que la impresora no funcione porque no se ha instalado el controlador de impresora correcto  (device driver en inglés) para la aplicación en uso.

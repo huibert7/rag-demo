@@ -1,0 +1,1 @@
+Algunas impresoras tienen un ajuste de formularios, que permite alejar el cabezal de impresión del carro para acomodar papeles de mayor espesor o formularios de papel carbón. Utilice el ajuste de formas para acercar el cabezal al carro. Ejecute la muestra de impresión y ajuste el cabezal hasta que la imagen impresa sea clara y nítida.

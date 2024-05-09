@@ -1,0 +1,1 @@
+Si los tabuladores no se imprimen en esta línea diagonal, verifique si algo está obstruyendo la platina o el cabezal de impresión. A menudo, el problema se soluciona simplemente soplando el cabezal de impresión o quitando un trozo de papel colgado en él. Utilice aire comprimido o una aspiradora de mano para ayudar a destapar las áreas estrechas de la impresora.

@@ -1,0 +1,1 @@
+El controlador se activa mediante un programa de instalación de impresora proporcionado con el software de su aplicación. Este programa le solicita que ingrese la marca de la impresora que se está utilizando para que la salida a la impresora se produzca correctamente. También garantiza que se puedan utilizar funciones de impresión especiales, como negrita y cursiva.

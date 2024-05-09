@@ -1,0 +1,1 @@
+Verifique la cinta de la impresora. Podría estar atascada o gastada. Cuando esto sucede, los cabezales de impresión golpean el mismo lugar de la cinta y la cinta no puede avanzar y obtener tinta nueva. Haga avanzar la cinta manualmente con la perilla de avance del cartucho o instale un cartucho de cinta nuevo.

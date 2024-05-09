@@ -1,0 +1,1 @@
+Primero verifique que la impresora esté encendida. La impresora generalmente tiene una luz indicadora de encendido en la parte superior o frontal del chasis. Si el interruptor ON/OFF de la impresora está en la posición ON, pero el indicador no está encendido, asegúrese de que la impresora esté enchufada correctamente.

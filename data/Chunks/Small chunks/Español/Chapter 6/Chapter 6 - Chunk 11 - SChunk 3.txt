@@ -1,0 +1,1 @@
+Una interfaz serie envía datos un bit a la vez, en serie. Esto contrasta con una interfaz paralela, que acepta 7 u 8 bits de datos enviados simultáneamente a una impresora paralela.

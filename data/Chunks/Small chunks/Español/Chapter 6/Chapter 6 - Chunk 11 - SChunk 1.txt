@@ -1,0 +1,1 @@
+Interfaces para conexión de la impresora
