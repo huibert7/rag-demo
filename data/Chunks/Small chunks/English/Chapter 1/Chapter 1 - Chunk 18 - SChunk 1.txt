@@ -1,0 +1,1 @@
+If you run one of the diagnostic tests and the results indicate a problem, you might wish to double-check the diagnostic on an identical system to ensure that the diagnostic program is providing accurate results before spending any time and money on repair. This is especially true if you have modified the program in any way.
