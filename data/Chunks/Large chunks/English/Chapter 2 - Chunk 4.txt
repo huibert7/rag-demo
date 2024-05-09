@@ -1,0 +1,1 @@
+The second module in the program is the Keyboard Diagnostic module. This module runs a test that displays the character (echos) and gives the numeric code, or ASCII value , of any key that is pressed . If you press a function key , the function key name and/or combination is displayed on the screen. The Keyboard Diag­nostic module resides in lines 200 through 310.

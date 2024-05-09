@@ -1,0 +1,2 @@
+The Disk Drive Diagnostic module tests and exercises the two main functions of the disk drive: reading from and writing to the diskette. Lines 2500 through 3100 contain this disk drive test.
+

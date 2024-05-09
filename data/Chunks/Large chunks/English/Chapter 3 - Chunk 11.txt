@@ -1,0 +1,1 @@
+The IIc motherboard has the greatest variety of functionality, including a mouse interface, two serial I/O ports for a printer and modem, and two disk drive controllers: one for an internal drive, and one for an external drive. No expansion slots are necessary, since the IIe motherboard includes all necessary controller circuits as standard equipment.

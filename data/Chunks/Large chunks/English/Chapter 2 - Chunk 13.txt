@@ -1,0 +1,1 @@
+The Game Paddle Diagnostic module, located at lines 5000 through 5140, is the example used in Chapter 10 to demonstrate how you can develop and inte­grate a new diagnostic module for any additional peripherals you own.

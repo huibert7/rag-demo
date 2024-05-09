@@ -1,0 +1,1 @@
+If the power light is illuminated, but the keyboard does not work, check the monitor for the standard right bracket prompt. This prompt indicates that the system is in the Applesoft BASIC environment. If the prompt is absent, turn the computer off, make sure the power supply cable is securely con­nected to the system, then turn the computer on again.

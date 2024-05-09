@@ -1,0 +1,1 @@
+Note: It is important that the program is keyed in and properly working before a system problem surfaces. If you wait until after you suspect a malfunction, you might not be able to enter the program due to the malfunction. Even if you are able to enter and run the program, the test results might be inaccurate and misleading.
