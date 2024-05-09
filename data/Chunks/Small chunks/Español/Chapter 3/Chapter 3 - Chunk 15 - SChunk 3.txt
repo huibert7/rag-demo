@@ -1,0 +1,1 @@
+Después de leer los capítulos siguientes que cubren los procedimientos de solución de problemas para cada uno de los subsistemas, será evidente que si inicialmente no sucede nada, la unidad central es el principal componente sospechoso que se debe revisar.

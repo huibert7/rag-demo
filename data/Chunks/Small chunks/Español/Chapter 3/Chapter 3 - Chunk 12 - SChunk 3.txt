@@ -1,0 +1,1 @@
+El cable de alimentación de la computadora, que está enchufado al tomacorriente de pared de CA, garantiza que 115 voltios de corriente alterna (VAC) pasen del suministro eléctrico estándar a la fuente de alimentación de la computadora.

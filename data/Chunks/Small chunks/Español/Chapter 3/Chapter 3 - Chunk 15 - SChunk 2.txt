@@ -1,0 +1,1 @@
+Esta sección describe los problemas que podría experimentar la unidad del sistema, las causas de estos problemas y detalla los pasos necesarios para solucionarlos.

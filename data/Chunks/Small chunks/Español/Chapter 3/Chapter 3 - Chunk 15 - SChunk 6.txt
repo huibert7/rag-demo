@@ -1,0 +1,1 @@
+Aunque no existe un módulo de unidad de sistema específico dentro del Programa de diagnóstico del sistema, los módulos que prueban cada uno de los subsistemas realizan un trabajo suficiente al ejercitar el sistema en su conjunto. Esto se debe a que todos los subsistemas están conectados y controlados por la unidad central.

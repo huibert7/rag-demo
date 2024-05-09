@@ -1,0 +1,1 @@
+Entre las tarjetas opcionales están el controlador de la unidad de disco o una tarjeta de interfaz de comunicación serie que permitiría el uso de una impresora o un módem a través del puerto de comunicación serie.

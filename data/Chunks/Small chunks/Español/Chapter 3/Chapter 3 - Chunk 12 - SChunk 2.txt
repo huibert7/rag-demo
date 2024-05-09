@@ -1,0 +1,1 @@
+La fuente de alimentación proporciona voltaje CC (corriente continua) a la computadora. Consta de transformador, rectificador y filtro, y también incluye un ventilador de refrigeración para disipar el calor generado por los voltajes de entrada y salida.

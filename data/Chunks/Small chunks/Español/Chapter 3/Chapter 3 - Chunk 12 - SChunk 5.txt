@@ -1,0 +1,1 @@
+La fuente de alimentación es una unidad externa en el Apple IIc. En los sistemas II Plus y IIe, la fuente de alimentación es interna y se encuentra dentro de la unidad del sistema.

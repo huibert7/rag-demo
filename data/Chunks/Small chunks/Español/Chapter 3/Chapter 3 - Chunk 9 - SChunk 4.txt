@@ -1,0 +1,1 @@
+Estos controladores existen como circuitos separados en la tarjeta madre, cada uno con su conector externo apropiado para conectar el monitor, el teclado, la unidad de casete y el controlador de juego.

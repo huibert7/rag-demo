@@ -1,0 +1,1 @@
+Sin embargo, los tres sistemas incluyen los siguientes controladores en la tarjeta madre: Controlador del monitor (video). Controlador del teclado. Controlador del cassette. Controlador del joystick o game paddles.

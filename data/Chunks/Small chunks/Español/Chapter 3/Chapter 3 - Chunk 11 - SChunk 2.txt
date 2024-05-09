@@ -1,0 +1,1 @@
+No se necesitan ranuras de expansión, ya que la tarjeta madre del IIc incluye todos los circuitos controladores necesarios como equipo estándar.

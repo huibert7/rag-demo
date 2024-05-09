@@ -1,0 +1,1 @@
+Por otro lado, si prueba todas las sugerencias de solución de problemas para un subsistema en particular, pero aún así no puede encontrar el problema, lo más probable es que éste se encuentre en la unidad central.

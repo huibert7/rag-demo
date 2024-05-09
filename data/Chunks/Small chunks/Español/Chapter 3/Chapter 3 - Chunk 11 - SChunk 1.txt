@@ -1,0 +1,1 @@
+La tarjeta madre del IIc tiene la mayor variedad de funcionalidades, incluida una interfaz de mouse, dos puertos de E/S serie para una impresora y un módem, y dos controladores de unidad de disco: uno para una unidad interna y otro para una unidad externa.
