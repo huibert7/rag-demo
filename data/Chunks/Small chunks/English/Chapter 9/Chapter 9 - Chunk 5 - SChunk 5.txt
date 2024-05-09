@@ -1,0 +1,1 @@
+Si se ha reparado la unidad del sistema, ejecute cada módulo con varias combinaciones para probar todos los aspectos de la funcionalidad de la unidad del sistema.

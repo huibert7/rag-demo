@@ -1,0 +1,1 @@
+Si la impresora ha sido reparada recientemente, ejecute el módulo de Diagnóstico de la impresora.

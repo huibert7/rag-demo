@@ -1,0 +1,1 @@
+Esta sección describe estos tres aspectos de las pruebas y sugiere qué se debe hacer si las pruebas revelan un problema.
