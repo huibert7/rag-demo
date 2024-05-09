@@ -1,0 +1,1 @@
+Los procedimientos y técnicas cubiertos a lo largo de este libro le ayudarán a comprender mejor el funcionamiento interno de su sistema. Podrá mantener un sistema en buen funcionamiento y será menos probable que experimente largos períodos de inactividad debido a averías.

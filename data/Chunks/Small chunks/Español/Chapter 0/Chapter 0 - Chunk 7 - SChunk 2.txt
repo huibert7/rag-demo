@@ -1,0 +1,1 @@
+Las reparaciones descritas en el Capítulo 1, así como en los capítulos posteriores del subsistema, no requieren conocimientos ni experiencia en electrónica. No es necesario saber soldar ni saber solucionar problemas de una serie de chips de circuitos integrados.
