@@ -1,0 +1,5 @@
+So even after the technician has demonstrated that the system unit is working fine, the complete status will be unknown until you have the entire system assembled in its usual configuration.
+
+The diagnostic module covered in this chapter is a program that thoroughly exercises the Apple II when it's new, when its configuration changes, or when it returns from servicing. This Exerciser module checks various components of the Apple II system and leaves it running in a continuous mode so that it can burn in for several hours, even overnight.
+
+Burn-in is routinely practiced as an important segment of industrial manufac­turing and product testing. Burn-in thoroughly tests and exercises the Apple II system and should be done for 12 to 24 hours. If there is a problem with your computer at this point, it's better to discover it during burn-in rather than while entering and processing valuable data.
