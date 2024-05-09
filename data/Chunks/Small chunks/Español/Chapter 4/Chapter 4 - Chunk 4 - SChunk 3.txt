@@ -1,0 +1,1 @@
+En el controlador del teclado se genera un valor de columna/fila que indica la ubicación de la tecla en la matriz del teclado

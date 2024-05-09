@@ -1,0 +1,1 @@
+Una vez generado el valor ASCII, se envía a un programa especial que reside en la ROM que procesa todas las funciones de entrada y salida. Este programa lee el valor ASCII e interpreta qué función se espera que realice, lo cual puede depender de la situación.

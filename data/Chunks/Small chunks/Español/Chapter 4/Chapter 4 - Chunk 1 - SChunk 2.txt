@@ -1,0 +1,1 @@
+Los comandos y los datos se ingresan a la unidad central del sistema para su procesamiento a través del teclado, que es el enlace externo principal a la computadora.

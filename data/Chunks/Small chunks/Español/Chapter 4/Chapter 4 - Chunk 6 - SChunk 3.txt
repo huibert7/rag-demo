@@ -1,0 +1,1 @@
+Si examinara los listados de códigos del Programa de diagnóstico del sistema, vería varios casos en los que se invoca un valor CHR$. Debido a que los valores CHR$ y ASCII están relacionados entre sí uno a uno, CHR$(97) y ASCII 97 representan la "a" minúscula.

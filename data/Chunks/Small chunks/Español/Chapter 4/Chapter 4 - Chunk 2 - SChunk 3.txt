@@ -1,0 +1,1 @@
+Los caracteres se envían a la CPU, que los interpreta y procesa, provocando que se muestren los resultados apropiados en el monitor.

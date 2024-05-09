@@ -1,0 +1,1 @@
+Este codificador es un circuito contador con una ROM incorporada que contiene el juego de caracteres ASCII. Según el valor de la matriz de la tecla presionada y según si se presionó o no la tecla MAYÚS o CTRL junto con la tecla, se genera un valor ASCII que representa la tecla presionada.

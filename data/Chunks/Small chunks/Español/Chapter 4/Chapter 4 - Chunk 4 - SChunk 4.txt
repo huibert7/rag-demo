@@ -1,0 +1,1 @@
+Se genera un valor ASCII único, basado en el valor de la columna/fila, para representar el valor de la tecla presionada

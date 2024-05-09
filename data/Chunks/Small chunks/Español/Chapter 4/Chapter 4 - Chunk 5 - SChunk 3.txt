@@ -1,0 +1,1 @@
+Cada tecla reposa sobre una matriz de alambre, estando cada una directamente ubicada sobre el cruce de un alambre X (horizontal) y un alambre Y (vertical). El contacto con este punto de cruce genera un valor de columna/fila que indica la ubicación de la tecla que fue pulsada.

@@ -1,0 +1,1 @@
+El valor ASCII se envía desde el controlador del teclado a la CPU, que procesa el valor y determina lo que se supone que debe hacer. Luego, los resultados se envían a la pantalla, si corresponde, para la visualización o acción funcional adecuada.

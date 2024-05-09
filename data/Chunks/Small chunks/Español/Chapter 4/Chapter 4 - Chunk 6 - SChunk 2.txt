@@ -1,0 +1,1 @@
+Directamente relacionado con el código ASCII está el valor de la cadena de caracteres o código CHR$. El valor del código CHR$ se usa a menudo en programas BASIC para acceder a un símbolo o función en particular a la que no se puede acceder directamente desde el teclado. Por ejemplo, en Apple II, el comando BASIC PRINT CHR$(97) muestra la "a" minúscula.

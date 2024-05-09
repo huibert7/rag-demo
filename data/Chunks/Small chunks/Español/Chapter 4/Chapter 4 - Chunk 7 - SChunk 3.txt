@@ -1,0 +1,1 @@
+En un juego, pulsar la tecla W puede ser interpretado como mover la nave hacia arriba, mientras que en un procesador de palabras, si se pulsa la letra W quizás solo sea parte de una palabra que se está escribiendo.

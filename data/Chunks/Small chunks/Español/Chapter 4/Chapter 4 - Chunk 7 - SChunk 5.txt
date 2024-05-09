@@ -1,0 +1,1 @@
+Si el valor representa una combinación de teclas particular, como CTRL G, el procesamiento posterior en la ROM de E/S hace que se ejecute la función designada de CTRL G (generar un sonido beep).

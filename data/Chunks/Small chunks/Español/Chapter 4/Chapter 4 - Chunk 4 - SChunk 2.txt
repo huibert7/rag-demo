@@ -1,0 +1,1 @@
+Cuando se presiona una tecla del teclado se ejecutan tres acciones de forma consecutiva.

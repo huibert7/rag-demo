@@ -1,0 +1,1 @@
+La información de la ubicación de la tecla, que se calcula mediante la matriz de columnas/filas del teclado, se envía a un codificador en el controlador del teclado.

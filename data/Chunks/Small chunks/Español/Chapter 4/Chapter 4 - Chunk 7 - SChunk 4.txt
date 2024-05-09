@@ -1,0 +1,1 @@
+Si el caracter correspondiente a la tecla se va a mostrar en la pantalla, el procesamiento posterior transfiere su valor a la ROM del generador de caracteres, que convierte el valor ASCII en un formato que puede ser utilizado por el monitor.

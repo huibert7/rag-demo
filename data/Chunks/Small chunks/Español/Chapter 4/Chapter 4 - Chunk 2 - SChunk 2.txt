@@ -1,0 +1,1 @@
+El teclado se utiliza para escribir caracteres para ingresar datos, formar comandos, realizar selecciones y mover el cursor mientras se trabaja dentro de un programa o aplicación.

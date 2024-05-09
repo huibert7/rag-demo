@@ -1,0 +1,1 @@
+El Apple II utiliza un teclado integral, lo que significa que está alojado junto con la unidad del sistema. La CPU, la memoria, las interfaces y el teclado están todos contenidos en una sola carcasa.
