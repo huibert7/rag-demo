@@ -1,0 +1,1 @@
+Esta señal audible es la portadora y le dice al sistema que el módem está listo para aceptar datos, ya sea de su sistema o del otro sistema. La luz del indicador CD (Carrier Detected o Portadora detectada) está iluminada. Esto indica que el otro sistema ha respondido y se le ha ha detectado la señal portadora.

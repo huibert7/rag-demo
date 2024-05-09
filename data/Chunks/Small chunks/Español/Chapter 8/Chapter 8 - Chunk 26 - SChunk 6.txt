@@ -1,0 +1,1 @@
+Si la tarjeta aún no logra establecer comunicación con el otro sistema, el problema está en el propio módem. Lleve el módem a reparar.

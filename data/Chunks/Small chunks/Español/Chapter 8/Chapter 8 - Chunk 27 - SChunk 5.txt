@@ -1,0 +1,1 @@
+La mayoría de los módems brindan asistencia adicional para la resolución de problemas a través de su hilera de luces LED rojas en el panel de estado frontal (Fig. 8-7). Si su módem incluye dicho panel, verifique que las señales sean las esperadas.

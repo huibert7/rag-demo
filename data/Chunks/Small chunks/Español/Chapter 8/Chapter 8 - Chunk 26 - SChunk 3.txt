@@ -1,0 +1,1 @@
+Verifique que todas las conexiones se hayan realizado correctamente y que estén firmemente asentadas. Hay tres conexiones de interfaz: la conexión del cable plano a la tarjeta de interfaz, la conexión del cable RS-232 al cable plano y la conexión del cable RS-232 al módem.

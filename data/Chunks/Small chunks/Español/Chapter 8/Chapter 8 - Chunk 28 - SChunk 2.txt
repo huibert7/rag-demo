@@ -1,0 +1,1 @@
+Una portadora es un tono que el módem espera escuchar antes de poder enviar datos. Es como decir "Hola" después de que suena el teléfono y has descolgado el auricular. Después de decir "Hola", se puede establecer la comunicación y se puede transmitir información de la persona que llama.

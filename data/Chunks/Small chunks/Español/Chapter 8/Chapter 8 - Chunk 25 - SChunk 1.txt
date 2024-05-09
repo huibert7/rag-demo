@@ -1,0 +1,1 @@
+Pautas de reparación y resolución de problemas del interfaz de comunicaciones en serie

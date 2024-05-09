@@ -1,0 +1,1 @@
+La impresora también necesita conocer los parámetros de comunicación habituales, como la velocidad en baudios, la longitud de los caracteres, la paridad, etc. Esto se configura con un interruptor DIP en la tarjeta de interfaz de la impresora. La documentación de la impresora detalla cómo realizar los ajustes necesarios.

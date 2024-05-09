@@ -1,0 +1,1 @@
+Vea si el cable de interfaz tiene algún requisito especial. RS-232 es un estándar relativamente flexible. Algunos fabricantes de cables utilizan un esquema diferente para las clavijas de sus cables RS-232. Estos cables pueden esperar datos de diferentes pines, esperar diferentes señales o tener señales unidas.

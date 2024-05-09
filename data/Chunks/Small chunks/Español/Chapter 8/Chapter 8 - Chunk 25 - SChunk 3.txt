@@ -1,0 +1,1 @@
+Los dos problemas básicos de la comunicación en serie son que la comunicación no se logra establecer o que los datos son incorrectos y traen basura.

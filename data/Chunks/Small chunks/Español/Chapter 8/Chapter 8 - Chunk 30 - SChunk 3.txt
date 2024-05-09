@@ -1,0 +1,1 @@
+Las impresoras normalmente utilizan de forma predeterminada la interfaz paralela y se debe configurar un interruptor para utilizar la línea de comunicación en serie. Consulte la documentación de la impresora.

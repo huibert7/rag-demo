@@ -1,0 +1,1 @@
+Si el módulo de diagnóstico de comunicación en serie falla, vuelva a cargar el programa de comunicación y asegúrese de que los parámetros estén configurados correctamente. ¿Está configurada correctamente la velocidad en baudios? ¿Se especificó el tamaño de palabra o carácter apropiado? ¿El otro sistema espera que se habilite un bit de paridad?

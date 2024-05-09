@@ -1,0 +1,1 @@
+Cuando se envían datos, las luces indicadoras sobre RD (Recibir datos) o TD (Transmitir datos) están encendidas. Cuando el software de comunicaciones manda datos a través el módem, estas luces se iluminan para mostrar que los datos se están enviando.

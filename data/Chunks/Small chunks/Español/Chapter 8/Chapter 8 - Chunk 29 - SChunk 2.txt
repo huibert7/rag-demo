@@ -1,0 +1,1 @@
+La presencia de datos incomprehensibles, también denominados datos basura indican que aunque se ha establecido la comunicación, hay un problema con los datos que llegan a través de las líneas. Por lo general, esto tiene que ver con una de las configuraciones de parámetros, como el tamaño de palabra o la paridad.

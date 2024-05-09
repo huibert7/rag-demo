@@ -1,0 +1,1 @@
+Si no se recibe la señal portadora, podría indicar un número incorrecto, una señal de línea ocupada o un problema en el otro extremo.

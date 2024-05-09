@@ -1,0 +1,1 @@
+Cambie su tarjeta de interfaz de comunicación en serie con otro sistema Apple II (con un Apple IIc es más difícil, porque esto significa cambiar toda la tarjeta madre). Si logra establecer la comunicación con el otro sistema usando la nueva su tarjeta, el problema está en el puerto de comunicación serie de su Apple II.

@@ -1,0 +1,1 @@
+Ejecute el módulo de diagnóstico de comunicación serie (descrito en la siguiente sección de este capítulo). Si la prueba falla y el carácter ingresado no se repite en la pantalla, intente la prueba usando otro cable RS-232.

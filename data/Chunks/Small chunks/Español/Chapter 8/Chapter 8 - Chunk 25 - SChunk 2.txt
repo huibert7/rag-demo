@@ -1,0 +1,1 @@
+La comunicación entre dos dispositivos requiere una correcta configuración tanto del software como del hardware. Los parámetros del software de comunicaciones y los componentes de hardware deben estar configurados y funcionando correctamente en ambos extremos de la línea para que los datos se envíen, reciban y lean correctamente.

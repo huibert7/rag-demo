@@ -1,0 +1,1 @@
+Si la interfaz de comunicación serie se conecta con una impresora, asegúrese de que los interruptores internos de la impresora estén configurados de la misma manera que el puerto de su computadora. La mayoría de las impresoras pueden comunicarse mediante una interfaz serie o paralela.

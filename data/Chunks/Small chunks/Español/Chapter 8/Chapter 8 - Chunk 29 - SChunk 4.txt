@@ -1,0 +1,1 @@
+Una mezcla de caracteres confusos y buenos indica una mala conexión telefónica. Por ejemplo, la otra computadora puede enviar la palabra "login", pero se recibe "loxxn". En este caso, cuelgue y vuelva a marcar.

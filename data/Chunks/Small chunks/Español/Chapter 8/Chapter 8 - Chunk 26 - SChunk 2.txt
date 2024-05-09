@@ -1,0 +1,1 @@
+La incapacidad de establecer la comunicación puede manifestarse en la incapacidad de marcar, realizar la conexión después de marcar o detectar la señal portadora después de conectarse.
