@@ -1,0 +1,1 @@
+First check the ribbon. It might be folded down or spent. Replace the ribbon and run the Sliding Alpha or Display Character Print Test to obtain sample output.

@@ -1,0 +1,1 @@
+If the printer seems to be unable to tab over to a certain position along the carriage, run the Horizontal Tab Test. The asterisks should print in a diagonal line across the paper, starting at position 1 .

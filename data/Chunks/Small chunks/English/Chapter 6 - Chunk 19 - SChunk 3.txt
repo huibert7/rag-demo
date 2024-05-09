@@ -1,0 +1,1 @@
+If you're working with a dot-matrix printer, run the Display Character Print or Echo Character Test of the Printer Diagnostic. If there is a black box or blank space where a character is supposed to be, then the printer is probably not set up to accommodate graphics.

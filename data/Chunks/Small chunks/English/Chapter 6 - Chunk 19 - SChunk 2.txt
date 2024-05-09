@@ -1,0 +1,1 @@
+Sometimes a certain character does not print. The character exists on the screen, and you know it's available within the printer's character set. However, when you request printer output, the character does not form properly, or there is a black box or blank space where the character should be.

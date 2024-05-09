@@ -1,0 +1,1 @@
+If the tabs do not print in this diagonal line, check whether something is obstructing the platen or the print head. Often simply blowing through the print head, or pulling out a bit of paper hung up on it will solve the problem. Use compressed air or a hand-held vacuum cleaner to help unclog tight areas in the printer.
