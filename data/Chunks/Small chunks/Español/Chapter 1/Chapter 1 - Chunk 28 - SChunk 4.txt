@@ -1,0 +1,1 @@
+Nunca toque los conectores de borde metálico, aquellos que se insertan en la ranura de extensión de su Apple II, cuando manipule una tarjeta de circuito impreso dentro del sistema. Esto descargará la electricidad de su cuerpo a través de la tarjeta de circuito impreso hasta el chip IC más cercano.

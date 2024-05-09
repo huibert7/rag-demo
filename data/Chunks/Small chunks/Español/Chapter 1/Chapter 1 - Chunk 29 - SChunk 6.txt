@@ -1,0 +1,1 @@
+Este pico instantáneo se envía a los chips, dañándolos o incluso destruyéndolos. El pico no sólo daña los circuitos sino que también hace que el sistema falle, borrando todo en lo que estás trabajando actualmente y que está almacenado en la memoria del sistema.

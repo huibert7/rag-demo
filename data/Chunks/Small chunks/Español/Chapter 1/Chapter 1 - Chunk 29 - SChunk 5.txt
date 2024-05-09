@@ -1,0 +1,1 @@
+La fuente de alimentación del Apple II toma los 110/120 voltios de CA y los rectifica a 5, 12 o 15 voltios de CC. Estos son los voltajes con los que están diseñados para funcionar los circuitos integrados de la computadora. Cuando la fuente de alimentación de la computadora recibe un fuerte pico de energía, no es capaz de suprimirla.

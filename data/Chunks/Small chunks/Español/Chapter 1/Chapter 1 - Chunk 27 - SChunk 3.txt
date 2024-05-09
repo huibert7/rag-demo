@@ -1,0 +1,1 @@
+La electricidad estática puede presentar un problema grave para su computadora. Esto se debe a que los chips CI de todo el sistema contienen diminutos circuitos electrónicos que son particularmente vulnerables a daños causados por grandes voltajes inherentes a la electricidad estática.

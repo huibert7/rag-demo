@@ -1,0 +1,1 @@
+La solución menos costosa es simplemente tocar algo metálico que no forme parte del sistema, tal vez una lámpara de escritorio o un archivador, antes de tocar la computadora. Esto lo conecta a tierra y evita la transferencia de electricidad estática a la computadora.

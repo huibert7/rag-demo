@@ -1,0 +1,1 @@
+El problema más perjudicial es el aumento brusco de tensión. Los picos de tensión pueden pasar a través de los circuitos de filtro de la fuente de alimentación dándole más voltaje del que puede suprimir efectivamente.

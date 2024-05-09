@@ -1,0 +1,1 @@
+La mayoría de los dispositivos que se encuentran dentro de la computadora funcionan con una energía de hasta aproximadamente 15 voltios y están protegidos contra daños eléctricos de hasta 2 a 5 kilovoltios. Sin embargo, la descarga electrostática de un ser humano puede ser de más de 20 kilovoltios.

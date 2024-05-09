@@ -1,0 +1,1 @@
+Los contactos (los cables expuestos, o patas, de los chips de circuito integrado (IC) en las tarjetas de circuito impreso del sistema) tienen una corriente eléctrica que fluye a través de ellos, lo que puede atraer partículas de polvo.

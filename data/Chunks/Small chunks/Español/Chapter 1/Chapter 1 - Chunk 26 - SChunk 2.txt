@@ -1,0 +1,1 @@
+El polvo dentro de la unidad de disco también puede causar problemas allí. El cabezal de la unidad se desplaza apenas unas micras por encima de la superficie del disquete. Si algo de polvo se interpone en el camino del cabezal de la unidad, puede provocar que los datos se lean o escriban incorrectamente.

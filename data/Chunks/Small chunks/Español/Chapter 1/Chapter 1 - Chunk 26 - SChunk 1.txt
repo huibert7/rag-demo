@@ -1,0 +1,1 @@
+Además, el polvo y la suciedad que se acumulan debajo de las teclas del teclado pueden provocar problemas de contacto. En este caso, es posible que presione una tecla y no pase nada, porque hay tanta suciedad que la tecla presionada ya no puede enviar la señal al controlador del teclado.
