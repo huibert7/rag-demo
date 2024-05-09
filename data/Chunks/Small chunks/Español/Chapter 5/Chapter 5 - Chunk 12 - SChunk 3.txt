@@ -1,0 +1,1 @@
+El circuito de interfaz de vídeo reside en la tarjeta madre de todos los sistemas Apple II. Este circuito incluye potenciómetros de ajuste para ajustar el color y la sincronización horizontal.

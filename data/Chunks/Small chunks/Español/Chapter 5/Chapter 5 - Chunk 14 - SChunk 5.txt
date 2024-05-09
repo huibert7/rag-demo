@@ -1,0 +1,1 @@
+Después de que se produce el grabado, incluso cuando se muestra algo más, todavía se puede ver una imagen fantasma de la pantalla grabada. Al mismo tiempo, la pantalla que desea ver es más tenue y menos definida.

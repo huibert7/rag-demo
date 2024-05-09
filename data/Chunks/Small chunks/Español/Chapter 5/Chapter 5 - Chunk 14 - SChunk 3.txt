@@ -1,0 +1,1 @@
+Esto evitará fácilmente el "burn-in", que puede ser un problema costoso. El quemado de una pantalla, también denominado como efecto fantasma, se produce en la pantalla cuando un formato particular, como un menú de editor de texto o una pantalla de base de datos, se deja mostrado en la pantalla durante largos períodos de tiempo sin cambiar.

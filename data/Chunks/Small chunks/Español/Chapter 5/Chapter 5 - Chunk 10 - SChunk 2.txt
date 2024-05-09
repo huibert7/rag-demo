@@ -1,0 +1,1 @@
+El controlador de vídeo del Apple II reside en la tarjeta madre.
