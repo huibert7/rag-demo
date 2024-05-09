@@ -1,0 +1,1 @@
+La unidad de disco se utiliza para almacenar y recuperar programas de software, así como datos, registrando información en formato electrónico en disquetes.

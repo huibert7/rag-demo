@@ -1,0 +1,1 @@
+El microprocesador de la unidad del sistema Apple IIe es el chip CPU 6502B y 64 kilobytes de memoria. Al igual que el II Plus, el Apple IIe tiene ocho ranuras de expansión.

@@ -1,0 +1,1 @@
+Impresora. Al igual que el monitor, la impresora es un dispositivo de salida. Sin embargo, mientras el monitor proporciona resultados en la pantalla, la impresora proporciona resultados en papel de forma impresa.

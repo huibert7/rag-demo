@@ -1,0 +1,1 @@
+Un sistema informático típico Apple II consta de los siguientes componentes. Unidad central. Teclado. Monitor. Impresora.  Unidad(es) de disco. Interfaz de comunicación serial.

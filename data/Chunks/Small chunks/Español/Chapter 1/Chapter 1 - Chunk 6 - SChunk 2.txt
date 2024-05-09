@@ -1,0 +1,1 @@
+Una conexión de interfaz en serie entre la unidad del sistema y la impresora permite que los datos y los resultados del procesamiento se transfieran desde el sistema y se escriban utilizando una impresora matricial o de calidad carta.

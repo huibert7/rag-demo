@@ -1,0 +1,1 @@
+Aunque se tratan con más detalle en sus capítulos individuales, aquí se proporciona una breve descripción de cada uno de estos componentes. Esta descripción general describe cómo interactúan los distintos componentes para realizar el trabajo esperado de un sistema de computadora personal.

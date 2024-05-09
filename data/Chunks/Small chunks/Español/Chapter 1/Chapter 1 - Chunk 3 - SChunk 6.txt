@@ -1,0 +1,1 @@
+El microprocesador de la unidad del sistema Apple II Plus es el chip CPU 6502 con 48 kilobytes de memoria. También incluye ocho ranuras de expansión para tarjetas periféricas adicionales, como un controlador de unidad de disco o una tarjeta de interfaz de comunicación serial.

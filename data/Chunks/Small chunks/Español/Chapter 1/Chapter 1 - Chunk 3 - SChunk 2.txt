@@ -1,0 +1,1 @@
+En los sistemas Apple II, la unidad del sistema está incluida en el mismo conjunto que el teclado. La unidad del sistema alberga la unidad central de procesamiento (CPU), así como las distintas interfaces para los periféricos de la computadora.

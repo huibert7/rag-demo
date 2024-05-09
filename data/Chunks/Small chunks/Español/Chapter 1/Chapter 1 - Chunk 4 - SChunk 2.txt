@@ -1,0 +1,1 @@
+El controlador del teclado genera el código de los caracteres ingresados, la unidad central interpreta y procesa estas señales del teclado y el monitor muestra las entradas de teclas y los resultados del procesamiento.

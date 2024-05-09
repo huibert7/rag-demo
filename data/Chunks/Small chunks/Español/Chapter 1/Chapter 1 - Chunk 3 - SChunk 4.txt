@@ -1,0 +1,1 @@
+El chip del microprocesador de la CPU reside en la tarjeta madre, al igual que los controladores de vídeo, de casete y de paleta de juegos.

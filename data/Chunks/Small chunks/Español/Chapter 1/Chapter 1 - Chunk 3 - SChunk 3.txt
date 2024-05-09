@@ -1,0 +1,1 @@
+La CPU consta del chip microprocesador que ejecuta la computadora. Emite comandos que hacen que se realicen cálculos y se ejecuten procesos, además de coordinar los distintos dispositivos de entrada y salida. También transfiere y procesa datos hacia y desde el mundo exterior a través de puertos.
