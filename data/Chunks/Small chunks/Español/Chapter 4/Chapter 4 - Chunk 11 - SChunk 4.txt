@@ -1,0 +1,1 @@
+Verifique el tomacorriente, el multicontacto (si corresponde), el interruptor de pared (si corresponde) y la caja de fusibles o el disyuntor del edificio. Si están en orden, verifique la fuente de alimentación del sistema.

@@ -1,0 +1,1 @@
+Si, después de presionar las teclas del teclado, no aparece nada en la pantalla, entonces el teclado no está haciendo contacto con la CPU. La CPU no procesa las señales de caracteres para mostrarlas en la pantalla.

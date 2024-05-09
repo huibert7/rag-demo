@@ -1,0 +1,1 @@
+Este es un procedimiento bastante sencillo en el Apple IIc, porque la fuente de alimentación es externa al sistema. Primero, desconecte y retire la fuente de alimentación y cámbiela por una de otro sistema IIc. Si así funciona, compre e instale una nueva fuente de alimentación para Apple IIc. Esto resolverá el problema.

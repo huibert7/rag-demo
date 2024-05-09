@@ -1,0 +1,1 @@
+Si la luz de encendido está iluminada y las indicaciones del sistema se muestran correctamente en la pantalla, pero el teclado aún no funciona, entonces hay un problema con el circuito del teclado. Lleve el sistema a reparar.

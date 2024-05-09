@@ -1,0 +1,1 @@
+Los trozos de comida que caen a los lados de las teclas se abrirán camino hacia abajo e interferirán con los contactos y provocarán que las teclas no funcionen correctamente debido a un contacto deficiente.

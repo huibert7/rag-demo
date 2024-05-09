@@ -1,0 +1,1 @@
+Lo primero que hay que comprobar es si la luz de encendido del sistema central, situada en la parte inferior izquierda del teclado, está encendida. Si la luz está apagada, la unidad del sistema no recibe energía.

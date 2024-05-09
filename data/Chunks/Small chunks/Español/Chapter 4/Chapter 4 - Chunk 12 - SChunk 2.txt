@@ -1,0 +1,1 @@
+Si después de presionar una tecla determinada, la letra correspondiente no aparece en la pantalla, entonces esa tecla podría tener un problema. Si presiona una tecla de función, pero no realiza la función especificada, es posible que esa tecla también esté defectuosa. Por alguna razón, el código ASCII de la tecla no llega a la CPU para su procesamiento.

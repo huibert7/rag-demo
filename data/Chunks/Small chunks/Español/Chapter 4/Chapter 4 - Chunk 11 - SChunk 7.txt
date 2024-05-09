@@ -1,0 +1,1 @@
+Si la luz blanca del teclado está iluminada, pero el teclado no funciona, verifique el monitor para ver las indicaciones estándar en pantalla. Estas indicaciones, que muestran el cursor tras un corchete derecho, indican que la computadora está en Applesoft BASIC.

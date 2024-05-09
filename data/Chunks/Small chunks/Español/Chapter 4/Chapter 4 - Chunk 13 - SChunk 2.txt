@@ -1,0 +1,1 @@
+Una tecla pegada permanece presionada después de ser presionada, lo que hace que su carácter llene toda la pantalla hasta que levantas físicamente la tecla nuevamente.
