@@ -1,0 +1,1 @@
+Although there is no specific system unit module within the System Diagnostic Program, the modules testing each of the subsystems perform a sufficient job of exercising the system as a whole. This is because all subsystems are connected into and controlled by the system unit.
