@@ -1,0 +1,1 @@
+After etching occurs, even when something else is displayed, a ghost image of the etched display can still be seen. At the same time, the display you want to see is fainter and less defined.

@@ -1,0 +1,1 @@
+A character generator is a part of the system's read-only memory (ROM). The character generator actually produces the series of pixel ON and OFF representations, or bit map, to create the character that is accessed either through the keyboard or through a program. It defines the entire character set that can be accessed from the system.

@@ -1,0 +1,1 @@
+The monitor is also known as a cathode ray tube (CRT), or video display. It is the screen on which you see the status of the program currently being used.

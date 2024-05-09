@@ -1,0 +1,1 @@
+The Apple II video controller resides on the motherboard.

@@ -1,0 +1,1 @@
+The Apple II series computers, like many home computers, can use a television set as its display monitor. An external radio frequency (RF) converter is attached to the television via the television's VHF antenna leads. If your television is cable-ready, a coaxial cable connector can be used instead of the antenna leads.
