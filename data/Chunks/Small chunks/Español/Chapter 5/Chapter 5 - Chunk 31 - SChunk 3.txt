@@ -1,0 +1,1 @@
+El carácter ocupará toda la pantalla en cada ubicación de personaje disponible (Fig. 5-10). Cualquier ubicación en la que el carácter no aparezca será muy obvia.

@@ -1,0 +1,1 @@
+Cargue y ejecute el programa de diagnóstico del sistema. Elija el Diagnóstico del monitor y luego la Prueba de color de baja resolución (consulte "Ejecución del módulo de diagnóstico del monitor" más adelante en este capítulo para obtener más instrucciones).

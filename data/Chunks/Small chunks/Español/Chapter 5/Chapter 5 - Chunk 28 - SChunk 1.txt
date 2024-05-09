@@ -1,0 +1,1 @@
+Luego de realizar los ajustes adecuados, si los colores aún no son correctos, existe una resistencia variable en la tarjeta madre que sirve para optimizar el color del video.

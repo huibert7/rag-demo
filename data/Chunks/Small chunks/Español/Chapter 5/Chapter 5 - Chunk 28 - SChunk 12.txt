@@ -1,0 +1,1 @@
+Encienda el sistema y ejecute varias pasadas del programa Ejercitador (consulte el Capítulo 9, El Ejercitador del Sistema) para asegurarse de que el sistema esté funcionando correctamente.
