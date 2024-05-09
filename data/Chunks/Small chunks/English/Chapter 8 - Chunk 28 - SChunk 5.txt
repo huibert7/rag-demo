@@ -1,1 +1,0 @@
-If the carrier signal is not received, it could indicate a wrong number, a busy signal, or a problem at the other end.

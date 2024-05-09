@@ -1,1 +1,0 @@
-In serial communication, the software generates additional bits to each character to help coordinate the communication transfer. These added bits are referred to as start bits and stop bits. When the software adds both the start bit and stop bit, then ten bits are actually sent for each data character.

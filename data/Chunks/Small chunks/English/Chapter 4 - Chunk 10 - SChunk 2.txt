@@ -1,1 +1,0 @@
-This section describes various keyboard problems, explains what causes them, and describes how to fix them.

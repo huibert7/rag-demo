@@ -1,1 +1,0 @@
-Many software applications include a program called a device driver that is established for a particular printer. A device driver is a program that recognizes a peripheral device such as a letter-quality printer. Many applications, especially word processors, need to know the printer model so that special functions such as underlining and boldface can be handled correctly.

@@ -1,1 +1,0 @@
-However, remember that you probably originally placed the write-protect tape on the diskette in order to protect data already written on the diskette. Make sure that the system does not overwrite valuable data or programs, now that the diskette is write-enabled.

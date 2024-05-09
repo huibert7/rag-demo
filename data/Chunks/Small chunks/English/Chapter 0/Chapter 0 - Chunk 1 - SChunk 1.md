@@ -1,1 +1,0 @@
-APPLE CARE MANUAL. Diagnosing and Maintaining Your Apple II+, IIe and IIc Computers. Chris Morrison & Teresa S. Stover. Windcrest.

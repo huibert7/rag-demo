@@ -1,1 +1,0 @@
-The Apple II Plus CPU can store 48 kilobytes of information at one time. The IIe can store 64k, and the IIc provides the most memory, with 128k. This capacity is not adequate to hold software programs and all your data. Two or three application programs could easily fill this capacity, leaving no room for addi­tional software or data with which to use the programs.

@@ -1,1 +1,0 @@
-Printers are unidirectional devices, meaning they only receive data; they cannot transmit data back to the computer. On the other hand, when two computers are linked up through modems, the data is said to be bidirectional, since data can be sent to and received by each system.

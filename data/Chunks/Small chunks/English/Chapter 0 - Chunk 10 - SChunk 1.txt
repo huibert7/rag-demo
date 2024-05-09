@@ -1,1 +1,0 @@
-Subsystem Theory of Operation. The theory of operation provides a general idea of how the subsystem does its job. When you know what a subsystem is supposed to do, and how it does it, you have more of the information needed to successfully troubleshoot and diagnose any subsystem problems that might arise.

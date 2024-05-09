@@ -1,1 +1,0 @@
-When the computer is powered on again, the RAM is empty, and the required software and data must be once again loaded into RAM from a mass storage device such as a disk drive or cassette tape drive.

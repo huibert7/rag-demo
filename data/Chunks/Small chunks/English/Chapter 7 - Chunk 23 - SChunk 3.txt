@@ -1,1 +1,0 @@
-If a diskette is placed next to an unshielded power supply, or near an appliance with a motor, the motor's mag­netic field will confuse the data.

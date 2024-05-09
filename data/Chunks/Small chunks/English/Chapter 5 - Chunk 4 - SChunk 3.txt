@@ -1,1 +1,0 @@
-The Apple II cable attaches from the internal RF converter to an RF converter on the television using a composite video cable. The television RF converter includes a switch to choose between using the television as a computer monitor (COMPUTER) and using the television to view broad­ casts (TV). 

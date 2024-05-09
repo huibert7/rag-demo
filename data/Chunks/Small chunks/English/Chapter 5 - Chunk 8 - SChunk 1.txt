@@ -1,1 +1,0 @@
-When a character on the keyboard is pressed to be displayed on the monitor, or when a particular application prints processing results, the program instructs the monitor to create a certain pattern to form the character representation. The specific pattern displayed is dependent upon the type of display matrix your monitor has.

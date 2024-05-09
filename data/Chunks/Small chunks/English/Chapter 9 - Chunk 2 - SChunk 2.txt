@@ -1,1 +1,0 @@
-El módulo de diagnóstico cubierto en este capítulo es un programa que examina minuciosamente el Apple II cuando es nuevo, cuando cambia su configuración o cuando regresa de servicio.

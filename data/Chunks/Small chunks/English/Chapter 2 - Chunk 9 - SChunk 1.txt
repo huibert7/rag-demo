@@ -1,1 +1,0 @@
-The Sliding Alpha Test checks each letter of the printer's available character set.

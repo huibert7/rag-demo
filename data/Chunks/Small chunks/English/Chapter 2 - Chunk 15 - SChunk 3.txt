@@ -1,1 +1,0 @@
-Save the program after each hundred lines to protect from data loss in the event of a power or system failure. Use the command SAVE DIAG. That portion of the program is saved to the diskette.  

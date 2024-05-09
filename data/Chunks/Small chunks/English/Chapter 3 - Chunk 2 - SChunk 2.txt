@@ -1,1 +1,0 @@
-The system unit consists of: Microprocessor chip. Random-access memory (RAM). Applesoft BASIC in read-only memory (ROM). Interfaces and controller boards. Expansion slots for optional peripheral devices. Power supply. The system unit is the very center of the computer.

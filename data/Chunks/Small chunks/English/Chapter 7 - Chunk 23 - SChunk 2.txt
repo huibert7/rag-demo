@@ -1,1 +1,0 @@
-In addition to wearing out, diskettes can be damaged and the data on them garbled if not handled properly. Since diskettes are magnetic media, magnetism can adversely affect the data on a diskette.

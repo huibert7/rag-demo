@@ -1,1 +1,0 @@
-Check whether or not the system unit's power light located on the lower left of the system unit/keyboard is illuminated. If it is not lit, then the system unit is not getting power.

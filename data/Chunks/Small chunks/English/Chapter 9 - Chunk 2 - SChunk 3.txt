@@ -1,1 +1,0 @@
-Este módulo de ejercicio intenso comprueba varios componentes del sistema Apple II y lo deja funcionando en modo continuo para que pueda funcionar durante varias horas, incluso durante la noche.

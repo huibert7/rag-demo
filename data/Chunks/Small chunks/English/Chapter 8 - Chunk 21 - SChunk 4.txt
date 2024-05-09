@@ -1,1 +1,0 @@
-Suppose the Apple II has a 128-byte communication buffer. In the process of receiving a file that might be 4,000 bytes long, for example, the communication buffer will be quickly filled. When this happens, the Apple II sends a suspend command to the other system, temporarily stopping data transfer. 

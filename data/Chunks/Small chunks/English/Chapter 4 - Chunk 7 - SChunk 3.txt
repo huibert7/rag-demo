@@ -1,1 +1,0 @@
-If the key is to be displayed on the screen, further processing transfers its value to the character generator ROM, which converts the ASCII value into a form that can be used by the monitor.

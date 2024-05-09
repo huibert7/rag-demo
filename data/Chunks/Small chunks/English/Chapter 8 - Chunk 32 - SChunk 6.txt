@@ -1,1 +1,0 @@
-There are test connectors available that already have pins 2 and 3 wired together. Called a 25-pin serial loopback connector, it can be purchased at most computer or electronic supply stores. The loopback connector fits directly onto the end of the RS-232 cable, and accomplishes the same loopback effect.

@@ -1,1 +1,0 @@
-After the ASCII value is generated, it is sent to a special program residing in ROM which processes all input and output functions. This program reads the ASCII value and interprets what function the key is expected to perform.

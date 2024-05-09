@@ -1,1 +1,0 @@
-To run the Display Test, press 1 . The screen will clear and then display the test instructions. Press a character on the keyboard. (Function keys and the cursor arrow keys do not work for this test, because they do not have a graphic display).

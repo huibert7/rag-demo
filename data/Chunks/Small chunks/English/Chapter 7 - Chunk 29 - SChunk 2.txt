@@ -1,1 +1,0 @@
-If an I/O Error message displays when you're trying to access the disk drive, then there are a number of different disk drive read-write problems. It might mean that the diskette is defective, write-protected, not initialized, or not even present.

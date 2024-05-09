@@ -1,1 +1,0 @@
-The different Apple II systems have different combinations of device con­troller circuits, ports, and expansion slots on the motherboard.

@@ -1,1 +1,0 @@
-The disk drive controller instructs the disk drive when and how to read and write information, as directed by the CPU and software commands.

@@ -1,1 +1,0 @@
-The printer might not feed the paper correctly. Certain commands issued from the application program to the printer can cause the paper to feed several lines, similar to carriage returns on a typewriter.

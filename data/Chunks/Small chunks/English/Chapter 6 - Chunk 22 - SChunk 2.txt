@@ -1,1 +1,0 @@
-The device driver lets you specify which printer is being used, and thus can let the program communicate correctly with the printer. Refer to the user manual of the application software for more information on configuring the device driver.

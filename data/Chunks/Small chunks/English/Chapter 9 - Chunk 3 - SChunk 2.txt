@@ -1,1 +1,0 @@
-Hay tres aspectos que hay que cuidar para probar el sistema Apple II cuando es nuevo o cuando regresa de reparación: Comprobar que el problema original ha sido resuelto. Ejecutar el módulo de diagnóstico del subsistema. Probar a fondo el sistema en su conjunto con el módulo Ejercitador del Sistema.

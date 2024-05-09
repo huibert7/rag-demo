@@ -1,1 +1,0 @@
-En este punto, se muestra un mensaje que indica la cantidad de pases que ha completado el programa. Luego, el sistema solicita ingresar cualquier carácter para finalizar el diagnóstico. Una vez hecho esto, el Programa de diagnóstico del sistema muestra el Menú principal de diagnóstico del sistema.

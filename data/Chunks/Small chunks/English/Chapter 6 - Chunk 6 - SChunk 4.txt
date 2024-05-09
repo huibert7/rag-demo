@@ -1,1 +1,0 @@
-The other modes use multiple print passes and additional dots to make a darker, more solid-looking character with better resolution. The tradeoff for higher quality printing is speed.

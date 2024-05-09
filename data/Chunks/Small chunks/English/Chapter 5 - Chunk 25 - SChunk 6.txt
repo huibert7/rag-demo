@@ -1,1 +1,0 @@
-If the location is still blank, unplug your system again, open it up, and replace the old RAM in its original socket. Remove a different RAM and replace it will the new one. Turn the system on again and check for the problem. Continue in this manner, shotgunning the bank of RAM chips until the malfunctioning location is present once again.

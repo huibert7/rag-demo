@@ -1,1 +1,0 @@
-Lines 3500 through 3600 contain the Serial Communication Diagnostic mod­ule, which tests the serial communication interface.

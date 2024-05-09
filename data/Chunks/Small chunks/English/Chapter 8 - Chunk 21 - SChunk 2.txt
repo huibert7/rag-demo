@@ -1,1 +1,0 @@
-The XON/XOFF protocol works in conjunction with the emulator and is set with the other communication software configuration parameters. The XON/XOFF protocol is optional. Even though the baud rates might be compati­ble, if the receiving system cannot process the data fast enough, some data could get lost.

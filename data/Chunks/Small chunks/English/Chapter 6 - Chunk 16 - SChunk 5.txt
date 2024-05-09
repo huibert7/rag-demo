@@ -1,1 +1,0 @@
-Some printers have a forms adjustment, which enables the print head to be brought further back from the carriage to accommodate papers of heavier thicknesses, or multi-part forms. Use the forms adjustment to move the head closer to the carriage. Run the print sample and adjust the head until the print image is clear and sharp.

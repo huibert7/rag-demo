@@ -1,1 +1,0 @@
-If your system includes a second disk drive, place the program diskette in the other drive, and read the program from there. If your system cannot read from the other drive, then you could have a bad program diskette. Load the backup diskette.

@@ -1,1 +1,0 @@
-A brief overview of the Applesoft BASIC commands used in the System Diagnostic Program is also included.

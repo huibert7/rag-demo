@@ -1,1 +1,0 @@
-The Printer Diagnostic module consists of five tests and is stored at lines 1130 through 1790.

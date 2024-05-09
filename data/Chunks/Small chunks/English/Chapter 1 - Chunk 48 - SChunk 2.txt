@@ -1,1 +1,0 @@
-Also, don't touch the metal edge connector. You could transfer electrical charges through all the circuits on the board and damage them.

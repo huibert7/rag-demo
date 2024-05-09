@@ -1,1 +1,0 @@
-If you have not purchased the diskette, enter the program code as listed in the Appendices. To do this: Turn on the Apple system. Applesoft BASIC is automatically invoked. Enter NEW to indicate to BASIC that this is a new program. Enter the System Diagnostic Program code exactly as listed in Appendix A.

@@ -1,1 +1,0 @@
-Just like with the modem, the printer must be configured with the same data speed and size parameters that are set within the Apple II. This is because the printer must know what kind of data to expect from the computer, and then it must know what to do with the data.

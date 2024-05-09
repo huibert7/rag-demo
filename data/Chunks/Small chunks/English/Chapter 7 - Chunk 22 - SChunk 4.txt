@@ -1,1 +1,0 @@
-If it does load, run the Disk Drive Diagnostic module on a blank, format­ ted diskette. The diagnostic writes a specific pattern to the disk, reads it back, and compares the two to make certain they match. This checks the read/ write logic. Run the diagnostic on the drive that would not load the program.

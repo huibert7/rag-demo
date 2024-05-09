@@ -1,1 +1,0 @@
-A beep indicates that the loading process has begun. A second beep indicates that the System Diagnostic Program has completed the load. The System Diagnostic Main Menu is then displayed.

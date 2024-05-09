@@ -1,1 +1,0 @@
-If the other disk drive does not work with your controller, then a certain chip on the drive controller board is faulty and should be replaced. Refer to "Working With IC Chips" in Chapter l for further instructions on handling and replacing chips.

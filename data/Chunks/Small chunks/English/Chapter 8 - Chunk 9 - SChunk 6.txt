@@ -1,1 +1,0 @@
-The printer is typically attached directly to the computer with an interface cable. In some cases, the printer can even be used in conjunction with the modem to provide long-range printing. A central computer from a remote site can send information via a communication line, and have it print out on a local printer.

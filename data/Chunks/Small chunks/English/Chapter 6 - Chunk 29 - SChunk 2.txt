@@ -1,1 +1,0 @@
-he Horizontal Tab Test checks all combinations of tabbing across the printer carriage.

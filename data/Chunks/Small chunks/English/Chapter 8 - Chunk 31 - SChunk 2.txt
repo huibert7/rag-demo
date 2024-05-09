@@ -1,1 +1,0 @@
-If the solutions described above fail to solve the serial communication prob­lem, and the system requires servicing, first call the Apple II service center and speak with the technician. Describe the computer configuration, type of modem, and the problem.

@@ -1,1 +1,0 @@
-If your drive still does not write, swap your disk drive controller on another Apple II system. If you use an Apple IIc, either swap the entire motherboard or the drive controller chip. If the other disk drive works, your system has a faulty disk drive.

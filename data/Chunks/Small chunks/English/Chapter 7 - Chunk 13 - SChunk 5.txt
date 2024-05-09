@@ -1,1 +1,0 @@
-New boxes of diskettes always include a package of small adhesive foil tapes. When one of these tapes is placed over a diskette's write-pro­tect notch, the disk drive's ability to write information onto the diskette is disabled. The tape blocks the write logic sensor in the disk drive, preventing data from being written onto the diskette.

@@ -1,1 +1,0 @@
-If the ribbon is in good condition, then there is a problem in the print head. One of the solenoids that actuates the dot matrix pins in the head has probably malfunctioned or worn out. Take the printer in for servicing, and ask to have the faulty solenoid repaired or replaced.

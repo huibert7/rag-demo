@@ -1,1 +1,0 @@
-Luego, el programa le solicitará el número de ranura de cada una de las unidades que se van a probar. Ingrese el número apropiado, del 0 al 7, como se indica en la ranura de expansión. Si tiene un Apple IIc, especifique la ranura 6.

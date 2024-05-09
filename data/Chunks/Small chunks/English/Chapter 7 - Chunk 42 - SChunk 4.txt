@@ -1,1 +1,0 @@
-Because CHR$(63) and CHR$(64) have an alternating bit pattern, this ensures that all possible bits on the disk are written, creating a thorough test of the disk.

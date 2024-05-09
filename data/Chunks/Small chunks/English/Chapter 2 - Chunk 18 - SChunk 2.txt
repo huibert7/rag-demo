@@ -1,1 +1,0 @@
-To load and run the System Diagnostic Program, follow these steps: Turn power on to the system. Applesoft BASIC is loaded automatically, and the ] prompt is displayed. Place the diagnostic diskette into the disk drive. Enter RUN DIAG. If you have two disk drives and you're loading the program from drive#2, enter RUN DIAG,D2

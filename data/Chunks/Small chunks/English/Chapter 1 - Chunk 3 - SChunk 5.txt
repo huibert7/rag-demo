@@ -1,1 +1,0 @@
-The various versions of the Apple II system - the II Plus, IIe, and IIc - have different CPU configurations.

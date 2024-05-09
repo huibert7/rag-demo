@@ -1,1 +1,0 @@
-If pressing RESET does not return the computer to the Applesoft BASIC environment, turn the computer off, wait a few seconds, and then turn it on again. If the system still does not access the Applesoft BASIC environment with the right bracket prompt, this indicates a more serious problem. The BASIC ROM chip might have blown, and this chip will need to be replaced.

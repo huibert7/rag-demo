@@ -1,1 +1,0 @@
-There are many printers available compatible with the Apple II systems. Most Apple II printers use a serial interface connector, although some printer con­trollers include an on-board parallel interface.

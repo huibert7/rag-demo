@@ -1,1 +1,0 @@
-The third module is the Monitor Diagnostic module, which consists of five different tests residing in lines 350 through 1120.

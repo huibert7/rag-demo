@@ -1,1 +1,0 @@
-A common disk drive problem is that the system cannot write data to the diskette. The first thing you should check is the diskette itself.

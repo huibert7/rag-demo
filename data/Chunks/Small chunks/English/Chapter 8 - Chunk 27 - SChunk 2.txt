@@ -1,1 +1,0 @@
-If possible, check the device with which you're trying to communicate. If it's another Apple II, run the diagnostic program on it to see whether its commu­nication interface is working properly. If it's an online service, call their help line for further technical assistance.

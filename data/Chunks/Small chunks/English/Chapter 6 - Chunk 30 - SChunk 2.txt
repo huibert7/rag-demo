@@ -1,1 +1,0 @@
-Line feed problems are manifested by text printing on top of previous lines because the printer failed to feed a line at the proper time. The printer might jam whenever it is supposed to feed a number of lines, or go to the next page with a top-of-form command.

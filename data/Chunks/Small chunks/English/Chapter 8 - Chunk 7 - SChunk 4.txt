@@ -1,1 +1,0 @@
-The modem is the intermediary for sending information from one computer to another. It converts the originating computer's digital signal into sound waves. These sound waves, or analog signals, allow for the transmission of information over telephone line.s. This part of the conversion is referred to as modulation.

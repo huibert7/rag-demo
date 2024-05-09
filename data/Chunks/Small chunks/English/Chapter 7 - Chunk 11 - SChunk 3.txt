@@ -1,1 +1,0 @@
-These functions consist of: Locating and grouping data on the diskette. Writing data from system memory to the diskette. Reading data from the diskette to system memory.

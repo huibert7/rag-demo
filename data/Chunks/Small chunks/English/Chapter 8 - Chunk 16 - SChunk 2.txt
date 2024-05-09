@@ -1,1 +1,0 @@
-Data size refers to the size of the data being sent: how many bits make up a standard character or word. The Apple data character consists of eight bits. The communication software needs to know the character length or word length of the data being sent, to be able to send and receive data correctly.

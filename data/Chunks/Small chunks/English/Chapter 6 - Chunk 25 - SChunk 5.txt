@@ -1,1 +1,0 @@
-After answering these prompts and pressing RETURN , the module is set up for your printer, and the Printer Diagnostic Menu is displayed as shown in Fig. 6-7. To activate one of the printer tests, press the corresponding number, 1 through 5.

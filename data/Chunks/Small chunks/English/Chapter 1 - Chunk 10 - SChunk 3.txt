@@ -1,1 +1,0 @@
-This documentation provides the necessary specifics regarding your particular Apple II configuration. Such information becomes vital when installing and setting up a new device, or if the computer experiences a malfunction.

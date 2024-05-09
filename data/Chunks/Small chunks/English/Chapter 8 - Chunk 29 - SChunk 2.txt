@@ -1,1 +1,0 @@
-Garbled, confused, or miscommunicated data indicates that communication has been established, but there's a problem with the data coming through the lines. This usually has to do with one of the parameter settings such as the word size or parity.

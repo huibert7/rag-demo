@@ -1,1 +1,0 @@
-The power supply outputs DC power to the motherboard to provide the required voltages to the integrated circuits.

@@ -1,1 +1,0 @@
-The first pass writes a series of 254-byte records that contain a 254-character string of CHR$ value 170. CHR$ value 64 is a character that has a bit string of 1000000. The diagnostic writes 239 records of CHR$ value 64 to fill up the disk.

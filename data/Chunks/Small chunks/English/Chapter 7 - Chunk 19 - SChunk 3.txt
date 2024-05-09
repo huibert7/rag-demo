@@ -1,1 +1,0 @@
-If a particular data file gets to a point where is is finished, and will not be· changed anymore, make a final backup and write-protect both diskettes. Having backups and write-protecting when possible protects the data from acci­dental loss from a power failure, system failure, or inadvertent overwrite.

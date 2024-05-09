@@ -1,1 +1,0 @@
-The power supply then rectifies 115 VAC into the 5 or 12 volts direct current (VDC) required for the computer's electronic circuitry.

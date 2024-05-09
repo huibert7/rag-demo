@@ -1,1 +1,0 @@
-If the operating system does not load, and you do not even see the Applesoft BASIC right bracket prompt, check that the disk drive interface cable is properly connected between the drive and the motherboard.

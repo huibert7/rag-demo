@@ -1,1 +1,0 @@
-These options include the disk drive controller, or a serial communication interface board that would allow the use of either a printer or modem through the serial communication port.

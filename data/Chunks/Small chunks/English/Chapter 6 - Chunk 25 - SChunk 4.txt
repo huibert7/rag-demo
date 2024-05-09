@@ -1,1 +1,0 @@
-If you don't know the slot number, open the system unit, and locate the printer controller board. The slot number is labeled on the motherboard in front of the slot itself.

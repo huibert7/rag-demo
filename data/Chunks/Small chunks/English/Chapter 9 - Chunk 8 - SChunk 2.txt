@@ -1,1 +1,0 @@
-El módulo Ejercitador del Sistema solicita pruebas de diagnóstico a otras partes del Programa de diagnóstico del sistema. Se conecta a rutinas en el módulo de diagnóstico del monitor, el módulo de diagnóstico de la impresora y el módulo de diagnóstico de la unidad de disco.

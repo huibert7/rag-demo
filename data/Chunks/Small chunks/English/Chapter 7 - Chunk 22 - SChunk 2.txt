@@ -1,1 +1,0 @@
-If your attempts to boot up the system, load a program, or read a file only cause a read error message to be returned, then there is probably a problem with the disk drive's read circuitry.

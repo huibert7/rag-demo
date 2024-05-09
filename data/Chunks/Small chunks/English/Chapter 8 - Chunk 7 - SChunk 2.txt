@@ -1,1 +1,0 @@
-The modem is a device widely used for serial communication. It allows transmission and reception of computer data using telephone lines.

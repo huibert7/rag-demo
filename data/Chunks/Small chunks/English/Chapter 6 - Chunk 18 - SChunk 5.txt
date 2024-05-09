@@ -1,1 +1,0 @@
-Run the Line Feed Test of the Printer Diagnostic module to check the carriage control. This test prints lines with variable line spacing and then it feeds the paper up to the next page.

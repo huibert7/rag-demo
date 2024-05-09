@@ -1,1 +1,0 @@
-It may be confusing to see the graphics character on the monitor display, but not get it to print. This is because different makes of printers support different character sets. Some character sets are more limited than others. Be sure to send only valid characters to your printer.

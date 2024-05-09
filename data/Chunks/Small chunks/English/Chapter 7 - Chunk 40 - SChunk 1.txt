@@ -1,1 +1,0 @@
-When you run the test, use a recently formatted, blank diskette. Do not use a diskette that contains data on it, because the test will run out of room on the diskette, and an error message will be returned.

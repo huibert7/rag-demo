@@ -1,1 +1,0 @@
-First check the diskette. See that there is a diskette present in the drive. Make certain that the disk drive door is closed.

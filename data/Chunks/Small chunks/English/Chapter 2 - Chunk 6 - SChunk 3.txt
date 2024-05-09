@@ -1,1 +1,0 @@
-The Character Set Test displays the monitor's full set of available display characters.

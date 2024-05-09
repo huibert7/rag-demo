@@ -1,1 +1,0 @@
-Run the Scroll Test to check this. If the display does not scroll properly, then there is a problem with the display section of the system unit. Refer to Chapter 3 on how to troubleshoot the system unit.

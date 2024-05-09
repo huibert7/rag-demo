@@ -1,1 +1,0 @@
-Chapter 9 covers the System Exerciser Module, which burns in and thoroughly tests the system when it is new, or after a repair. All system functions are exercised and run continuously with the Exerciser. This is much like test-driving your car after a repair.

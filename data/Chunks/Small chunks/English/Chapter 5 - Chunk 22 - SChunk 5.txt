@@ -1,1 +1,0 @@
-If you run the Display Test and do not see all the expected characters, or if the display is incorrect or garbled, then there is a problem with the system unit itself. Refer to Chapter 3 on how to troubleshoot the system unit.

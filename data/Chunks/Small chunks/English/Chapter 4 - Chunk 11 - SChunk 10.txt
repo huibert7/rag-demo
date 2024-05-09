@@ -1,1 +1,0 @@
-If the power light is illuminated and the system prompts are displayed correctly on the screen, but the keyboard still does not work, then there is a problem with the keyboard circuitry. Take the system in for servicing.

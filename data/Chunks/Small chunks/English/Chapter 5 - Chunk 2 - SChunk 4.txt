@@ -1,1 +1,0 @@
-The Apple II systems support both low-resolution and high-resolution graphics modes. The low-resolution mode consists of 40 x 80 screen locations which can be displayed in 16 different colors. The high-resolution mode supports 140 x 192 pixel locations in six colors, or 280 x 192 pixel locations in black and white .

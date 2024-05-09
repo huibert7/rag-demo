@@ -1,1 +1,0 @@
-The printer itself might have DIP-switches. A DIP-switch is a dual inline plastic switch containing a number of micro switches mounted on a board (Fig. 3-7), each of which can be set to ON or OFF.

@@ -1,1 +1,0 @@
-If this is the case, either have the cable modified to match your required pin configuration, or purchase another one with the correct pinouts. Consult the cable manufacturer for further information.

@@ -1,1 +1,0 @@
-The printer installation program provides a wide range of popular models from which to choose. Even off-brand printers always have an equivalent to one of these choices. If you do not run the application's printer installation program, the driver might not be installed properly, which would in turn cause the printer not to work.

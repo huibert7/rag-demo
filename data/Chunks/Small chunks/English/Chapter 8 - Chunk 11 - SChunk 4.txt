@@ -1,1 +1,0 @@
-When computers are hard-wired together, the speed of data being sent can be much faster. The communication parameters between the two computers must match in order for them to understand and process the information being sent and received.

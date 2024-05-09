@@ -1,1 +1,0 @@
-any character entered at the Apple II keyboard is sent out to the device, immediately received in through these pins and sent back to the computer. The character will be echoed back and displayed on the screen.

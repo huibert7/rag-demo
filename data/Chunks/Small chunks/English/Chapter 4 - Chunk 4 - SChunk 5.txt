@@ -1,1 +1,0 @@
-The ASCII value is sent from the keyboard controller to the CPU, which processes the value and determines what it is supposed to do. The results are then sent to the screen, if applicable, for the appropriate display or func­tional action.

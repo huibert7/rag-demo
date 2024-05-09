@@ -1,1 +1,0 @@
-Check the printer ribbon. It might be jammed, or spent. When this happens, the print heads strike the same place on the ribbon, and the ribbon is unable to advance to fresh ink. Manually advance the ribbon with the advance knob on the cartridge, or install a new ribbon cartridge.

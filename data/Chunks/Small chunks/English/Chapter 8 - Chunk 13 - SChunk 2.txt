@@ -1,1 +1,0 @@
-In order to use the serial communication interface, communication software that works from the serial communication interface is needed. An example of this kind of software is a modem communication pro­gram.

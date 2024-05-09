@@ -1,1 +1,0 @@
-The code for the other modules is listed and explained in the appropriate subsystem chapter. For example, the code for the Monitor Diagnos­tic module is explained in Chapter 5, "The Monitor."

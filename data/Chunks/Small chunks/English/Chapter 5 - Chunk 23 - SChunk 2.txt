@@ -1,1 +1,0 @@
-When the screen is completely filled with text and you enter more characters on the next line, the entire screen display moves up, pushing the top line off the screen, making place for the next line. This is called scrolling. If the display does not move up, but rather fills one screen and then overwrites at the bottom of the screen, the monitor has a scrolling problem.

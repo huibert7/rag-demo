@@ -1,1 +1,0 @@
-Most modems provide additional assistance with troubleshooting, through its row of red indicator lights across its front status panel. If your modem includes such an indicator panel, check that the signals are correct.

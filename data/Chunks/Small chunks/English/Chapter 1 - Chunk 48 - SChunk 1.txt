@@ -1,1 +1,0 @@
-The PC board can be removed once all the cables are disconnected. Hold it by its edges and gently rock the board out of its edge connector. Take care not to touch the underside of the board with its exposed IC pins, which could cut your fingers.

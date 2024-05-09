@@ -1,1 +1,0 @@
-The power supply is an external unit on the Apple IIc. On the II Plus and IIe systems, the power supply is internal, housed within the system unit.

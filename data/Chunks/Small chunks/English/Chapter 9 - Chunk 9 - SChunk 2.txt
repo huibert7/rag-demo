@@ -1,1 +1,0 @@
-Si se va a probar la impresora, se ejecuta la prueba alfa deslizante durante 35 repeticiones y luego se ejecuta la prueba de impresión del juego de caracteres. Luego, la prueba de impresión de caracteres de eco se ejecuta con la letra "E" en una línea. La prueba de tabulación horizontal y la prueba de espacio entre líneas se ejecutan cada una una vez.

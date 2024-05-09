@@ -1,1 +1,0 @@
-The Main Menu module of the System Diagnostic Program is then described in detail to explain how the pro­gram actually works. An overview on program modification and adaptation for your own purposes is covered here briefly, and treated in greater depth in Chapter 10.

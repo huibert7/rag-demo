@@ -1,1 +1,0 @@
-Adjusting the color from inside the system unit does not affect the color and tint settings on the television or monitor itself.

@@ -1,1 +1,0 @@
-When parity is not achieved, this indicates an error in transmission. In this case, the communication software gives a prompt to try the data transmis­sion again, or it restarts automatically.

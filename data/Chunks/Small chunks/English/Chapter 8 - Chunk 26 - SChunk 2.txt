@@ -1,1 +1,0 @@
-The inability to establish communication might manifest itself in the inability to dial up, to make the connection after dialing, or to detect the carrier after connecting.

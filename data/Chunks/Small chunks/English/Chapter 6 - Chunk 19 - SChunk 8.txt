@@ -1,1 +1,0 @@
-For example, if the "a"s do not appear wherever they're supposed to, run the Sliding Alpha or Echo Character Test of the Printer Diagnostic to see if both the uppercase "A" and lowercase "a" are missing.

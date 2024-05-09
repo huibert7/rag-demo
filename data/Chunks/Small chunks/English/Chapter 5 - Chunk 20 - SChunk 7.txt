@@ -1,1 +1,0 @@
-If you try all these tests with your television set and RF converter, and there is still static on the television screen, then the system unit is probably malfunc­tioning. Refer to Chapter 3 on how to troubleshoot system unit problems.

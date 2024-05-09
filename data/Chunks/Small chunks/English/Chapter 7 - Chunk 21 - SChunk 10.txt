@@ -1,1 +1,0 @@
-The disk address is based on the expansion slot in which the disk drive controller resides, such as slot #4. Because two disk drives can be connected to each controller, the address also must include the drive connector num­ber :D1 or D2. An example of a disk drive address would be "Slot4D1,"or "Slot 6 D2," and so forth.

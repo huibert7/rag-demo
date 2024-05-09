@@ -1,1 +1,0 @@
-If your troubleshooting efforts determine that a partic­ular IC chip is defective, you can easily replace the chip if it is socketed.

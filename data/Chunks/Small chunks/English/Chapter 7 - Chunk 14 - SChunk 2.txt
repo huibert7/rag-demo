@@ -1,1 +1,0 @@
-When the operating system, application program, or user gives a recall or read command for a specific record or file, the CPU sends these instructions to the disk drive controller. The controller locates the requested data and sends its instructions to the disk drive head-arm assembly.

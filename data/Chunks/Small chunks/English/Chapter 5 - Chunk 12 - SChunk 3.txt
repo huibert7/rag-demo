@@ -1,1 +1,0 @@
-The video interface circuit resides on the motherboard in all Apple II systems. This circuit includes trim potentiometers for adjusting color and horizontal synchronization.

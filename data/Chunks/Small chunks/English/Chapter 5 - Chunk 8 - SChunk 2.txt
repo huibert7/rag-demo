@@ -1,1 +1,0 @@
-In the text mode, the monitor's display works on a character matrix. The display is divided into 24 horizontal rows which are intersected by 40 or 80 vertical columns. The position where a column and row intersect is one character location.

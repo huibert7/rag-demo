@@ -1,1 +1,0 @@
-A second type of memory is also provided as part of the CPU, called read-only memory (ROM). ROM chips have programs permanently stored in its memory which is retained whether or not the computer system has power.

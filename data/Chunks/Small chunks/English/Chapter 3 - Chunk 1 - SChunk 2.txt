@@ -1,1 +1,0 @@
-The system unit is the brains of the Apple II system, controlling and coordinating all activities taking place within the computer.

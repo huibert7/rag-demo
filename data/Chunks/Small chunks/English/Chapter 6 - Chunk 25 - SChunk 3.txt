@@ -1,1 +1,0 @@
-The first prompt asks whether the printer can print up to 80 or 132 characters in one line. The default value is 80 characters. The second prompt asks for the slot number in which the printer controller board resides. This information allows the program to properly address the board while running the printer tests. Enter the slot number at the prompt, and press RETURN.

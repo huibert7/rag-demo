@@ -1,1 +1,0 @@
-The central processing unit (CPU) consists of three sections: Arithmetic-logic. General control. Storage

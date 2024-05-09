@@ -1,1 +1,0 @@
-Follow the instructions provided in "Running the Diagnostic Program" in Chapter 2 to run the Keyboard Diagnostic module. Then press K or k to initiate the Keyboard Diagnostic module.

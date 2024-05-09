@@ -1,1 +1,0 @@
-The XON/XOFF protocol places transmission on hold as needed to prevent the communication buffers from overflowing, and then turns it on again to make sure that data is completely transferred.

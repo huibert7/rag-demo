@@ -1,1 +1,0 @@
-First try swapping a different monitor or television onto your system. If the new monitor works, then your monitor needs servicing. If the swapped monitor fails to work, then you might have a problem with the system unit. Refer to Chapter 3 for system unit troubleshooting procedures.

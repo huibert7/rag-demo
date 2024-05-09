@@ -1,1 +1,0 @@
-Baud rate pertains to how fast the device sends information. The device receiving the data must know the speed at which the data are being sent in order for the two devices to be in sync with one another.

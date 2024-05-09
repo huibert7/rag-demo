@@ -1,1 +1,0 @@
-The numbers within each of the blocks are the line numbers where the code for that subsystem module is located. Lines 10 through 30 are set aside for introductory program remarks.

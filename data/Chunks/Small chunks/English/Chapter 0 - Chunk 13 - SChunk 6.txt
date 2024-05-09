@@ -1,1 +1,0 @@
-If you are not familiar with BASIC, you can easily skip these program explana­tions and still use the diagnostic modules successfully. The entire program is ready to use. Just create a backup of the program, then load it into your system.

@@ -1,1 +1,0 @@
-If the system is able to read from a diskette, but cannot write to it, examine the diskette to see whether it is write-protected.

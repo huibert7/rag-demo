@@ -1,1 +1,0 @@
-Many dot matrix printers offer several qualities of print, including draft, near­ letter-quality, and letter-quality modes. The draft mode might print a minimum number of dots for a character, thus taking the least amount of time.

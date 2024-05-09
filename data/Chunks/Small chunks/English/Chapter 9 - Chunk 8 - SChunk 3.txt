@@ -1,1 +1,0 @@
-El módulo System Ejercitador muestra un menú que solicita los dispositivos que se probarán. Se puede especificar cualquier combinación de dispositivos para su inclusión o exclusión del Ejercitador. Estos parámetros de componentes se pueden configurar en cualquier combinación que sea conveniente y apropiada para el sistema.

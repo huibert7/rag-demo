@@ -1,1 +1,0 @@
-If the error message "Out of Space on Disk, Try an Empty One" is returned while running the Disk Drive Diagnostic module, then the scratch diskette being used for the test is not blank. Either check the contents of the diskette to make sure you no longer need the files and reinitialize it, or use another formatted diskette that is empty.

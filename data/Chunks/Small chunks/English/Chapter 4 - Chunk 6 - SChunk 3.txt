@@ -1,1 +1,0 @@
-If you were to examine the code listings for the System Diagnostic Program, you would see several instances in which a CHR$ value is invoked. Because CHR$ and ASCII values are related to one another on a one-to-one basis, CHR$(61) and ASCII 61 both represent the lowercase "a".

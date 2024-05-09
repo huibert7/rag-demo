@@ -1,1 +1,0 @@
-Finally Low-Resolution Color Graphics Test checks the 16 colors available at each low-resolution memory location on the screen.

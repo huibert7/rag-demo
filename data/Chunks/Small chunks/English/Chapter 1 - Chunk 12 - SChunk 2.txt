@@ -1,8 +1,0 @@
-| Cleaning Supplies                                  | Use                                                          |
-| -------------------------------------------------- | ------------------------------------------------------------ |
-| Compressed air with nozzle and extension           | Pressurized air used to blow out dust and dirt               |
-| Freon or contact cleaner with nozzle and extension | Solution used to clean contacts and switches on printed circuit board components |
-| Denatured isopropyl alcohol                        | For general cleaning of electronic hardware, floppy disk drive heads, and print wheels |
-| Cotton swabs                                       | For cleaning hardware and components in tight places; used with isopropyl alcohol |
-| Sponges and lint-free paper or cloth               | For cleaning hardware components with isopropyl alcohol      |
-| Emery paper or pencil eraser                       | To clean oxydation from connectors                           |

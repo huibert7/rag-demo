@@ -1,1 +1,0 @@
-The head itself never physically touches the surface of the diskette as it reads or writes. Instead, it is positioned a few microns above it on a cushion of air. Software and hardware logic position the head at the proper location for reading or writing.

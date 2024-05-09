@@ -1,1 +1,0 @@
-To prevent losing work due to a system crash (or power outage, for that matter), save your work to disk about every ten minutes.

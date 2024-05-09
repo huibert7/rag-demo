@@ -1,1 +1,0 @@
-There are two basic types of printers between which the Printer Diagnostic module must distinguish. Because of this, the Printer Setup routine is run before the Printer Diagnostic menu is even displayed. Two prompts are given.

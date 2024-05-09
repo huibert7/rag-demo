@@ -1,1 +1,0 @@
-To solve this problem, you can either replace the character generator ROM (chip 2513 on the Apple II Plus and IIe), or take the motherboard to an Apple II service outlet and have them replace it for you.

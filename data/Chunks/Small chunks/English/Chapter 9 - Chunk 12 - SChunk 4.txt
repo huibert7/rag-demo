@@ -1,1 +1,0 @@
-Finalmente, el programa le solicita que ingrese qué unidad se va a probar. Cada tarjeta controladora puede controlar dos unidades de disco, la unidad 1 o 2. Ingrese la dirección del disco de la unidad que se va a probar para esa tarjeta.

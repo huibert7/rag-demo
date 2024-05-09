@@ -1,1 +1,0 @@
-If the board still cannot establish communications on the other system, the problem lies in the modem itself. Take the modem in for repair.

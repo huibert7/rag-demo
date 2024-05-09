@@ -1,1 +1,0 @@
-Interfacing with a Printer.

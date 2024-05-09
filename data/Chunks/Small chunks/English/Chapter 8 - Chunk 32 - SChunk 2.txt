@@ -1,1 +1,0 @@
-The Serial Communication Diagnostic module checks that the interface and the interface address are both working properly. It also tests whether the system is receiving the same data that it is sending through the communication loop.

@@ -1,1 +1,0 @@
-To run the Serial Communication Diagnostic module, first connect the RS-232 serial communications interface cable to the serial communications ribbon cable port coming out of the system unit. Then take the free end of the RS-232 cable, and instead of plugging it into the modem or other communication device, attach a wire between pins 2 and 3.

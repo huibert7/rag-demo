@@ -1,1 +1,0 @@
-It checks the six colors available at each high-resolution memory location on the screen. This program is provided on the same diskette with the System Diagnostic Program, or it can be copied from the listing provided in Appendix B.

@@ -1,1 +1,0 @@
-Saving and retrieving files points out the two storage functions the diskette drive provides: recording, or writing, information from the computer onto the diskette; and playing back, or reading, information from the diskette into com­puter memory.

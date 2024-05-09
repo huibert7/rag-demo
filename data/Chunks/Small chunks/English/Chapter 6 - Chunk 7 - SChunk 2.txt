@@ -1,1 +1,0 @@
-Certain dot-matrix printers, called graphic printers, can render graphic charac­ters. The Apple ImageWriter is an example of such a graphic printer. A graphic printer can address just as many ink points (which correspond to the monitor's pixels) as your monitor resolution can display.

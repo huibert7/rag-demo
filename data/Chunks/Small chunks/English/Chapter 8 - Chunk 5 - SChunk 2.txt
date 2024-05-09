@@ -1,1 +1,0 @@
-Serial communication with the outside world is achieved by means of an interface cable running from the Apple serial communication port to the other device with which communication is to take place. It is through this cable that the appropriate signals and data are passed to and from the other device.

@@ -1,1 +1,0 @@
-Some printers print only left to right, and are called unidirectional printers.

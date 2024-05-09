@@ -1,1 +1,0 @@
-The dot-matrix printer provides very quick output, and is the least expensive printer type available. Speed is measured in characters per second (cps), referring to how fast the printer can place characters on paper. A dot-matrix printer can range in speed from 30 to 200+ cps.

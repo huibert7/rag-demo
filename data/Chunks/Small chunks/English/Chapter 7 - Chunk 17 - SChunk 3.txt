@@ -1,1 +1,0 @@
-Pull the board off (refer to "Maintaining Your Apple II System" in Chapter 1 for board handling and cleaning procedures) and clean any oxidation from the edge connector. Make certain the board is properly seated in its slot for an optimum connection. If there are one or two drives, make sure the controller is installed in the slot labeled as slot 6.

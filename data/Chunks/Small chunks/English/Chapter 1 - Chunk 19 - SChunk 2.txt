@@ -1,1 +1,0 @@
-Never try to fix something for which you do not have the proper knowledge, documentation, tools, or parts. A little knowledge on your part can be a danger­ous thing to your computer, especially when you know just enough to get into trouble and possibly make the problem worse.

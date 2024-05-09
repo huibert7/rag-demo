@@ -1,1 +1,0 @@
-If the screen suddenly clears and is replaced by a series of hexadecimal numbers, and if the right bracket prompt changes to an asterisk (*) prompt, this indicates that the system has just crashed and placed the computer in the machine monitor program environment.

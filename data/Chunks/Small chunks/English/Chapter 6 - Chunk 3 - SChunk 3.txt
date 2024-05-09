@@ -1,1 +1,0 @@
-Los dos tipos básicos de opciones de impresoras Apple II son la impresora matricial y la impresora con calidad carta. Las impresoras láser también están disponibles para Apple II, pero no se tratan en este libro.

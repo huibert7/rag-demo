@@ -1,1 +1,0 @@
-Another indicator is if no program loads from the diskette, and only the Applesoft BASIC prompt is displayed, this indicates that the drive has no power.

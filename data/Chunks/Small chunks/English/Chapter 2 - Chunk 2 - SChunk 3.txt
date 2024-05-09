@@ -1,1 +1,0 @@
-The devices that can be tested with this program are those of a typical configuration: keyboard, monitor, disk drive, printer, and serial communication interface.

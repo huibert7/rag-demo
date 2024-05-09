@@ -1,1 +1,0 @@
-After making the proper adjustments, if the colors still are not correct, there is a variable resistor on the motherboard that serves to optimize video color.

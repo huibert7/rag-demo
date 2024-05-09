@@ -1,1 +1,0 @@
-Remove each board from its slot or cable and carefully reseat them. Make sure the board goes in straight, instead of skewed at an angle. Remove all cables from any boards and reconnect them. Make sure the cable goes on straight, instead of skewed at an angle.

@@ -1,1 +1,0 @@
-The most damaging problem is the voltage surge. A power surge can pass through the power supply's filter circuits by giving it more peak voltage than it can effectively suppress.

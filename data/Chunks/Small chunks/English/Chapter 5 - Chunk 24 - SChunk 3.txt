@@ -1,1 +1,0 @@
-Run the Display Test of the Monitor Diagnostic module. This test fills the entire screen with an entered character. Any blank locations indicate a problem with those text character locations.

@@ -1,1 +1,0 @@
- The Line Feed Test checks various line space gradations, including the feeding of a new continuous form page.

@@ -1,1 +1,0 @@
-The letter-quality printer uses a daisy wheel to create the characters. On the end of each petal of the daisy wheel is a character.

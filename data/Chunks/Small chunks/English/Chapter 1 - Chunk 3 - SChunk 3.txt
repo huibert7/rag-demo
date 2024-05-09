@@ -1,1 +1,0 @@
-The CPU consists of the microprocessor chip that runs the computer. It issues commands that cause calculations to be made and processes to be run as well as coordinating the various input and output devices. It transfers and processes data to and from the outside world via ports.

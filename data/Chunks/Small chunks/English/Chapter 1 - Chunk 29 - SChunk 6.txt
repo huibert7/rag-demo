@@ -1,1 +1,0 @@
-This instantaneous spike is sent through to the chips, damaging or even destroying them. The spike not only damages circuits but also causes the system to fail, wiping out everything you're working on currently stored in system memory.

@@ -1,1 +1,0 @@
-The disk drive connects to the computer system unit and is operated by means of the disk interface controller. The disk drive and controller are optional on the II Plus and IIe. The disk drive is external, and conventionally its controller board is installed in expansion slot #6 on the moth­erboard.

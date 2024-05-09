@@ -1,1 +1,0 @@
-If the Display Test reveals no blank locations, then the problem is not with the monitor, but with the software you were using when the blanks occurred. Also check to see if there's a problem with a specific character, rather than a character screen location.

@@ -1,1 +1,0 @@
-If the Serial Communication Diagnostic module checks out, reload the communication program and make sure that the parameters are set cor­rectly. Is the baud rate set correctly? Was the appropriate character or word size specified? Is the other system expecting a parity bit to be enabled?

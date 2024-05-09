@@ -1,1 +1,0 @@
-The Apple II disk drive can store 143 kilobytes of data on a diskette. It is an external disk drive, meaning it resides in its own housing external to the system unit, and has its own power supply.

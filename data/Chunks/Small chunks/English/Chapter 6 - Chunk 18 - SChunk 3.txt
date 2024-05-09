@@ -1,1 +1,0 @@
-When working with special forms like checks and invoices, the application program sets up the line spacing to occur in a specific pattern that is more complex than single- or double-spacing. Also, you might enter a form feed command at a defined point, thus causing the printer to roll up to the next form.

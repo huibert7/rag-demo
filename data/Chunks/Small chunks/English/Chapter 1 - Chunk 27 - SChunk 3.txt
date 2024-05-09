@@ -1,1 +1,0 @@
-Static electricity can present a serious problem to your computer. This is because the IC chips throughout the system contain minute electronic circuits that are particularly vulnerable to damage by large voltages inherent in static electricity.

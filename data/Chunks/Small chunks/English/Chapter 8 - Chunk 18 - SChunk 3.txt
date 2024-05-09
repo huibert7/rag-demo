@@ -1,1 +1,0 @@
-If the system is configured for odd parity from the modem to the computer, and a character or word is received with an even number of bits, parity is not correct. This might mean that one of the character bits was lost during transmission.

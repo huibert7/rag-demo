@@ -1,1 +1,0 @@
-El Ejercitador comienza con los diagnósticos del monitor, luego pasa a los diagnósticos de la impresora y, finalmente, a los diagnósticos de la unidad de disco. Cuando finaliza, el ejercitador regresa al monitor para repetir el proceso.

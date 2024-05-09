@@ -1,1 +1,0 @@
-he Echo Character Print Test checks that specified charac­ters can be printed.

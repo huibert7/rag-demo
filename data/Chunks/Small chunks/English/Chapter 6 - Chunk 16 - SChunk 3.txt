@@ -1,1 +1,0 @@
-Run the Sliding Alpha or Display Print Character Test of the Printer Diag­nostic program to obtain sample output. Poor print quality is usually a mechanical rather than a software problem.

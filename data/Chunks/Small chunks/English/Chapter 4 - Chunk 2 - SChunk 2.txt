@@ -1,1 +1,0 @@
-The keyboard is used to type characters to enter data, form commands, make selections, and move the cursor while working within a program or application.

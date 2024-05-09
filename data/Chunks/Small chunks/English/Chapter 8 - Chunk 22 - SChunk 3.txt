@@ -1,1 +1,0 @@
-Load and run the communication program. The modem issues the TR signal (Terminal Ready).

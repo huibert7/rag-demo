@@ -1,1 +1,0 @@
-If the diskette is good, then check the disk drive controller. If the controller is functioning normally, troubleshoot the disk drive itself. If the disk drive is operational, finally troubleshoot the mother­board .

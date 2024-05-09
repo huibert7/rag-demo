@@ -1,1 +1,0 @@
-If the test runs successfully, and the test completion message is returned from the diagnostic, then nothing was wrong with your disk drive. It was probably a diskette problem. Try a different diskette in the drive, and it should work.

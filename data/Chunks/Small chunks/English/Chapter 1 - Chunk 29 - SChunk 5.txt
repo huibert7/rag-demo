@@ -1,1 +1,0 @@
-The Apple II power supply takes the 110 / 120 volts AC and rectifies it to 5, 12, or 15 volts DC. These are the voltages with which the inte­grated circuits in the computer are designed to operate. When the computer's power supply receives a large power surge or spike, it is not capable of suppressing it.

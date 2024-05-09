@@ -1,1 +1,0 @@
-Baud is usually, although not always, the number of bits that can be transmitted in a second. The differences in baud rates can be likened to the different ways a car horn might be sounded. Three short beeps can be heard much faster than three long beeps.

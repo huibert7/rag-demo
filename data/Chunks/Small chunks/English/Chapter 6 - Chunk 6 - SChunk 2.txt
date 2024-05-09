@@ -1,1 +1,0 @@
-Others can print both left to right and right to left, and are called bidirectional printers. They put characters on a page much faster, since no time is wasted in sending the print head back to the beginning of a new line.

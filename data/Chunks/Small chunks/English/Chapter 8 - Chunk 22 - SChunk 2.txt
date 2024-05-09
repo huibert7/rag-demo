@@ -1,1 +1,0 @@
-Notice that some of the signals, such as Carrier Detect, Request to Send, and Clear to Send, are used only by the modem, and do not go through the serial communication interface itself.

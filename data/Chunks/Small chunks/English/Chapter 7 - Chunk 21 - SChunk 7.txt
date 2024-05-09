@@ -1,1 +1,0 @@
-If the power checks out, but the drive indicator is not on, and the drive still cannot be accessed, there is a problem with the cable or controller. Take the drive in for servicing.

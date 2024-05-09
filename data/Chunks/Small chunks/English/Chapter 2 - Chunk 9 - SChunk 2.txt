@@ -1,1 +1,0 @@
-The Character Set Print Test displays the primary character set that is recog­nized by the printer. 

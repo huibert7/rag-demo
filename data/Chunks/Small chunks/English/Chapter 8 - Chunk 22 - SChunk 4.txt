@@ -1,1 +1,0 @@
-Dial the phone to call the other modem and computer system. The modem switches into the data mode and issues the DSR signal (Data Set Ready).

@@ -1,1 +1,0 @@
-If your Apple II resides in an environment in which computers are less than 50 feet apart, these computers can be hard-wired together with an interface cable to connect them together directly via their serial communication ports.

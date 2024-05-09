@@ -1,1 +1,0 @@
-Even though a mouse, joystick, game paddle, and digitizer pad are available, the keyboard is the Apple II system's primary input device.

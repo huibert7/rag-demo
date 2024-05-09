@@ -1,1 +1,0 @@
-The system unit issues commands, processes input and output, and directs the activities of peripheral devices.

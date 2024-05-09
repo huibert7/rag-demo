@@ -1,1 +1,0 @@
-Una configuración incorrecta del interruptor para su configuración particular de Apple II puede causar un mal funcionamiento en el periférico o incluso en todo el sistema. La información sobre la configuración del interruptor se encuentra en la documentación de su periférico.

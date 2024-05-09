@@ -1,1 +1,0 @@
-The character will fill the entire screen at every available character location. Any character locations that do not display the character will be very obvious.

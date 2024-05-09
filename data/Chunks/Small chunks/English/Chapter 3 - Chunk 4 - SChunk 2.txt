@@ -1,1 +1,0 @@
- It has been said that the computer is nothing more than a counting machine. Although this is an oversimplification when discussing overall computer functions, it is accurate when discussing the arithmetic-logic section of the CPU.

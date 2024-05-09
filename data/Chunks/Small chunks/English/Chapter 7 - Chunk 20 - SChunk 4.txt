@@ -1,1 +1,0 @@
-If your troubleshooting efforts point to a problem in the disk drive controller board, make sure it is seated properly in the correct expansion slot, and see that the contacts are clean.

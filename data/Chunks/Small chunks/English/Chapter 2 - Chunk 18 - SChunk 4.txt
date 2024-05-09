@@ -1,1 +1,0 @@
-Follow the same steps to run the High-Resolution Graphics Color Test. Enter RUN HIRES. The High-Resolution Graphics Color Test instructions will be displayed.

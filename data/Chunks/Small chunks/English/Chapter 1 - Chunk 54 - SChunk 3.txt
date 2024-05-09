@@ -1,1 +1,0 @@
-Code any necessary modifications into the System Diagnostic Program. These modifications might have to do with accommodating another periph­eral, or a different kind of system, printer, or keyboard than what is allowed in this program. Test the modified program thoroughly, and when satisfied that the program is working as it should, make a backup copy.

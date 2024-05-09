@@ -1,1 +1,0 @@
-The diagnostic creates a file called "TEST," and makes four distinct passes through the specified disk.

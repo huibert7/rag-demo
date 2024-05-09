@@ -1,1 +1,0 @@
-Printers ordinarily default to the parallel interface, and a switch must be set in order to use the serial communication line. Refer to the printer documen­tation.

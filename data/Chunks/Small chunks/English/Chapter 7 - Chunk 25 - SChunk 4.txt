@@ -1,1 +1,0 @@
-You can also try re-initializing the diskette. When a diskette is first initial­ized, any bad sectors are blocked out. Sometimes a bad sector can develop after initialization. In this case, the diskette can be salvaged with re-initiali­zation.

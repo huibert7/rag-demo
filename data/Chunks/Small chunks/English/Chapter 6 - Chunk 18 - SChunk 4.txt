@@ -1,1 +1,0 @@
-Problems can occur when the specified vertical spacing does not work as expected. The specified number of lines between text might not feed, or the paper might bunch up and jam as it's rolling to the next page.

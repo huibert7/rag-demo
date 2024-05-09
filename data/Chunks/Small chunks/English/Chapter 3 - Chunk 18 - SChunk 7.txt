@@ -1,1 +1,0 @@
-Check the edge connector for oxidation, and remove it if necessary. Insert the expansion board back in the slot, and reconnect its cable. Go on to the next expansion board.

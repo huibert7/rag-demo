@@ -1,1 +1,0 @@
-The daisy wheel includes the entire character set for a given font family and point size. Instead of being formed by a single print head with a series of dots, these characters are individually and solidly embossed onto the daisy wheel.

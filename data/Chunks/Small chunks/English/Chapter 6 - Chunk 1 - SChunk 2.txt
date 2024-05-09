@@ -1,1 +1,0 @@
-Although visual computer output is available from the monitor, output is often needed in a physical hardcopy form as well. Printed output permits more detailed scrutiny of the information, and allows for distribution and presentation to others. The printer is the means by which a paper copy can be made of computer processing results.

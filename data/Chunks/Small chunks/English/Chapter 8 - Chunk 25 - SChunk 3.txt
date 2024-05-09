@@ -1,1 +1,0 @@
-The two basic serial communication problems are that communication is not established, and that communication results are garbled or incorrect in some way.

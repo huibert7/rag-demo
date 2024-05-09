@@ -1,1 +1,0 @@
-In addition, dust and dirt accumulating under the keycaps of the keyboard can cause contact problems. In this case, you might press a key and have nothing happen, because there is so much dirt that the pressed key can no longer send the signal to the keyboard controller.

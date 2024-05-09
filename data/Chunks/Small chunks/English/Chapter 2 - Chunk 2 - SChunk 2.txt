@@ -1,1 +1,0 @@
-The System Diagnostic Program is divided into several modules. Each module includes the necessary program instructions for exercising a particular device on the Apple II and testing for possible problems.

@@ -1,1 +1,0 @@
-To recover from the crash, press RESET or CTRL RESET. The environment returns to Applesoft BASIC as indicated by the right bracket prompt. This is a simple solution, but, unfortunately, work stored in system mem­ory at the time of the crash is probably lost.

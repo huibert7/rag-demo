@@ -1,1 +1,0 @@
-The first module is the System Diagnostic Main Menu. The program code for the Main Menu module, residing in lines 50 through 190, will be described later in this chapter.

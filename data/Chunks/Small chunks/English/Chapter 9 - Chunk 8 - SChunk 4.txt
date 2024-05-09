@@ -1,1 +1,0 @@
-Una vez configurados los parámetros, el ejercitador del sistema comienza inmediatamente a realizar la prueba continua en los dispositivos especificados.

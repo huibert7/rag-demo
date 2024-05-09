@@ -1,1 +1,0 @@
-Communication between two devices requires a balance of software and hard­ware requirements. The software parameters and hardware components must be set up and functioning properly on both ends of the communication line in order for data to be sent, received, and read correctly.

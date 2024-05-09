@@ -1,1 +1,0 @@
-The disk drive controller knows the locations and contents of each group of data stored on the diskette . When the controller receives a read or write command from the CPU, it locates the required data, and directs the head to the proper place for reading.

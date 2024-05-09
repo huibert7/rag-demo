@@ -1,1 +1,0 @@
-If the error message "Volume Mismatch" is returned while running the Disk Drive Diagnostic module, then there is a problem either with the read circuitry on the disk drive controller, or with the CPU. Refer to "Problem: Cannot Load a Program or Read a Data File" above for solutions.

@@ -1,1 +1,0 @@
-The Echo Test screen is displayed, together with a prompt to press the key to be echoed. Any key on the keyboard can be tested: alphanumeric keys, special character keys, and cursor keys. The keycap legend of the pressed key is displayed, along with its ASCII code value and any applicable key combination.

@@ -1,1 +1,0 @@
-The Apple II serial communication interface is used to communicate with devices such as the modem, printer, or another computer.

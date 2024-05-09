@@ -1,1 +1,0 @@
-The microprocessor performs the arithmetic-logic and general control CPU func­tions.

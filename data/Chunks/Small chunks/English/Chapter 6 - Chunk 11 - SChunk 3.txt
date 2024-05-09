@@ -1,1 +1,0 @@
-A serial interface sends data one bit at a time, in a series. This is contrasted with a parallel interface, which accepts 7 or 8 bits of data sent simulta­neously by a parallel printer.

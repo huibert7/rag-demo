@@ -1,1 +1,0 @@
-Open the system unit and locate the disk drive controller board (this only applies to Apple II Plus and IIe systems). Pull the board out of the slot (see Chapter 1 for board handling and cleaning procedures) and clean oxidation from the edge connector. Carefully reseat the board in its slot. If there are only one or two drives, made sure the controller is installed in slot #6.

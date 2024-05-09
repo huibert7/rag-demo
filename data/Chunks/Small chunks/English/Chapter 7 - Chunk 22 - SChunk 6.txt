@@ -1,1 +1,0 @@
-If the diagnostic test fails, or returns a lengthy series of read errors, then either the disk drive or the read circuit on the disk drive controller board is defective.

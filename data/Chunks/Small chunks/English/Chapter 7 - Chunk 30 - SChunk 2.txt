@@ -1,1 +1,0 @@
-If the error message is returned when requesting access to a certain file, give the CATALOG command to see if the file is present on the diskette. If the file is present, then there is a problem with the diskette itself. Try the diskette's backup.

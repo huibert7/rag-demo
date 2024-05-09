@@ -1,1 +1,0 @@
-Finally, Chapter 10 details the techniques used in developing diagnostic mod­ules for other peripheral devices, such as digitizer tablets and joysticks, not already provided for in the System Diagnostic Program.

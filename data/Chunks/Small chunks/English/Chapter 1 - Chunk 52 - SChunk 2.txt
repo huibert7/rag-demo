@@ -1,1 +1,0 @@
-When you suspect that a particular subsystem of the computer needs to be replaced, first swap the component with that of another system. This will confirm that the component really is defective, and that it is not a problem elsewhere in the system.

@@ -1,1 +1,0 @@
-If both your disk drive and controller work on the other system, but they do not work on yours, then you have a faulty system unit. Refer to Chapter 3 for system unit troubleshooting procedures.

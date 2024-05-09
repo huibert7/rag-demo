@@ -1,1 +1,0 @@
-After the monitor is properly warmed up (it takes a minute or so), turn the brightness control knob up as far as it will go. A series of lines should be displayed across the screen. The monitor's power supply might be defective if the screen remains blank. Take the monitor in for servicing.

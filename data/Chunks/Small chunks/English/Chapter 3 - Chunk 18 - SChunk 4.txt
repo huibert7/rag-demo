@@ -1,1 +1,0 @@
-Power off the system. Disconnect the power supply (if it is a IIe system). Disconnect all attached peripheral devices (cassette drive, disk drive, printer, monitor, game paddle, etc.). Remove the top cover to open the system unit.

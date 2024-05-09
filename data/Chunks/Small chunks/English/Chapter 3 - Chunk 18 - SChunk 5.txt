@@ -1,1 +1,0 @@
-Remove the cable connector from each expansion board one at a time, and check the cable pins for oxidation - the gray or black film on the metal. If there is oxidation, remove it with a pencil eraser, emery cloth, or lint-free cloth moistened with isopropyl alcohol.

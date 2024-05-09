@@ -1,1 +1,0 @@
-The difference between the uses of the two code value schemes is that CHR$ is used to invoke letters and functions within a BASIC program, while ASCII is used for processing of keyboard input in the CPU. The ASCII value is also used to convert (using the BASIC ASC instruction) numeric string numbers into numeric values that can be used as such.

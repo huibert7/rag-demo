@@ -1,1 +1,0 @@
-Se deben insertar disquetes en blanco y formateados en cada una de las unidades que se prueban. Aunque es posible que desee atenuar la pantalla del monitor, no hay peligro de que se queme la pantalla, porque la pantalla cambia continuamente.

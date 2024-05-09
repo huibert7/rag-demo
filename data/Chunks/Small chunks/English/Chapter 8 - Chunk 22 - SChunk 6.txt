@@ -1,1 +1,0 @@
-Press a key to begin sending a character code to the other system. The RTS (Request to Send) signal is sent from the computer to the modem, and the appropriate light is illuminated.

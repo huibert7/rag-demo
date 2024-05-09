@@ -1,1 +1,0 @@
-As discussed earlier, there are several types of dot-matrix printers. One type accommodates graphic characters as well as the standard alphanumeric characters. Another type operates only in the character mode. If yours is a character printer, it cannot print graphics characters.

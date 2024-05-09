@@ -1,1 +1,0 @@
-The error message might also mean that the drive is not able to locate the identifying header portion of a sector that the system is trying to access. It could indicate that the drive cannot find the synchronization marker for the track the system is trying to access.

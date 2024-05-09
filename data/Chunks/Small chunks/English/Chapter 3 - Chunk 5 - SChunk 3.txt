@@ -1,1 +1,0 @@
-The control section of the CPU interprets these program instruc­tions, and then executes them. The control section works closely with the arith­metic-logic section to perform the necessary calculations or comparisons to carry it out.

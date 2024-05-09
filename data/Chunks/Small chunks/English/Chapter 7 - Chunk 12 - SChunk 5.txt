@@ -1,1 +1,0 @@
- When the diskette is formatted, each track is divided into sectors (Fig. 7- 10). Each Apple II disk sector contains 256 bytes. In any read or write opera­tion, exactly one sector's worth of information is located and transferred. The program may need to manipulate only 20 bytes of that sector, but the computer always transfers all the information in the entire sector.

@@ -1,1 +1,0 @@
-Chapter 9 provides a diagnostic module that tests not just a single subsystem, but rather exercises the Apple II system as a whole, testing the entire integrated computer for problems.

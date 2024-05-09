@@ -1,1 +1,0 @@
-If you cannot write to the second diskette, then you probably have a problem with your drive. To check this, try the diskette on another system. If it does not write on the system, then you have a bad diskette. However, if it does write on the other system, then you have a problem with either your disk drive controller or the drive itself.

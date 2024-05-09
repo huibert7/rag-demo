@@ -1,1 +1,0 @@
-The 20 remaining connector pins are not used. The serial interface port on the Apple IIc is more efficient, using an actual RS-232 5-pin connector. Its pin assignments are as follows:

@@ -1,1 +1,0 @@
-Pin 2 is the receive data line, while pin 3 is the transmit data line. Placing a wire bridge or jumper across these two pins causes the data that is sent out to be looped back and received.

@@ -1,1 +1,0 @@
-If you notice that part of a character is missing or malformed, run the Display Test to display that character across the entire screen. If the defect appears in every instance of the character throughout the screen, this also indicates a prob­lem with the character generator.

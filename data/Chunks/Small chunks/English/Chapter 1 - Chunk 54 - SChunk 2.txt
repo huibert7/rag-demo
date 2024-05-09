@@ -1,1 +1,0 @@
-Try out the diagnostics now, before you encounter a problem. Know how the results are supposed to appear under normal circumstances.

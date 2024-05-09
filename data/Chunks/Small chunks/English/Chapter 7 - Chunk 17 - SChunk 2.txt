@@ -1,1 +1,0 @@
-The disk drive controller is a separate board installed in one of the expansion slots on the motherboard. Whenever you open the system unit for any preventive maintenance, troubleshooting, or repair purposes, perform some preventive maintenance on this board as well.

@@ -1,1 +1,0 @@
-The Scroll Test provides a sliding character set to check that the monitor is scrolling correctly.

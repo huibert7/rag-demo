@@ -1,1 +1,0 @@
-Press any key to end the test. The screen will clear and return to the color menu, and another color can be tested if desired. When finished testing colors, press ESC, and the Monitor Diagnostic Main Menu will be displayed again.

@@ -1,1 +1,0 @@
-The Disk Drive Diagnostic begins with two prompts. The first prompt asks for the slot number in which the disk drive controller resides, 0 through 7. A second prompt asks for the specific drive on that controller to be tested, 1 or 2.

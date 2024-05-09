@@ -1,1 +1,0 @@
-All three systems include the following controllers on the motherboard: Monitor controller. Keyboard controller. Cassette drive controller. Game paddle controller

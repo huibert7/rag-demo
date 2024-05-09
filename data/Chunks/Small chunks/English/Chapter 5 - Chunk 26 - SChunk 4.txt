@@ -1,1 +1,0 @@
-If no blank spots are revealed by running the High-Resolution Test, the problem is not with the monitor, but with the software you were using when the blanks occurred.

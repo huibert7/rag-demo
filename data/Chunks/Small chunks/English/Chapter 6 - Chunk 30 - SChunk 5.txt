@@ -1,1 +1,0 @@
-Line spacing and form feeding are often controlled by switch settings. If the results are unsatisfactory, refer to "Troubleshooting and Repair Guidelines" in the previous section for more information.

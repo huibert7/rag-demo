@@ -1,1 +1,0 @@
-Remove the expansion board from the slot (refer to"Working with PC Boards" in Chapter 1 for further instructions on handling printed cir­cuit boards).

@@ -1,1 +1,0 @@
-The Alignment Test displays a series of vertical and horizontal lines to check that the monitor is properly aligned.

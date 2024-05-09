@@ -1,1 +1,0 @@
-Una vez completado esto, el programa regresa y prueba nuevamente el monitor, luego la impresora, y así sucesivamente. El ejercitador se ejecuta en este bucle continuo, ejecutando las pruebas en un ciclo repetido.

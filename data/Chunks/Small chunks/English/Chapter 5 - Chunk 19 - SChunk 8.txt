@@ -1,1 +1,0 @@
-Besides the monitor simply not working, if it's making a crackling noise, it might indicate a problem with the monitor interface. A missing cursor also indicates an interface problem.

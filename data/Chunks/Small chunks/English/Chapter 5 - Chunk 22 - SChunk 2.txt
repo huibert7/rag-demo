@@ -1,1 +1,0 @@
-If you press a character key on the keyboard, but do not see it displayed on the monitor, run the Character Set Test of the Monitor Diagnostic module. See if the character is displayed in that environment. If it is missing, this confirms a prob­lem with the character generator ROM.

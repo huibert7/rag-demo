@@ -1,1 +1,0 @@
-Using the proper equipment, the Apple II systems can talk to many other devices: a modem, printer, mouse, even another computer. Data and information are sent to and received from these peripherals. Communicating among different devices requires the services of a serial communication interface.

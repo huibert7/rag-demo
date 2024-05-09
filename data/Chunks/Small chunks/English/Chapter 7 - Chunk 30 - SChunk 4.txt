@@ -1,1 +1,0 @@
-If further error messages are displayed with the new diskette, the disk drive controller or the drive itself might be defective.

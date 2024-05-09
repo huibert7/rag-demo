@@ -1,1 +1,0 @@
-The Horizontal Tab Test checks all horizontal tab positions across the width of the printer carriage.

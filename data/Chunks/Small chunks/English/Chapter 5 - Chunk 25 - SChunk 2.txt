@@ -1,1 +1,0 @@
-If you're running an application using the low-resolution graphic mode, and certain sections of the screen appear blank, this indicates a problem with the low-resolution memory locations.

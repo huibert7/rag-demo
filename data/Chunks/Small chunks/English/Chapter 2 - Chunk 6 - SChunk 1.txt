@@ -1,1 +1,0 @@
-The Display Test fills the entire screen with a specified character, testing whether or not each location on the monitor is capable of displaying data.
