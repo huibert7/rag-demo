@@ -1,0 +1,1 @@
+If your Apple II configuration includes more than one disk drive, there might be an addressing problem from the software. Make sure that the disk is being properly addressed by the program in use.

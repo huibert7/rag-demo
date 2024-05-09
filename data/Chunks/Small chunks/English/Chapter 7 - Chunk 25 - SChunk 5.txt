@@ -1,0 +1,1 @@
+Again, all bad sectors are blocked out, including the new ones, so the diskette is like new again. Remember, however, that when a diskette is reformatted, all data on it is erased.

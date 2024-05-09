@@ -1,0 +1,1 @@
+On the II Plus and IIe, use the chip extractor to carefully remove the MC3470 and CA3146 chips, which control the board's read circuitry. On the IIc, remove the IWM chip from the motherboard. Take the chip(s) to an electronics supply store and obtain a replacement(s). Carefully install the new chip(s) in the socket.

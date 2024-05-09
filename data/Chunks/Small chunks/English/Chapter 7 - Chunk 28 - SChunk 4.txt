@@ -1,0 +1,1 @@
+A head crash is indicated if the system cannot read from, write to, or initialize a disk. Another indication is a grinding, scratching sound heard when a diskette is inserted into the drive.

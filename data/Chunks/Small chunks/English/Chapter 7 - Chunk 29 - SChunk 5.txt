@@ -1,0 +1,1 @@
+Remove the diskette from the drive, and check whether or not the write-pro­tect notch is covered with an adhesive write-protect tape. If it is, remove the tape and insert the diskette into the drive again. The system should now be able to write information onto the diskette.

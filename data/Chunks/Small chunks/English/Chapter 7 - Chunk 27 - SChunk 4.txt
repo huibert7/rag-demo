@@ -1,0 +1,1 @@
+On the II Plus and IIe, use the chip extractor to carefully remove the MC3470, CA3146, 74LS125, and ULN2003 chips from the disk drive con­ troller board. On the IIc, remove the IWM chip from the motherboard. Take the chip(s) to an electronics supply store and obtain a replacement(s). Care­fully install the new chip(s) in the socket(s).

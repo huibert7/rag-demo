@@ -1,0 +1,1 @@
+The disk drive has an in-use indicator light next to the drive door. This light indicates that the drive is currently executing a read or write operation. If your system boots up displaying the cursor on the screen, and the fan is running but the disk drive in-use indicator light is not illuminated, then there's a good chance that no power is being supplied to the disk drive.

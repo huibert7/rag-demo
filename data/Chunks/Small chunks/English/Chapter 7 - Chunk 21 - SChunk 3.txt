@@ -1,0 +1,1 @@
+Check how the diskette was inserted. If it's inserted upside-down, the drive cannot read from or write to it. The Apple II systems use horizontal disk drives, in which the diskette should be inserted face up, or diskette label up.

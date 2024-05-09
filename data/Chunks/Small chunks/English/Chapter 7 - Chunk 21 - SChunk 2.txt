@@ -1,0 +1,1 @@
+If your disk drive cannot read from or write to a diskette, try the following solutions.

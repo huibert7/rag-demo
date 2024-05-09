@@ -1,0 +1,1 @@
+Run the Disk Drive Diagnostic module on a blank, formatted diskette. If the diagnostic does not display any error messages with this diskette, then the original diskette was defective, and its backup should be used.

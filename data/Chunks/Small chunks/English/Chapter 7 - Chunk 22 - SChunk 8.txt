@@ -1,0 +1,1 @@
+If the disk drive does work, swap your disk drive controller with another system. If it does not work, then a certain chip on the drive controller board is faulty and should be replaced. Refer to "Working with IC Chips" in Chapter 1 for further instructions on replacing chips.

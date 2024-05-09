@@ -1,0 +1,1 @@
+Check that power is being supplied to the drive. Its power comes from the system unit power supply. Check that the drive is properly connected to the system unit.
