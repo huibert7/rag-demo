@@ -1,0 +1,1 @@
+Procedures for each of these are covered in Chapter 3, under "System Unit Troubleshooting and Repair Guidelines.". Each subsystem chapter that follows lists several more specific solutions to try when troubleshooting a problem.

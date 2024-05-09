@@ -1,0 +1,1 @@
+Follow the instructions that come with the cleaning kit. This will consist of inserting the cleaning diskette into the disk drive, and entering a command that causes the diskette to rotate. In this manner, the read/write heads are flash-cleaned.
