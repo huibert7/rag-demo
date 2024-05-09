@@ -1,0 +1,1 @@
+There is usually a notch or dot on the chip as well as on the socket to help with alignment orientation when inserting a chip onto the socket. Have the notches of the chip and socket facing the same direction.

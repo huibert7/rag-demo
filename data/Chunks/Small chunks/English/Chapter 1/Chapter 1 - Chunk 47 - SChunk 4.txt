@@ -1,0 +1,1 @@
+When disconnecting several cables at the same time, make sure you know where they are connected . If they each have different types of connectors, the job is easy. However, if they are all similar to one another, mark or tag the connectors in some way so that you'll know where to connect which cables.

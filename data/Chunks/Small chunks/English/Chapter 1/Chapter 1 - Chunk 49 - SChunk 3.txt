@@ -1,0 +1,1 @@
+IC chips are either soldered onto the board, or socketed into chip sockets. Socketed chips can easily be removed and replaced. To do this, use a chip extractor to lift the chip off of its socket (Fig. 1-7).
