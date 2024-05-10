@@ -1,1 +1,1 @@
-Recreate the situation that originally caused the problem. This might consist of running a particular software program, or going through a specific sequence of events in a certain environment. If the problem does not occur now, then the problem has most certainly been repaired.
+Recree la situación que originalmente causó el problema. Esto podría consistir en ejecutar un programa de software particular o pasar por una secuencia específica de eventos en un entorno determinado. Si el problema no ocurre ahora, lo más seguro es que ya se haya solucionado.

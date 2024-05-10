@@ -1,1 +1,1 @@
-If the disk drive is to be tested, the read/write test is run, with records filling the disk and then being read back. The disk drives include some of the most delicate components of the entire system, and should be tested after repair.
+Si se va a probar la unidad de disco, se ejecuta la prueba de lectura/escritura, llenando los registros el disco y luego volviéndose a leer. Las unidades de disco incluyen algunos de los componentes más delicados de todo el sistema y deben probarse después de la reparación.

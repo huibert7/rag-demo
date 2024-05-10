@@ -1,1 +1,1 @@
-A second prompt asks if the printer is to be tested. Again, enter Y or N. If the answer is yes, you are then prompted to enter the printer carriage length and the printer controller slot number.
+Un segundo mensaje pregunta si se debe probar la impresora. Nuevamente, ingrese Y o N. Si la respuesta es sí, se le pedirá que ingrese la longitud del carro de la impresora y el número de ranura (slot 0 a 7) del controlador de la impresora.

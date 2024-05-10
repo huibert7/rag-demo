@@ -1,1 +1,1 @@
-Burn-in is routinely practiced as an important segment of industrial manufac­turing and product testing. Burn-in thoroughly tests and exercises the Apple II system and should be done for 12 to 24 hours.
+El "burn-in" se practica habitualmente como un segmento importante de la fabricación industrial y las pruebas de productos. El ejercicio de "burn-in" prueba y ejercita minuciosamente el sistema Apple II y debe realizarse durante 12 a 24 horas.

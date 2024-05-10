@@ -1,1 +1,1 @@
-If all three subsystems are included in the Exerciser, one cycle takes approximately 25 minutes, with 20 of those minutes devoted to the disk drive portion of the test.
+Si los tres subsistemas están incluidos en el Ejercitador, un ciclo dura aproximadamente 25 minutos, de los cuales 20 se dedican a la parte de la prueba de la unidad de disco.

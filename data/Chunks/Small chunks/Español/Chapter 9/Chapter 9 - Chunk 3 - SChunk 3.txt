@@ -1,1 +1,1 @@
-This Exerciser module checks various components of the Apple II system and leaves it running in a continuous mode so that it can burn in for several hours, even overnight.
+Este módulo de ejercicio intenso comprueba varios componentes del sistema Apple II y lo deja funcionando en modo continuo para que pueda funcionar durante varias horas, incluso durante la noche.

@@ -1,1 +1,1 @@
-Running the Subsystem Diagnostic.
+Ejecutar el módulo de diagnóstico del subsistema

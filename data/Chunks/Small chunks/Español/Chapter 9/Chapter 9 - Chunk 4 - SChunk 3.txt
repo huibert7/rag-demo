@@ -1,1 +1,1 @@
-This section describes these three aspects of testing, and suggests what should be done if testing reveals a problem.
+Esta sección describe estos tres aspectos de las pruebas y sugiere qué se debe hacer si las pruebas revelan un problema.

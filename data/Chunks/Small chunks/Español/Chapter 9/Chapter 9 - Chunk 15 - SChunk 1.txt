@@ -1,1 +1,1 @@
-After this is completed, the program loops back and tests the monitor again, then the printer, and so forth. The Exerciser runs in this continuous loop, running the tests in a repeated cycle.
+Una vez completado esto, el programa regresa y prueba nuevamente el monitor, luego la impresora, y así sucesivamente. El ejercitador se ejecuta en este bucle continuo, ejecutando las pruebas en un ciclo repetido.

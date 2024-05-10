@@ -1,1 +1,1 @@
-If the system unit has been serviced, run each module with various combinations to test all aspects of the system unit's functionality.
+Si se ha reparado la unidad del sistema, ejecute cada módulo con varias combinaciones para probar todos los aspectos de la funcionalidad de la unidad del sistema.

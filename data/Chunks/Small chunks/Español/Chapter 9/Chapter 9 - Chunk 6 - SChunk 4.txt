@@ -1,1 +1,1 @@
-If the keyboard had a malfunction, run the Keyboard Diagnostic module.
+Si el teclado tuvo un mal funcionamiento, ejecute el módulo de diagnóstico del teclado.

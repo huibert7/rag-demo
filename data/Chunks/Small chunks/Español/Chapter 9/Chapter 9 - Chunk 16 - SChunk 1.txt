@@ -1,1 +1,1 @@
-If the Exerciser is interrupted while running the disk drive test, there could be a file called "TEST" in the diskette's catalog listing. Delete this file from the diskette. Normally the diagnostic removes this file after its run is completed.
+Si el Ejercitador se interrumpe mientras ejecuta la prueba de la unidad de disco, podría haber un archivo llamado "TEST" en la lista del catálogo del disquete. Elimine este archivo del disquete. Normalmente, el diagnóstico elimina este archivo una vez completada su ejecución.

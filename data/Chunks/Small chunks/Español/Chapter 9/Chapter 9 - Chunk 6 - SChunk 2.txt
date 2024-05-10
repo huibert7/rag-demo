@@ -1,1 +1,1 @@
-If there are no problems at this point, load the System Diagnostic Program as described in Chapter 2. Run the particular module that pertains to the subsystem that was just repaired.
+Si no hay problemas en este punto, cargue el Programa de diagnóstico del sistema como se describe en el Capítulo 2. Ejecute el módulo particular que pertenece al subsistema que acaba de mandar reparar.

@@ -1,1 +1,1 @@
-Blank, formatted diskettes should be inserted into each of the drives being tested. Although you might wish to dim the monitor display, there is no danger from etching (see Chapter 5 for more information about etching}, because the display is continuously changing.
+Se deben insertar disquetes en blanco y formateados en cada una de las unidades que se prueban. Aunque es posible que desee atenuar la pantalla del monitor, no hay peligro de que se queme la pantalla, porque la pantalla cambia continuamente.

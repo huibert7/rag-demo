@@ -1,1 +1,1 @@
-The program then prompts you for the slot number of each of the drives to be tested. Enter the appropriate number, 0 through 7, as indicated on the expansion slot itself. If running a IIe, specify slot 6.
+Luego, el programa le solicitará el número de ranura de cada una de las unidades que se van a probar. Ingrese el número apropiado, del 0 al 7, como se indica en la ranura de expansión. Si tiene un Apple IIc, especifique la ranura 6.

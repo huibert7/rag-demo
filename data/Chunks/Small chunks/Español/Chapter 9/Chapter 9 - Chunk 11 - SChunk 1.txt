@@ -1,1 +1,1 @@
-The Exerciser begins with the monitor diagnostics, then goes to the printer diagnostics, and finally to the disk drive diagnostics. When complete, the Exer­ciser cycles back to the monitor to repeat the process.
+El Ejercitador comienza con los diagnósticos del monitor, luego pasa a los diagnósticos de la impresora y, finalmente, a los diagnósticos de la unidad de disco. Cuando finaliza, el ejercitador regresa al monitor para repetir el proceso.

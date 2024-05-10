@@ -1,1 +1,1 @@
-Adhering to this testing sequence and following these suggestions will ensure system integrity. It will also help prevent the loss of any programs, data, and time when actual work is performed on the recently repaired system.
+Cumplir con esta secuencia de pruebas y seguir estas sugerencias garantizará la integridad del sistema. También ayudará a evitar la pérdida de programas, datos y tiempo cuando se realice el trabajo real en el sistema recientemente reparado.

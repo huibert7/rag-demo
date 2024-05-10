@@ -1,1 +1,1 @@
-Running the System Exerciser.
+Ejecución del ejercitador del sistema
