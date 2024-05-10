@@ -1,5 +1,0 @@
-### Burning In the System.
-
-Refer to "Running the System Exerciser" later in this chapter, and run the Exerciser module. This will thoroughly burn in the new or recently repaired computer as an entire system working together. Run all functions: the monitor, printer, and disk drives for at least three cycles. Let the monitor and disk drive portions of the Exerciser run for about 12 hours. Occasionally observe the results of the burn-in to see whether any errors have occurred.
-
-When checking for the original problem, run the appropriate subsystem diag­nostic module, and thoroughly run the Exerciser. If no old or new problems occur, you can be assured that your entire system is in an optimum state, and that the computer can be trusted with programs and data.
