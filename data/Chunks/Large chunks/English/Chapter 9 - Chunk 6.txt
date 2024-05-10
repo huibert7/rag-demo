@@ -1,2 +1,0 @@
-Running the Subsystem Diagnostic. If there are no problems at this point, load the System Diagnostic Program as described in Chapter 2. Run the particular module that pertains to the subsystem that was just repaired. For example, if the printer has recently been repaired, run the Printer Diag­nostic module. If the keyboard had a malfunction, run the Keyboard Diagnostic module. If the system unit has been serviced, run each module with various combinations to test all aspects of the system unit's functionality.
-
