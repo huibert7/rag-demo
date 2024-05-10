@@ -1,1 +1,1 @@
-Recree la situación que originalmente causó el problema. Esto podría consistir en ejecutar un programa de software particular o pasar por una secuencia específica de eventos en un entorno determinado. Si el problema no ocurre ahora, lo más seguro es que ya se haya solucionado.
+Adhering to this testing sequence and following these suggestions will ensure system integrity. It will also help prevent the loss of any programs, data, and time when actual work is performed on the recently repaired system.

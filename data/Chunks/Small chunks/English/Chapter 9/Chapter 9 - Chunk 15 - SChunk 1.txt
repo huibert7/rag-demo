@@ -1,1 +1,1 @@
-Si el Ejercitador se interrumpe mientras ejecuta la prueba de la unidad de disco, podría haber un archivo llamado "TEST" en la lista del catálogo del disquete. Elimine este archivo del disquete. Normalmente, el diagnóstico elimina este archivo una vez completada su ejecución.
+After this is completed, the program loops back and tests the monitor again, then the printer, and so forth. The Exerciser runs in this continuous loop, running the tests in a repeated cycle.

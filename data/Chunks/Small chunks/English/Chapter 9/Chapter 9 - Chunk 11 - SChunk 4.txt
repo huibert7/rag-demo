@@ -1,1 +1,1 @@
-Para ejecutar el Ejercitador del sistema, siga las instrucciones. Luego, desde el Menú principal de Diagnóstico del sistema, presione E para iniciar el módulo Ejercitador. La pantalla se borrará y un mensaje le preguntará si desea probar el monitor, sí o no. Ingrese Y o N y presione RETURN.
+The System Exerciser module operates under BASIC, like the rest of the System Diagnostic Program. Because of this, the Exerciser is also testing an extensive section of the system unit's machine instructions through BASIC, which is written in the CPU machine language.

@@ -1,1 +1,1 @@
-Si no hay problemas en este punto, cargue el Programa de diagnóstico del sistema como se describe en el Capítulo 2. Ejecute el módulo particular que pertenece al subsistema que acaba de mandar reparar.
+Before accepting and paying for a repair, have the repair technician demon­strate that the problem has been repaired. While still at the shop, try the system out for yourself. This can save a lot of time, especially if the problem has not been fixed after all, or if there was an original miscommunication of the problem.

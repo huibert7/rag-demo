@@ -1,1 +1,1 @@
-Si los tres subsistemas están incluidos en el Ejercitador, un ciclo dura aproximadamente 25 minutos, de los cuales 20 se dedican a la parte de la prueba de la unidad de disco.
+If the printer is included in the Exerciser, the printer tests begin upon comple­tion of the monitor testing. In total, 35 repetitions of the Sliding Alpha Test are printed. It runs through the Character Set Print Test, and then prints a line of Es for the Echo Character Print Test. The Horizontal Tab Test, and finally the Line Space Test are run, providing you with a thorough printer test.

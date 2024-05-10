@@ -1,1 +1,1 @@
-Esta sección describe estos tres aspectos de las pruebas y sugiere qué se debe hacer si las pruebas revelan un problema.
+This Exerciser module checks various components of the Apple II system and leaves it running in a continuous mode so that it can burn in for several hours, even overnight.

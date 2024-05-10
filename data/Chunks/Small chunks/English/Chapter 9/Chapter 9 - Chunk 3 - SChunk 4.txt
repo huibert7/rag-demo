@@ -1,1 +1,1 @@
-Cumplir con esta secuencia de pruebas y seguir estas sugerencias garantizará la integridad del sistema. También ayudará a evitar la pérdida de programas, datos y tiempo cuando se realice el trabajo real en el sistema recientemente reparado.
+Burn-in is routinely practiced as an important segment of industrial manufac­turing and product testing. Burn-in thoroughly tests and exercises the Apple II system and should be done for 12 to 24 hours.

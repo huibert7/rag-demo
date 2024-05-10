@@ -1,0 +1,1 @@
+This means the Exerciser could be run for hours, even overnight if desired.

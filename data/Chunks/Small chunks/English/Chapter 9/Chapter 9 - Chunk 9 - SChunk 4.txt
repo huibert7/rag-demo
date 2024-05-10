@@ -1,0 +1,1 @@
+Once the parameters are set up, the System Exerciser immediately begins to perform the continuous test on the specified devices.

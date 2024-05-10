@@ -1,0 +1,1 @@
+Finally, the program prompts you to enter which drive is to be tested. Each drive board can control two disk drives, drive 1 or 2. Enter the disk address for the drive to be tested for that board.

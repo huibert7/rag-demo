@@ -1,1 +1,1 @@
-Hay tres aspectos que hay que cuidar para probar el sistema Apple II cuando es nuevo o cuando regresa de reparación: Comprobar que el problema original ha sido resuelto. Ejecutar el módulo de diagnóstico del subsistema. Probar a fondo el sistema en su conjunto con el módulo Ejercitador del Sistema.
+The diagnostic module covered in this chapter is a program that thoroughly exercises the Apple II when it's new, when its configuration changes, or when it returns from servicing.

@@ -1,1 +1,1 @@
-Si se trata de un problema para el cual no hay ningún mensaje de error, el programa simplemente se detiene en el punto donde ocurrió el error y probablemente usted pueda ver por sí mismo cuál es el problema.
+Press CTRL RESET to halt the Exerciser. This ends the System Exerciser module, and as a result, halts the entire System Diagnostic Program. To return to the Exerciser, enter GOTO 4300 at the Applesoft BASIC right bracket prompt. The system returns to the System Diagnostic Program at line 4300 in the code.

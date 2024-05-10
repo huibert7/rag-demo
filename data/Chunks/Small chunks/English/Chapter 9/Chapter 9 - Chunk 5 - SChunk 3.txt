@@ -1,1 +1,1 @@
-Si la impresora ha sido reparada recientemente, ejecute el módulo de Diagnóstico de la impresora.
+After the unit is back in place, securely cable the entire system together. Make sure the entire system is operating as normal.

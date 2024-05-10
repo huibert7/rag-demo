@@ -1,1 +1,1 @@
-Si se va a probar el monitor, se ejecuta la prueba de visualización con la letra "X" en la pantalla, se ejecuta la prueba de conjunto de caracteres y, finalmente, se ejecuta la prueba de desplazamiento durante 50 repeticiones.
+Function of the Exerciser Module.

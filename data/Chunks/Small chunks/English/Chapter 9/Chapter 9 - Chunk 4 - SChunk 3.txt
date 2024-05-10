@@ -1,1 +1,1 @@
-Una vez que la unidad vuelva a estar en su lugar, conecte de forma segura todo el sistema. Asegúrese de que todo el sistema esté funcionando normalmente.
+This section describes these three aspects of testing, and suggests what should be done if testing reveals a problem.

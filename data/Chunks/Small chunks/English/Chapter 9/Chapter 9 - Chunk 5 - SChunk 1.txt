@@ -1,1 +1,1 @@
-Ejecutar el módulo de diagnóstico del subsistema
+Checking for the Original Problem.

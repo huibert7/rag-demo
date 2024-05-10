@@ -1,1 +1,1 @@
-Finalmente, el programa le solicita que ingrese qué unidad se va a probar. Cada tarjeta controladora puede controlar dos unidades de disco, la unidad 1 o 2. Ingrese la dirección del disco de la unidad que se va a probar para esa tarjeta.
+To run the System Exerciser, follow the instructions provided in "Running the Diagnostic Program" in Chapter 2. Then from the System Diagnostic Main Menu, press E to initiate the Exerciser module. The screen will clear and a prompt will ask you if the monitor is to be tested, yes or no. Enter Y or N and press RETURN.

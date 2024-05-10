@@ -1,1 +1,1 @@
-Para ejecutar el Ejercitador del sistema en el Apple II, asegúrese de que los componentes estén listos para horas de pruebas. Si la impresora forma parte de la prueba, cárguela con una cantidad suficiente de papel continuo. Compruebe que haya suficiente cinta para durar toda la prueba de la impresora.
+This cycle continues until the CTRL RESET is pressed to interrupt the Exerciser. Upon interruption, the message, "TOTAL PASSES THROUGH EXERCISER-X", is displayed to indi­cate the number of cycles the Exerciser has run.

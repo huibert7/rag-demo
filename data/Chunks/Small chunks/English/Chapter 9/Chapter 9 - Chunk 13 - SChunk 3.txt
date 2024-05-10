@@ -1,1 +1,1 @@
-Si las unidades de disco están incluidas en el Ejercitador, la prueba de la unidad de disco comienza al finalizar la prueba de la impresora. La prueba de escritura/lectura se ejecuta en cada unidad de disco especificada para la prueba.
+The program then prompts you for the slot number of each of the drives to be tested. Enter the appropriate number, 0 through 7, as indicated on the expansion slot itself. If running a IIe, specify slot 6.

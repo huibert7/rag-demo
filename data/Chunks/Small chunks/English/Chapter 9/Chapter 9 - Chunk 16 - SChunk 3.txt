@@ -1,0 +1,1 @@
+If it is a problem for which there is no error message, the program simply halts at the point where the error occurred, and you can probably see for yourself what the problem is.

@@ -1,1 +1,1 @@
-Luego, el programa le solicitará el número de ranura de cada una de las unidades que se van a probar. Ingrese el número apropiado, del 0 al 7, como se indica en la ranura de expansión. Si tiene un Apple IIc, especifique la ranura 6.
+Blank, formatted diskettes should be inserted into each of the drives being tested. Although you might wish to dim the monitor display, there is no danger from etching (see Chapter 5 for more information about etching}, because the display is continuously changing.

@@ -1,1 +1,1 @@
-Ejecución del ejercitador del sistema
+The Exerciser begins with the monitor diagnostics, then goes to the printer diagnostics, and finally to the disk drive diagnostics. When complete, the Exer­ciser cycles back to the monitor to repeat the process.
