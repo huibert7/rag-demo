@@ -1,7 +1,1 @@
-## Description and Function of the Monitor.
-
-The monitor is also known as a cathode ray tube (CRT), or video display. It is the screen on which you see the status of the program currently being used (Fig. 5-1).
-
-The Apple II systems all support the 40-column x 24-row screen display format. In addition, the 80-column x 24-row display mode is built into the IIe and IIc, and is available as an option on the II Plus.
-
-The Apple II systems support both low-resolution and high-resolution graphics modes. The low-resolution mode consists of 40 x 80 screen locations which can be displayed in 16 different colors. The high-resolution mode supports 140 x 192 pixel locations in six colors, or 280 x 192 pixel locations in black and white .
+Description and Function of the Monitor. The monitor is also known as a cathode ray tube (CRT), or video display. It is the screen on which you see the status of the program currently being used (Fig. 5-1). The Apple II systems all support the 40-column x 24-row screen display format. In addition, the 80-column x 24-row display mode is built into the IIe and IIc, and is available as an option on the II Plus. The Apple II systems support both low-resolution and high-resolution graphics modes. The low-resolution mode consists of 40 x 80 screen locations which can be displayed in 16 different colors. The high-resolution mode supports 140 x 192 pixel locations in six colors, or 280 x 192 pixel locations in black and white .
