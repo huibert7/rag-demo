@@ -1,3 +1,1 @@
-**Color Monitor**. The color monitor is a high-resolution monitor that can dis­play the pixels in different colors. A color monitor can be a vital asset when using the computer to do business graphics or design work. The Apple graphics monitors accommodate 140 x 192 pixels with six colors.
-
-If you use a color television as the computer monitor, colors are already available to you.
+Color Monitor. The color monitor is a high-resolution monitor that can dis­play the pixels in different colors. A color monitor can be a vital asset when using the computer to do business graphics or design work. The Apple graphics monitors accommodate 140 x 192 pixels with six colors. If you use a color television as the computer monitor, colors are already available to you.
