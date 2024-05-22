@@ -1,15 +1,1 @@
-### Problem: Missing Low-Resolution Location.
-
-If you're running an application using the low-resolution graphic mode, and certain sections of the screen appear blank, this indicates a problem with the low-resolution memory locations. Try the following solutions.
-
-**Solutions**:
-
-- Run the Low-Resolution Test of the Monitor Diagnostic module. This will confirm whether or not there is a problem with the low-resolution memory locations. If any part of the screen is blank instead of filled, then there is a problem with those memory locations.
-
-  If the Low-Resolution Test reveals no blank spots, then the problem is not with the monitor, but with the software you were using when the blanks occurred.
-
-  If the test reveals blank spots, then there is a problem with video memory as controlled by one of the RAM chips. Each RAM chip is labeled RAM beside its socket on the floor of the motherboard. Unplug your system, open it up, and carefully remove one of the RAMs using a chip extractor (refer to "Working with IC Chips" in Chapter 1). Take the chip to an electronics supply store and buy one or two exact replacements. Replace the new RAM in the original socket, and check if the problem is still present.
-
-- If the location is still blank, unplug your system again, open it up, and replace the old RAM in its original socket. Remove a different RAM and replace it will the new one. Turn the system on again and check for the problem. Continue in this manner, shotgunning the bank of RAM chips until the malfunctioning location is present once again.
-
-- If the character location remains blank after replacing all the RAMS, take the motherboard in for servicing.
+Problem: Missing Low-Resolution Location. If you're running an application using the low-resolution graphic mode, and certain sections of the screen appear blank, this indicates a problem with the low-resolution memory locations. Try the following solutions. Solutions: Run the Low-Resolution Test of the Monitor Diagnostic module. This will confirm whether or not there is a problem with the low-resolution memory locations. If any part of the screen is blank instead of filled, then there is a problem with those memory locations. If the Low-Resolution Test reveals no blank spots, then the problem is not with the monitor, but with the software you were using when the blanks occurred. If the test reveals blank spots, then there is a problem with video memory as controlled by one of the RAM chips. Each RAM chip is labeled RAM beside its socket on the floor of the motherboard. Unplug your system, open it up, and carefully remove one of the RAMs using a chip extractor (refer to "Working with IC Chips" in Chapter 1). Take the chip to an electronics supply store and buy one or two exact replacements. Replace the new RAM in the original socket, and check if the problem is still present. If the location is still blank, unplug your system again, open it up, and replace the old RAM in its original socket. Remove a different RAM and replace it will the new one. Turn the system on again and check for the problem. Continue in this manner, shotgunning the bank of RAM chips until the malfunctioning location is present once again. If the character location remains blank after replacing all the RAMS, take the motherboard in for servicing.
