@@ -1,9 +1,1 @@
-### Problem: Defective or Missing Character.
-
-If you press a character key on the keyboard, but do not see it displayed on the monitor, run the Character Set Test of the Monitor Diagnostic module. See if the character is displayed in that environment. If it is missing, this confirms a prob­lem with the character generator ROM.
-
-If you notice that part of a character is missing or malformed, run the Display Test to display that character across the entire screen. If the defect appears in every instance of the character throughout the screen, this also indicates a prob­lem with the character generator.
-
-To solve this problem, you can either replace the character generator ROM (chip 2513 on the Apple II Plus and IIe), or take the motherboard to an Apple II service outlet and have them replace it for you.
-
-If you run the Display Test and do not see all the expected characters, or if the display is incorrect or garbled, then there is a problem with the system unit itself. Refer to Chapter 3 on how to troubleshoot the system unit.
+Problem: Defective or Missing Character. If you press a character key on the keyboard, but do not see it displayed on the monitor, run the Character Set Test of the Monitor Diagnostic module. See if the character is displayed in that environment. If it is missing, this confirms a prob­lem with the character generator ROM. If you notice that part of a character is missing or malformed, run the Display Test to display that character across the entire screen. If the defect appears in every instance of the character throughout the screen, this also indicates a prob­lem with the character generator. To solve this problem, you can either replace the character generator ROM (chip 2513 on the Apple II Plus and IIe), or take the motherboard to an Apple II service outlet and have them replace it for you. If you run the Display Test and do not see all the expected characters, or if the display is incorrect or garbled, then there is a problem with the system unit itself. Refer to Chapter 3 on how to troubleshoot the system unit.
