@@ -1,3 +1,1 @@
-## Monitor Troubleshooting and Repair Guidelines.
-
-This section describes problems that can occur with your monitor, and how to troubleshoot and fix them. Many of the troubleshooting steps include running the Monitor Diagnostic module. Further instructions and explanations of this module are provided in the next section entitled "Running the Diagnostic Mod­ule."
+Monitor Troubleshooting and Repair Guidelines. This section describes problems that can occur with your monitor, and how to troubleshoot and fix them. Many of the troubleshooting steps include running the Monitor Diagnostic module. Further instructions and explanations of this module are provided in the next section entitled "Running the Diagnostic Mod­ule."
